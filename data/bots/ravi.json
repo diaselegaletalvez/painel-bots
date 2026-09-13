@@ -3,12 +3,20 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "ASO das duas apps Zelo diagnosticado e proposto; screenshots e copy prontos pra sua aprovação.",
-  "proximo_passo": "Aprovar título/subtítulo e mandar produzir os screenshots antes de qualquer mudança na ficha live.",
-  "bloqueio": "Preciso da sua decisão no título/subtítulo do app Pais e de alguém pra desenhar os screenshots.",
-  "progresso": 55,
-  "atualizado_em": "2026-09-13T16:17:47-03:00",
+  "resumo": "ASO proposto; CRIATIVOS com copy Connect e brief de screenshots. Sem spend até a ficha nova estar live.",
+  "proximo_passo": "Merge dos PRs de marketing, produzir screenshots e colar a copy no Connect — ou me diga se muda título/subtítulo.",
+  "bloqueio": "Arte dos screenshots e sua confirmação pra publicar a ficha. Sem isso não proponho campanha paga.",
+  "progresso": 70,
+  "atualizado_em": "2026-09-13T16:31:30-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:31:30-03:00",
+      "texto": "CRIATIVOS.md: copy pra colar no Connect + brief de 6+5 screenshots."
+    },
+    {
+      "quando": "2026-09-13T16:31:30-03:00",
+      "texto": "Ordem do Dias via CoS: segui aquisição sem gastar; campanha só depois do ASO live."
+    },
     {
       "quando": "2026-09-13T16:17:47-03:00",
       "texto": "ASO.md escrito no marketing: listing atual, proposta, keywords, spec de screenshots."
