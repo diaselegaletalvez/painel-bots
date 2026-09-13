@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "esperando_voce",
-  "resumo": "Alarme Zelo: usuários no RC sem nenhum trial ou pagamento. ASC e InfinitePay ainda bloqueados.",
-  "proximo_passo": "Dias/Gus olharem checkout e SKUs; login ASC + QR InfinitePay pra fechar buracos.",
-  "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular). Decisão: Gus/Dias no checkout do Zelo.",
-  "progresso": 75,
-  "atualizado_em": "2026-09-13T16:31:41-03:00",
+  "resumo": "Rotina diária de receita ajustada (dias úteis 10:30). Continua faltando ASC e InfinitePay.",
+  "proximo_passo": "Login App Store Connect e QR InfinitePay; rotina roda sozinha nos dias úteis.",
+  "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
+  "progresso": 80,
+  "atualizado_em": "2026-09-13T19:13:27-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:13:27-03:00",
+      "texto": "Rotina única ajustada: Ivo — receita diária, dias úteis 10:30 BRT."
+    },
     {
       "quando": "2026-09-13T16:31:41-03:00",
       "texto": "Alarme: Zelo com clientes e zero trials; keys ASC ok no RC. Rotina diária de alarme criada."
