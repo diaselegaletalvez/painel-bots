@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Claquete v0.1: export MP4 + repo privado no ar; build ok. Falta seu smoke (abrir, editar, exportar).",
-  "proximo_passo": "Você abre o Claquete.app, importa um clipe e exporta um MP4 pra fechar o item.",
-  "bloqueio": "Smoke do Claquete no Mac: abrir app → importar → timeline → exportar MP4.",
-  "progresso": 55,
-  "atualizado_em": "2026-09-13T19:48:00-03:00",
+  "resumo": "Claquete 0.1.1 pronto no disco (build+smoke export), mas o Mac caiu antes do push.",
+  "proximo_passo": "Reconecta o Gabriels-Laptop.local que eu committo e subo o v0.1.1.",
+  "bloqueio": "Reconectar o Mac Gabriels-Laptop.local pra eu dar push do Claquete.",
+  "progresso": 60,
+  "atualizado_em": "2026-09-13T19:58:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:58:00-03:00",
+      "texto": "Claquete 0.1.1 implementado e build ok; Mac offline — push pendente."
+    },
     {
       "quando": "2026-09-13T19:48:00-03:00",
       "texto": "Claquete: export MP4, README, repo privado diaselegaletalvez/claquete — pedi smoke."
