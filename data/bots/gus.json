@@ -2,11 +2,16 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "esperando_voce",
+  "resumo": "Rascunho do V3.md aberto em PR no zelo-pais (branch v3); escopo baseado em roadmaps existentes, sem código de app.",
+  "proximo_passo": "Aguardar Dias aprovar o V3.md antes de começar a construir.",
+  "bloqueio": "Aprovar V3.md (PR https://github.com/diaselegaletalvez/zelo-pais/pull/1) antes de eu começar a construir.",
+  "progresso": 5,
+  "atualizado_em": "2026-09-13T14:09:54-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T14:09:54-03:00",
+      "texto": "Escopo v3: PR do V3.md em zelo-pais (#1). Status esperando aprovação de Dias."
+    }
+  ]
 }
