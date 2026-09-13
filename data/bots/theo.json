@@ -2,11 +2,16 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "esperando_voce",
+  "resumo": "Auditei o posto7 e abri o PR #1 com GAME.md + ASSETS.md (design only, sem gameplay).",
+  "proximo_passo": "Esperar o Dias escolher o esquema de controle (toque / arrastar / inclinação) e mergear o PR de design.",
+  "bloqueio": "Preciso que você escolha o esquema de controle (1 toque para ir / 2 arrastar em qualquer lugar / 3 inclinação) antes de eu começar a buildar. Joystick virtual continua banido.",
+  "progresso": 8,
+  "atualizado_em": "2026-09-13T15:47:59-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T15:47:59-03:00",
+      "texto": "PR de design aberto: posto7#1 (GAME.md + ASSETS.md). Status esperando escolha de controle."
+    }
+  ]
 }
