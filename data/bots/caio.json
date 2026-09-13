@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Revisão semanal feita. Ikly ainda espera seu smoke no Mac; triagem e look360/gerador não andaram.",
-  "proximo_passo": "Você faz o smoke do Ikly (.pkg no Mac) e me diz o resultado.",
-  "bloqueio": "Smoke test do Ikly no Mac (Apple Silicon): instalar .pkg, abrir, login, rodar um agent.",
+  "resumo": "Pedido pra fechar o Clatac (editor de vídeo), mas não achei repo com esse nome no org nem no PENDENTES.",
+  "proximo_passo": "Dias confirma o nome/repo certo do editor de vídeo pra eu priorizar.",
+  "bloqueio": "Nome ou URL do repo do editor de vídeo (Clatac não existe no GitHub org).",
   "progresso": 40,
-  "atualizado_em": "2026-09-13T19:17:05-03:00",
+  "atualizado_em": "2026-09-13T19:38:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:38:00-03:00",
+      "texto": "Pitaca pediu fechar Clatac; inventário sem match — pedi o repo certo ao Dias."
+    },
     {
       "quando": "2026-09-13T19:17:05-03:00",
       "texto": "Revisão semanal: ikly checado (release ok, falta smoke); triagem e look360/gerador sem movimento; nenhum push de código nos TERMINAR esta semana."
