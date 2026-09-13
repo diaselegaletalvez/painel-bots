@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "esperando_voce",
-  "resumo": "Limites por app no zelo-pais na branch v3 (PR #1); build tsc ok; rebase sobre version/2.0.0.",
-  "proximo_passo": "Próximo run: badge de tempo extra no pais, ou ops no filho se houver acesso ao repo zelo.",
-  "bloqueio": "Revisar/mergear o PR https://github.com/diaselegaletalvez/zelo-pais/pull/1 (limites por app) quando quiser.",
-  "progresso": 25,
-  "atualizado_em": "2026-09-13T14:13:34-03:00",
+  "status": "trabalhando",
+  "resumo": "Implementando badge de tempo extra no zelo-pais (v3); em seguida vai pro app filho.",
+  "proximo_passo": "Entregar badge no pais com tsc ok, depois ops no zelo (filho).",
+  "bloqueio": null,
+  "progresso": 30,
+  "atualizado_em": "2026-09-13T14:36:24-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T14:36:24-03:00",
+      "texto": "Iniciando badge de tempo extra no pais; depois passa pro filho."
+    },
     {
       "quando": "2026-09-13T14:13:34-03:00",
       "texto": "Entregue limites por app no pais (v3 / PR #1). tsc ok. Run encerrado."
