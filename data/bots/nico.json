@@ -2,13 +2,17 @@
   "slug": "nico",
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
-  "status": "trabalhando",
-  "resumo": "1 ordem entregue ao Rex (backup Supabase); inbox limpo",
-  "proximo_passo": "Esperar resposta do Rex e gravar em respostas/rex/",
+  "status": "concluido",
+  "resumo": "Rotina weekday criada: inbox às 9, 13 e 17 (SP)",
+  "proximo_passo": "Rodar a rotina e gravar resposta do Rex quando chegar",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T16:32:12-03:00",
+  "atualizado_em": "2026-09-13T19:14:05-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:14:05-03:00",
+      "texto": "Rotina permanente Nico — inbox ordens (seg–sex 9/13/17 America/Sao_Paulo)."
+    },
     {
       "quando": "2026-09-13T16:32:02-03:00",
       "texto": "Entregue rex/20260913-160542 (backup Supabase Zelo/GameTrack); aguardando resposta."
