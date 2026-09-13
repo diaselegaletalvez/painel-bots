@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Sincronizei bots.json: inclui ivo (arquivo já estava na main).",
-  "proximo_passo": "Quando vito.json e ravi.json entrarem na main, metê-los no bots.json.",
+  "resumo": "Incluí tom no bots.json; vários status ainda só em PR, não na main.",
+  "proximo_passo": "Meter vito/ravi no índice quando o json deles entrar na main.",
   "bloqueio": null,
-  "progresso": 40,
-  "atualizado_em": "2026-09-13T16:31:26-03:00",
+  "progresso": 50,
+  "atualizado_em": "2026-09-13T19:28:22-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:28:22-03:00",
+      "texto": "Adicionei tom ao bots.json (arquivo já na main)."
+    },
     {
       "quando": "2026-09-13T16:31:26-03:00",
       "texto": "Adicionei ivo ao bots.json. Vito e Ravi ainda só em PR/branch."
