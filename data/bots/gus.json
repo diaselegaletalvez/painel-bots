@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
   "status": "trabalhando",
-  "resumo": "Implementando badge de tempo extra no zelo-pais (v3); em seguida vai pro app filho.",
-  "proximo_passo": "Entregar badge no pais com tsc ok, depois ops no zelo (filho).",
+  "resumo": "Badge de tempo extra entregue no pais (PR #1); agora ops v3 no app filho (pairing, realtime, livekit).",
+  "proximo_passo": "Entregar pairing find-or-update, realtime publication e gate livekit-token no zelo.",
   "bloqueio": null,
-  "progresso": 30,
-  "atualizado_em": "2026-09-13T14:36:24-03:00",
+  "progresso": 40,
+  "atualizado_em": "2026-09-13T14:38:56-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T14:38:56-03:00",
+      "texto": "Badge de tempo extra no pais feito (tsc ok). Iniciando ops no app filho."
+    },
     {
       "quando": "2026-09-13T14:36:24-03:00",
       "texto": "Iniciando badge de tempo extra no pais; depois passa pro filho."
