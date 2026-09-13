@@ -1,0 +1,17 @@
+{
+  "slug": "tom",
+  "nome": "Tom",
+  "projeto": "Execucao no Mac",
+  "eventos": [
+    {
+      "quando": "2026-09-13T16:48:44.230747-03:00",
+      "texto": "Rodei 1 ordem(ns) no Mac, a ultima em posto7."
+    }
+  ],
+  "status": "trabalhando",
+  "resumo": "Rodei 1 ordem(ns) no Mac, a ultima em posto7.",
+  "proximo_passo": "Esperando a proxima ordem na caixa.",
+  "bloqueio": null,
+  "progresso": 100,
+  "atualizado_em": "2026-09-13T16:48:44.230747-03:00"
+}
