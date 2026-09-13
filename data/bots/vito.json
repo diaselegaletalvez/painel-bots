@@ -3,12 +3,16 @@
   "nome": "Vito",
   "projeto": "Reviews e suporte",
   "status": "esperando_voce",
-  "resumo": "Connect: 3 apps no ar, 0 reviews, 0 GRAVE. Play: conta aberta sem apps, publicacao bloqueada.",
+  "resumo": "Connect: 3 apps no ar, 0 reviews, 0 GRAVE. Play: 0 apps, publicacao bloqueada (identidade e telefone).",
   "proximo_passo": "Quando sair review, triar e mandar rascunho. Play so rende review depois de identidade e telefone.",
-  "bloqueio": "Nao tem rascunho pra aprovar (zero reviews). Play Console: confirmar identidade e telefone se quiser Android. Inbox ainda sem Gmail.",
+  "bloqueio": "Nao tem rascunho pra aprovar (zero reviews). Play: confirmar identidade e telefone se quiser Android. Inbox nao lida.",
   "progresso": 100,
   "atualizado_em": "2026-09-13T16:21:55-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:22:30-03:00",
+      "texto": "Play Console: 0 apps na conta, sem reviews Android."
+    },
     {
       "quando": "2026-09-13T16:21:55-03:00",
       "texto": "Play Console aberto: conta sem apps, publicacao bloqueada (identidade e telefone)."
