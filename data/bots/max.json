@@ -2,11 +2,16 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "bloqueado",
+  "resumo": "15 ideias analisadas, 0 passaram; capacity gate cego sem acesso ao pendentes.",
+  "proximo_passo": "Liberar acesso do Cursor ao repo pendentes e reler PENDENTES.md.",
+  "bloqueio": "Repo diaselegaletalvez/pendentes inacessível ao Cursor — capacity gate não dá pra fechar.",
+  "progresso": 85,
+  "atualizado_em": "2026-09-13T14:25:39-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T14:25:39-03:00",
+      "texto": "Ciclo 1: 15 ideias, 0 passaram. Sem analises. Aguardando acesso ao pendentes."
+    }
+  ]
 }
