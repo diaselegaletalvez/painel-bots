@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "trabalhando",
-  "resumo": "Persistência #3 no PR posto7#1 (sqlite native + localStorage web). Indo pro XP/level-up (#6).",
-  "proximo_passo": "Level-up no meio da run com 3 escolhas.",
+  "resumo": "XP/level-up (#6) no PR posto7#1. Seguindo pra 3 tipos de inimigo + armas desbloqueáveis (#7/#5).",
+  "proximo_passo": "Variedade de inimigos e 2 armas por progresso no hub.",
   "bloqueio": null,
-  "progresso": 30,
-  "atualizado_em": "2026-09-13T17:28:59-03:00",
+  "progresso": 40,
+  "atualizado_em": "2026-09-13T18:54:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T18:54:38-03:00",
+      "texto": "XP/level-up (#6) verificado na web (lv12, 149s/286/+721)."
+    },
     {
       "quando": "2026-09-13T17:28:59-03:00",
       "texto": "Save sqlite (#3) no PR #1; web reload ok; native sem device nesta run."
