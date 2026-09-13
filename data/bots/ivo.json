@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "esperando_voce",
-  "resumo": "ASC e InfinitePay bloqueados; Play entrou sem dados de venda. Falta autorizar RevenueCat.",
-  "proximo_passo": "Autorizar RevenueCat; login Apple no ASC; QR InfinitePay no celular.",
-  "bloqueio": "1) Card RevenueCat neste chat. 2) Login Apple no App Store Connect. 3) Escanear QR da InfinitePay no app do celular.",
-  "progresso": 45,
-  "atualizado_em": "2026-09-13T16:09:02-03:00",
+  "resumo": "Primeira foto pronta no dinheiro: Zelo zerado no RC; ASC e InfinitePay ainda bloqueados.",
+  "proximo_passo": "Login no App Store Connect e QR da InfinitePay no celular.",
+  "bloqueio": "App Store Connect: login Apple + 2FA. InfinitePay: escanear QR no app do celular.",
+  "progresso": 70,
+  "atualizado_em": "2026-09-13T16:09:48-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:09:48-03:00",
+      "texto": "RECEITA.md escrito: Zelo lido no RevenueCat (zero); ASC e InfinitePay bloqueados."
+    },
     {
       "quando": "2026-09-13T16:09:02-03:00",
       "texto": "ASC bloqueado (login Apple). Play logado sem apps/merchant. InfinitePay só via QR."
