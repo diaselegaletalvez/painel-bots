@@ -2,11 +2,13 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "trabalhando",
+  "resumo": "Primeira rodada: Espaço 2.1 já saiu; rascunho do ESCOPO da 2.2 em andamento. Leitura do snapshot do Mac ainda sem acesso ao repo privado.",
+  "proximo_passo": "Abrir o PR do ESCOPO.md no espaco-mac e, com o acesso liberado, ler o snapshot do Mac.",
+  "bloqueio": "Liberar o repositório privado diaselegaletalvez/mac-saude no GitHub do Cursor.",
+  "progresso": 10,
+  "atualizado_em": "2026-09-13T14:20:00-03:00",
+  "eventos": [
+    { "quando": "2026-09-13T14:20:00-03:00", "texto": "Comecei a primeira rodada: escopo da 2.2 e leitura do Mac." }
+  ]
 }
