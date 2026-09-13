@@ -1,0 +1,25 @@
+{
+  "slug": "caio",
+  "nome": "Caio",
+  "projeto": "Projetos pendentes",
+  "status": "trabalhando",
+  "resumo": "Repo pendentes criado, PENDENTES.md gravado, rotina semanal de domingo 19h ligada.",
+  "proximo_passo": "Começar o item 2 do agora: conferir se o release do ikly fecha de verdade.",
+  "bloqueio": null,
+  "progresso": 25,
+  "atualizado_em": "2026-09-13T15:54:30-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T15:54:30-03:00",
+      "texto": "Criei diaselegaletalvez/pendentes, gravei PENDENTES.md e rotina domingo 19h (America/Sao_Paulo)."
+    },
+    {
+      "quando": "2026-09-13T15:52:44-03:00",
+      "texto": "Dias aprovou o agora (pendentes → ikly → triagem melisse/lumenno → look360)."
+    },
+    {
+      "quando": "2026-09-13T15:47:19-03:00",
+      "texto": "Primeira corrida: li REGRAS, inventariei órfãos, PENDENTES ausente — pedi aprovação do escopo."
+    }
+  ]
+}
