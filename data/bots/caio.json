@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "trabalhando",
-  "resumo": "Repo pendentes criado, PENDENTES.md gravado, rotina semanal de domingo 19h ligada.",
-  "proximo_passo": "Começar o item 2 do agora: conferir se o release do ikly fecha de verdade.",
-  "bloqueio": null,
-  "progresso": 25,
-  "atualizado_em": "2026-09-13T15:54:30-03:00",
+  "status": "esperando_voce",
+  "resumo": "Ikly: release v0.1.0 e site ok remotamente; não rodei o app no Mac — preciso do seu smoke test.",
+  "proximo_passo": "Você instala o Ikly-arm64.pkg e confirma se abre e roda um agent simples.",
+  "bloqueio": "Smoke test do Ikly no Mac (Apple Silicon): instalar .pkg, abrir, login, rodar um agent.",
+  "progresso": 35,
+  "atualizado_em": "2026-09-13T16:32:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:32:00-03:00",
+      "texto": "Ikly: confirei release/site/download remotamente; load no Mac não testado — pedi smoke ao Dias."
+    },
     {
       "quando": "2026-09-13T15:54:30-03:00",
       "texto": "Criei diaselegaletalvez/pendentes, gravei PENDENTES.md e rotina domingo 19h (America/Sao_Paulo)."
