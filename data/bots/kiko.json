@@ -2,11 +2,28 @@
   "slug": "kiko",
   "nome": "Kiko",
   "projeto": "GameTrack",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "esperando_voce",
+  "resumo": "Corte do 1.0 no PR do source: Enviar Pet, IA e Escolar saíram da vitrine; cadastro bloqueia menor de 13.",
+  "proximo_passo": "Dias manda dados legais (razão social, CNPJ, endereço, e-mails, DPO) e aceita o entitlement CADE na conta Apple.",
+  "bloqueio": "Dados legais do Dias + aceite do entitlement CADE (Account Holder). Sem isso não sobe legal nem pagamento iOS.",
+  "progresso": 24,
+  "atualizado_em": "2026-09-13T16:34:01-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T16:34:01-03:00",
+      "texto": "PR gametrack#1: corte Enviar Pet, copy de IA, Escolar; bloqueio <13. tsc ok, sem teste em device."
+    },
+    {
+      "quando": "2026-09-13T14:35:56-03:00",
+      "texto": "LANCAMENTO.md fechado: 13/67 (19%). Caminho CADE travado. Esperando dados legais do Dias."
+    },
+    {
+      "quando": "2026-09-13T14:35:56-03:00",
+      "texto": "Audit do source: Expo 54, FEATURES todas false, checkout InfinitePay existe, privacidade ainda rascunho."
+    },
+    {
+      "quando": "2026-09-13T14:35:56-03:00",
+      "texto": "Parecer 3.1.1: código de ativação no iOS é risco alto; Dias escolheu CADE (IAP + InfinitePay)."
+    }
+  ]
 }
