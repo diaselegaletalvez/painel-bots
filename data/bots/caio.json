@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Clataque é pasta local no Mac (~/projetos/Clataque); laptop offline — sem acesso pra inventariar.",
-  "proximo_passo": "Dias reconecta o Gabriels-Laptop.local (ou manda o projeto de outro jeito) pra eu abrir o Clataque.",
-  "bloqueio": "Reconectar o Mac Gabriels-Laptop.local ao Grok Bot (pasta ~/projetos/Clataque).",
-  "progresso": 40,
-  "atualizado_em": "2026-09-13T19:43:00-03:00",
+  "resumo": "Claquete v0.1: export MP4 + repo privado no ar; build ok. Falta seu smoke (abrir, editar, exportar).",
+  "proximo_passo": "Você abre o Claquete.app, importa um clipe e exporta um MP4 pra fechar o item.",
+  "bloqueio": "Smoke do Claquete no Mac: abrir app → importar → timeline → exportar MP4.",
+  "progresso": 55,
+  "atualizado_em": "2026-09-13T19:48:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:48:00-03:00",
+      "texto": "Claquete: export MP4, README, repo privado diaselegaletalvez/claquete — pedi smoke."
+    },
     {
       "quando": "2026-09-13T19:43:00-03:00",
       "texto": "Clataque localizado como pasta no Mac; máquina offline — pedi reconexão."
