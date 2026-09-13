@@ -2,13 +2,17 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "trabalhando",
-  "resumo": "Capacity gate reaberto (1 TERMINAR mexeu). Ciclo 2 de pesquisa em andamento.",
-  "proximo_passo": "Fechar ciclo 2 na watchlist do radar e atualizar o painel de novo.",
+  "status": "parado",
+  "resumo": "Ciclo 2: 12 ideias, 0 passaram, 2 em watch. Gate aberto; sem recomendação.",
+  "proximo_passo": "Esperar sinal novo ou Caio limpar mais TERMINAR; releitura sob demanda.",
   "bloqueio": null,
-  "progresso": 40,
-  "atualizado_em": "2026-09-13T16:32:24-03:00",
+  "progresso": 100,
+  "atualizado_em": "2026-09-13T16:33:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:33:00-03:00",
+      "texto": "Ciclo 2: 12 ideias, 0 passaram, 2 em watch (MED)."
+    },
     {
       "quando": "2026-09-13T16:32:24-03:00",
       "texto": "Capacity gate ABERTO — ikly mexeu; 2 TERMINAR ainda parados."
