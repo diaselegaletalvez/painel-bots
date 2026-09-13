@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
   "status": "trabalhando",
-  "resumo": "Ordem do Dias: aviso DeviceActivity + espelhar pairing no zelo-pais (v3). RevenueCat e deploy Supabase ainda pendentes dele.",
-  "proximo_passo": "Entregar aviso DeviceActivity e mirror do pairing no PR do pais; depois esperar Dias em RevenueCat/deploy.",
+  "resumo": "Aviso DeviceActivity no pais entregue (PR #1). Espelhando pairing a partir do agent do filho; RevenueCat ainda pendente do Dias.",
+  "proximo_passo": "Terminar mirror do pairing no zelo-pais; depois esperar Dias em RevenueCat e deploy Supabase.",
   "bloqueio": null,
-  "progresso": 60,
-  "atualizado_em": "2026-09-13T16:31:09-03:00",
+  "progresso": 70,
+  "atualizado_em": "2026-09-13T16:35:44-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:35:44-03:00",
+      "texto": "DeviceActivity warning no pais (tsc ok). Pairing mirror pendente por 404 no repo filho."
+    },
     {
       "quando": "2026-09-13T16:31:09-03:00",
       "texto": "Ordem via Chief: retomando V3 no pais (DeviceActivity + mirror pairing)."
