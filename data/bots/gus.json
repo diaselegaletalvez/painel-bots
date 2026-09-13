@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "esperando_voce",
-  "resumo": "DeviceActivity warning + pairing mirror no zelo-pais (PR #1). tsc ok. Falta RevenueCat e deploy Supabase.",
-  "proximo_passo": "Dias liberar RevenueCat lite/full e fazer deploy pairing + livekit-token + migration realtime.",
-  "bloqueio": "1) Liberar item RevenueCat (entitlements lite/full + produtos). 2) Deploy Supabase: migration 20260913_realtime_publication_v3.sql + functions pairing e livekit-token no projeto toupnhvsswnixtpgedoh.",
-  "progresso": 80,
-  "atualizado_em": "2026-09-13T16:38:16-03:00",
+  "status": "trabalhando",
+  "resumo": "Ordem Dias/Pitaca: fechando código RevenueCat entitlements lite/full no zelo-pais (sem mexer em produtos/preços).",
+  "proximo_passo": "Entregar código de entitlements no PR #1; Dias ainda precisa de deploy Supabase e fix ASC/RC price null.",
+  "bloqueio": null,
+  "progresso": 85,
+  "atualizado_em": "2026-09-13T19:24:44-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:24:44-03:00",
+      "texto": "Pitaca/Dias: prioridade alta — código entitlements lite/full (sem dashboard RC)."
+    },
     {
       "quando": "2026-09-13T16:38:16-03:00",
       "texto": "Pairing espelhado no pais + DeviceActivity warning. Run encerrado; aguardando Dias em RC/deploy."
