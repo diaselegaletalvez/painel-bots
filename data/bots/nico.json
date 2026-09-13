@@ -2,13 +2,17 @@
   "slug": "nico",
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
-  "status": "concluido",
-  "resumo": "Setup completo: round trip OK, painel ok, gh auth ok, ordens clonado",
-  "proximo_passo": "Aguardar próxima ordem no inbox",
+  "status": "esperando_voce",
+  "resumo": "1 ordem entregue ao Rex (backup Supabase); inbox limpo",
+  "proximo_passo": "Esperar resposta do Rex e gravar em respostas/rex/",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T15:40:41-03:00",
+  "atualizado_em": "2026-09-13T16:32:02-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:32:02-03:00",
+      "texto": "Entregue rex/20260913-160542 (backup Supabase Zelo/GameTrack); aguardando resposta."
+    },
     {
       "quando": "2026-09-13T15:40:41-03:00",
       "texto": "gh auth ok; ordens clonado; setup fechado."
