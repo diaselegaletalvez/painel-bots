@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "V3.md aprovado; rebaseando v3 sobre version/2.0.0 e implementando limites por app no zelo-pais.",
-  "proximo_passo": "Entregar limites por app no pais com build ok e atualizar o painel.",
-  "bloqueio": null,
-  "progresso": 10,
-  "atualizado_em": "2026-09-13T14:10:27-03:00",
+  "status": "esperando_voce",
+  "resumo": "Limites por app no zelo-pais na branch v3 (PR #1); build tsc ok; rebase sobre version/2.0.0.",
+  "proximo_passo": "Próximo run: badge de tempo extra no pais, ou ops no filho se houver acesso ao repo zelo.",
+  "bloqueio": "Revisar/mergear o PR https://github.com/diaselegaletalvez/zelo-pais/pull/1 (limites por app) quando quiser.",
+  "progresso": 25,
+  "atualizado_em": "2026-09-13T14:13:34-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T14:13:34-03:00",
+      "texto": "Entregue limites por app no pais (v3 / PR #1). tsc ok. Run encerrado."
+    },
     {
       "quando": "2026-09-13T14:10:27-03:00",
       "texto": "Dias aprovou V3.md; iniciando build v3 com limites por app no pais."
