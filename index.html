@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel — Dias Inc.</title>
+<style>
+  :root{
+    --bg:#0b0c0e; --panel:#131519; --panel2:#191c21; --line:#24272e;
+    --tx:#e8eaed; --tx2:#9aa1ab; --tx3:#646b76;
+    --ok:#3fb950; --work:#4a9eff; --wait:#e3b341; --block:#f85149; --off:#5a616b;
+    --r:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--tx);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    padding:0 16px 56px;
+  }
+  .wrap{max-width:1120px;margin:0 auto}
+
+  header{padding-block:34px 22px;border-bottom:1px solid var(--line);margin-bottom:24px}
+  .brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  h1{font-size:24px;letter-spacing:-.02em;margin:0;font-weight:650}
+  .tag{color:var(--tx3);font-size:13px}
+  .meta{margin-top:14px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .pill{
+    display:inline-flex;align-items:center;gap:7px;
+    background:var(--panel);border:1px solid var(--line);border-radius:999px;
+    padding:5px 12px;font-size:12.5px;color:var(--tx2);white-space:nowrap;
+  }
+  .pill b{color:var(--tx);font-weight:600}
+  .dot{width:7px;height:7px;border-radius:50%;flex:none}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+
+  .card{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--r);
+    padding:18px;display:flex;flex-direction:column;gap:13px;
+    position:relative;overflow:hidden;
+  }
+  .card::before{content:"";position:absolute;inset:0 auto 0 0;width:3px;background:var(--off)}
+  .card[data-s="trabalhando"]::before{background:var(--work)}
+  .card[data-s="esperando_voce"]::before{background:var(--wait)}
+  .card[data-s="bloqueado"]::before{background:var(--block)}
+  .card[data-s="concluido"]::before{background:var(--ok)}
+  .card.alerta{border-color:#3a2f22}
+  .card[data-s="bloqueado"].alerta{border-color:#3d2426}
+
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  .nome{font-size:16.5px;font-weight:640;letter-spacing:-.01em;margin:0}
+  .proj{color:var(--tx3);font-size:12.5px;margin-top:2px}
+  .st{
+    display:inline-flex;align-items:center;gap:6px;flex:none;
+    font-size:11.5px;font-weight:600;letter-spacing:.02em;
+    padding:4px 9px;border-radius:7px;background:var(--panel2);color:var(--tx2);
+  }
+  .st[data-s="trabalhando"]{color:var(--work)}
+  .st[data-s="esperando_voce"]{color:var(--wait)}
+  .st[data-s="bloqueado"]{color:var(--block)}
+  .st[data-s="concluido"]{color:var(--ok)}
+
+  .resumo{margin:0;font-size:14px;color:var(--tx)}
+  .linha{font-size:13px;color:var(--tx2);display:flex;gap:8px}
+  .linha .k{color:var(--tx3);flex:none}
+  .bloqueio{
+    background:#2a1d1e;border:1px solid #3d2426;color:#ffb4ab;
+    border-radius:9px;padding:10px 12px;font-size:13px;
+  }
+  .espera{background:#2a2419;border-color:#3a2f22;color:#f0d08a}
+
+  .bar{height:4px;background:var(--panel2);border-radius:99px;overflow:hidden}
+  .bar>i{display:block;height:100%;background:var(--work);border-radius:99px;transition:width .4s}
+  .card[data-s="concluido"] .bar>i{background:var(--ok)}
+
+  .rodape{
+    display:flex;justify-content:space-between;align-items:center;gap:10px;
+    border-top:1px solid var(--line);padding-top:11px;margin-top:auto;
+    font-size:12px;color:var(--tx3);
+  }
+  details summary{cursor:pointer;color:var(--tx3);font-size:12px;list-style:none}
+  details summary::-webkit-details-marker{display:none}
+  details summary:hover{color:var(--tx2)}
+  details[open] summary{margin-bottom:8px}
+  .ev{font-size:12.5px;color:var(--tx2);padding:5px 0;border-top:1px solid var(--line);display:flex;gap:9px}
+  .ev span{color:var(--tx3);flex:none;font-variant-numeric:tabular-nums}
+
+  .vazio{color:var(--tx3);font-size:13.5px;font-style:italic}
+  .erro{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--r);
+    padding:20px;color:var(--tx2);font-size:14px;grid-column:1/-1;
+  }
+  .erro code{background:var(--panel2);padding:2px 6px;border-radius:5px;color:var(--tx);font-size:13px}
+  footer{margin-top:28px;color:var(--tx3);font-size:12px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <h1>Painel dos bots</h1>
+      <span class="tag">Dias Inc. — Um estúdio. Vários mundos.</span>
+    </div>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <main class="grid" id="grid"></main>
+
+  <footer id="rodape"></footer>
+</div>
+
+<script>
+const ORDEM = { bloqueado:0, esperando_voce:1, trabalhando:2, parado:3, concluido:4 };
+const ROTULO = {
+  bloqueado:"BLOQUEADO", esperando_voce:"PRECISA DE VOCÊ",
+  trabalhando:"TRABALHANDO", parado:"PARADO", concluido:"CONCLUÍDO"
+};
+const COR = {
+  bloqueado:"var(--block)", esperando_voce:"var(--wait)",
+  trabalhando:"var(--work)", parado:"var(--off)", concluido:"var(--ok)"
+};
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+function quando(iso){
+  if(!iso) return "—";
+  const d = new Date(iso);
+  if(isNaN(d)) return "—";
+  const min = Math.floor((Date.now() - d) / 60000);
+  if(min < 1)   return "agora";
+  if(min < 60)  return `há ${min} min`;
+  if(min < 1440) return `há ${Math.floor(min/60)} h`;
+  const dias = Math.floor(min/1440);
+  return dias === 1 ? "ontem" : `há ${dias} dias`;
+}
+const hora = iso => {
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+};
+
+function card(b){
+  const s = ORDEM[b.status] !== undefined ? b.status : "parado";
+  const alerta = (s === "bloqueado" || s === "esperando_voce") ? " alerta" : "";
+  const prog = Math.max(0, Math.min(100, Number(b.progresso) || 0));
+
+  const eventos = Array.isArray(b.eventos) ? b.eventos.slice(0, 12) : [];
+  const hist = eventos.length ? `
+    <details>
+      <summary>Histórico (${eventos.length})</summary>
+      ${eventos.map(e => `<div class="ev"><span>${esc(hora(e.quando))}</span>${esc(e.texto)}</div>`).join("")}
+    </details>` : "";
+
+  const aviso = b.bloqueio
+    ? `<div class="bloqueio${s === "esperando_voce" ? " espera" : ""}">${esc(b.bloqueio)}</div>` : "";
+
+  return `
+  <article class="card${alerta}" data-s="${s}">
+    <div class="top">
+      <div>
+        <h2 class="nome">${esc(b.nome || b.slug)}</h2>
+        <div class="proj">${esc(b.projeto || "")}</div>
+      </div>
+      <div class="st" data-s="${s}">
+        <i class="dot" style="background:${COR[s]}"></i>${ROTULO[s]}
+      </div>
+    </div>
+
+    <p class="resumo">${b.resumo ? esc(b.resumo) : '<span class="vazio">Ainda não reportou nada.</span>'}</p>
+    ${aviso}
+    ${b.proximo_passo ? `<div class="linha"><span class="k">Próximo:</span><span>${esc(b.proximo_passo)}</span></div>` : ""}
+
+    <div class="bar"><i style="width:${prog}%"></i></div>
+    ${hist}
+
+    <div class="rodape">
+      <span>${prog}%</span>
+      <span>${esc(quando(b.atualizado_em))}</span>
+    </div>
+  </article>`;
+}
+
+async function carregar(){
+  const grid = document.getElementById("grid");
+  const meta = document.getElementById("meta");
+  const cb = "?v=" + Date.now();
+
+  let slugs;
+  try {
+    const r = await fetch("data/bots.json" + cb);
+    if(!r.ok) throw new Error(r.status);
+    slugs = await r.json();
+  } catch {
+    grid.innerHTML = `<div class="erro">Não achei <code>data/bots.json</code>. Crie o arquivo com a lista de slugs dos bots, ex: <code>["torre","zelador","frentista"]</code></div>`;
+    return;
+  }
+
+  const bots = await Promise.all(slugs.map(async slug => {
+    try {
+      const r = await fetch(`data/bots/${slug}.json` + cb);
+      if(!r.ok) throw new Error();
+      const j = await r.json();
+      return { slug, ...j };
+    } catch {
+      return { slug, nome: slug, status: "parado", resumo: "", progresso: 0 };
+    }
+  }));
+
+  bots.sort((a,b) =>
+    (ORDEM[a.status] ?? 3) - (ORDEM[b.status] ?? 3) ||
+    new Date(b.atualizado_em || 0) - new Date(a.atualizado_em || 0)
+  );
+
+  grid.innerHTML = bots.map(card).join("");
+
+  const conta = e => bots.filter(b => b.status === e).length;
+  const pills = [
+    ["bloqueado", conta("bloqueado"), "bloqueado"],
+    ["esperando_voce", conta("esperando_voce"), "esperando você"],
+    ["trabalhando", conta("trabalhando"), "trabalhando"],
+    ["concluido", conta("concluido"), "concluído"],
+  ].filter(([,n]) => n > 0);
+
+  meta.innerHTML =
+    `<span class="pill"><b>${bots.length}</b> bots</span>` +
+    pills.map(([s,n,l]) => `<span class="pill"><i class="dot" style="background:${COR[s]}"></i><b>${n}</b> ${l}</span>`).join("");
+
+  document.getElementById("rodape").textContent =
+    "Atualizado " + new Date().toLocaleString("pt-BR") + " · recarrega sozinho a cada 5 min";
+}
+
+carregar();
+setInterval(carregar, 300000);
+</script>
+</body>
+</html>
