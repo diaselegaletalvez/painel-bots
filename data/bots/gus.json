@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "Ordem Dias/Pitaca: fechando código RevenueCat entitlements lite/full no zelo-pais (sem mexer em produtos/preços).",
-  "proximo_passo": "Entregar código de entitlements no PR #1; Dias ainda precisa de deploy Supabase e fix ASC/RC price null.",
-  "bloqueio": null,
-  "progresso": 85,
-  "atualizado_em": "2026-09-13T19:24:44-03:00",
+  "status": "esperando_voce",
+  "resumo": "Código V3 no pais fechado no PR #1 (limites, badge, DeviceActivity, pairing mirror, entitlements lite/full). tsc ok.",
+  "proximo_passo": "Dias: fix ASC/RC price null + subscription group; deploy Supabase (realtime migration, pairing, livekit-token); depois merge/testar device.",
+  "bloqueio": "1) ASC/StoreKit: preço/trial null nos SKUs do Pais + 4 produtos no mesmo subscription group. 2) Deploy Supabase no toupnhvsswnixtpgedoh: migration 20260913_realtime_publication_v3.sql + functions pairing e livekit-token.",
+  "progresso": 90,
+  "atualizado_em": "2026-09-13T19:30:57-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T19:30:57-03:00",
+      "texto": "Entitlements lite/full no código (PR pais #1). V3 código coberto; aguardando Dias em ASC/deploy."
+    },
     {
       "quando": "2026-09-13T19:24:44-03:00",
       "texto": "Pitaca/Dias: prioridade alta — código entitlements lite/full (sem dashboard RC)."
