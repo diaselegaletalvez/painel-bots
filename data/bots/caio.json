@@ -2,11 +2,16 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "esperando_voce",
+  "resumo": "Inventário dos repos órfãos feito; PENDENTES.md ainda não existe — propus o rascunho pra você aprovar.",
+  "proximo_passo": "Você aprova o PENDENTES.md (o que entra nessa release) e onde o arquivo mora.",
+  "bloqueio": "Aprovar o PENDENTES.md e dizer onde gravar (ordens ou outro lugar).",
+  "progresso": 5,
+  "atualizado_em": "2026-09-13T15:47:19-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T15:47:19-03:00",
+      "texto": "Primeira corrida: li REGRAS, inventariei órfãos, PENDENTES ausente — pedi aprovação do escopo."
+    }
+  ]
 }
