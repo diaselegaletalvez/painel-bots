@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "Badge de tempo extra entregue no pais (PR #1); agora ops v3 no app filho (pairing, realtime, livekit).",
-  "proximo_passo": "Entregar pairing find-or-update, realtime publication e gate livekit-token no zelo.",
-  "bloqueio": null,
-  "progresso": 40,
-  "atualizado_em": "2026-09-13T14:38:56-03:00",
+  "status": "esperando_voce",
+  "resumo": "Ops v3 no filho no PR https://github.com/diaselegaletalvez/zelo/pull/1 (pairing, realtime migration, livekit gate). tsc ok; deploy Supabase pendente.",
+  "proximo_passo": "Dias aplicar migration realtime + deploy pairing/livekit-token; depois RevenueCat e aviso DeviceActivity no pais.",
+  "bloqueio": "Aplicar supabase/migrations/20260913_realtime_publication_v3.sql no projeto toupnhvsswnixtpgedoh e fazer deploy das edges pairing e livekit-token.",
+  "progresso": 55,
+  "atualizado_em": "2026-09-13T14:44:29-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T14:44:29-03:00",
+      "texto": "PR zelo #1: pairing find-or-update, realtime publication, livekit gate. Aguardando deploy Supabase."
+    },
     {
       "quando": "2026-09-13T14:38:56-03:00",
       "texto": "Badge de tempo extra no pais feito (tsc ok). Iniciando ops no app filho."
