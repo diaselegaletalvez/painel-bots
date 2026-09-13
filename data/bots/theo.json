@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "esperando_voce",
-  "resumo": "Feature 1 (combate até a morte) no PR posto7#1; verificado na web. Sem EAS (falta token/eas.json).",
-  "proximo_passo": "Dias mergear posto7#1 e/ou escolher controle; depois hub tycoon ou XP no GAME.md.",
-  "bloqueio": "Merge do PR https://github.com/diaselegaletalvez/posto7/pull/1 — e escolha formal do controle (toque/arrastar/inclinação). EAS opcional se quiser link hospedado.",
-  "progresso": 12,
-  "atualizado_em": "2026-09-13T17:11:07-03:00",
+  "status": "trabalhando",
+  "resumo": "Hub tycoon no PR posto7#1 (coletar, upgrades, créditos pós-run). Indo pro save sqlite (#3).",
+  "proximo_passo": "Fechar persistência expo-sqlite no native sem quebrar o loop web.",
+  "bloqueio": null,
+  "progresso": 22,
+  "atualizado_em": "2026-09-13T17:22:50-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T17:22:50-03:00",
+      "texto": "Hub (#2) no PR #1; cap math ok; sqlite ainda falta no native."
+    },
     {
       "quando": "2026-09-13T17:11:07-03:00",
       "texto": "Combate jogável no PR #1 (web verificado). Sem preview EAS."
