@@ -2,11 +2,15 @@
   "slug": "kiko",
   "nome": "Kiko",
   "projeto": "GameTrack",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "status": "esperando_voce",
+  "resumo": "Parecer de pagamento entregue (CADE + IAP no iOS Brasil); LANCAMENTO.md escrito com 13/67 itens feitos.",
+  "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails e DPO; depois implemento entitlement + IAP ao lado do InfinitePay.",
+  "bloqueio": "Dias precisa informar: razão social, CNPJ, endereço, cidade/UF, e-mail de suporte, e-mail de privacidade, nome do DPO. Sem isso as páginas legais não sobem e a loja rejeita.",
+  "progresso": 19,
+  "atualizado_em": "2026-09-13T14:35:56-03:00",
+  "eventos": [
+    {"quando": "2026-09-13T14:35:56-03:00", "texto": "LANCAMENTO.md fechado: 13/67 (19%). Caminho CADE travado. Esperando dados legais do Dias."},
+    {"quando": "2026-09-13T14:35:56-03:00", "texto": "Audit do source: Expo 54, FEATURES todas false, checkout InfinitePay existe, privacidade ainda rascunho."},
+    {"quando": "2026-09-13T14:35:56-03:00", "texto": "Parecer 3.1.1: código de ativação no iOS é risco alto; Dias escolheu CADE (IAP + InfinitePay)."}
+  ]
 }
