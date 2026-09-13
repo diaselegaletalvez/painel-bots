@@ -2,11 +2,16 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
-  "bloqueio": null,
+  "status": "bloqueado",
+  "resumo": "Auditei o GitHub em diaselegaletalvez e não encontrei nenhum repositório do Posto 7; a run de design/auditoria parou sem criar um repo.",
+  "proximo_passo": "O Dias precisa criar (ou liberar acesso do Cursor ao) repositório Expo/React Native do Posto 7 antes de eu começar os docs de design e o build.",
+  "bloqueio": "Não existe repo do Posto 7 sob github.com/diaselegaletalvez (ou o Cursor não tem acesso). Criar o repo ou liberar acesso antes de eu continuar. Não criar features ainda.",
   "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "atualizado_em": "2026-09-13T14:13:22-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T14:13:22-03:00",
+      "texto": "Primeira auditoria: nenhum repo Posto 7 encontrado sob diaselegaletalvez; run de design parada."
+    }
+  ]
 }
