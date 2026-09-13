@@ -2,13 +2,17 @@
   "slug": "ivo",
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
-  "status": "trabalhando",
-  "resumo": "Primeira corrida: testando acesso às fontes de receita, sem medir ainda.",
-  "proximo_passo": "Conectar RevenueCat e entrar nas demais fontes bloqueadas.",
-  "bloqueio": null,
-  "progresso": 20,
-  "atualizado_em": "2026-09-13T16:05:28-03:00",
+  "status": "esperando_voce",
+  "resumo": "Conector RevenueCat instalado; falta autorizar. Browser ainda testando as outras fontes.",
+  "proximo_passo": "Autorizar o RevenueCat no card do chat.",
+  "bloqueio": "Abrir o card do RevenueCat neste chat e autorizar a conta.",
+  "progresso": 35,
+  "atualizado_em": "2026-09-13T16:06:12-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T16:06:12-03:00",
+      "texto": "RevenueCat instalado; esperando autorização no card."
+    },
     {
       "quando": "2026-09-13T16:05:28-03:00",
       "texto": "Comecei: checando RevenueCat, App Store Connect, Play Console e InfinitePay."
