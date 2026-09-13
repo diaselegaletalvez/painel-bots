@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "trabalhando",
-  "resumo": "3 inimigos + armas CANO/ESPARGIDA/PULSO no PR posto7#1. Indo pro desafio diário (#10).",
-  "proximo_passo": "Desafio do dia com seed local America/Sao_Paulo.",
+  "resumo": "Desafio diário (#10) + liga local stub no PR posto7#1. Indo pra settings/mute (#18/#15).",
+  "proximo_passo": "Settings mínimos e caminho de áudio com mute.",
   "bloqueio": null,
-  "progresso": 50,
-  "atualizado_em": "2026-09-13T19:45:36-03:00",
+  "progresso": 58,
+  "atualizado_em": "2026-09-13T20:20:12-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T20:20:12-03:00",
+      "texto": "Desafio #10 no PR #1 (756 pts, 1/2; liga local stub)."
+    },
     {
       "quando": "2026-09-13T19:45:36-03:00",
       "texto": "#7/#5 no PR #1 (3 tipos + 3 armas; web 311s/806/+1923)."
