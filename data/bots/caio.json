@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "esperando_voce",
-  "resumo": "Claquete 0.1.1 pronto no disco (build+smoke export), mas o Mac caiu antes do push.",
-  "proximo_passo": "Reconecta o Gabriels-Laptop.local que eu committo e subo o v0.1.1.",
-  "bloqueio": "Reconectar o Mac Gabriels-Laptop.local pra eu dar push do Claquete.",
-  "progresso": 60,
-  "atualizado_em": "2026-09-13T19:58:00-03:00",
+  "status": "trabalhando",
+  "resumo": "Claquete v0.1.1 no GitHub (7546c16). Próximo da fila: ikly ou triagem melisse/lumenno.",
+  "proximo_passo": "Pegar o próximo TERMINAR: smoke do ikly ou triagem melisse/merlisse/lumenno.",
+  "bloqueio": null,
+  "progresso": 70,
+  "atualizado_em": "2026-09-13T20:12:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T20:12:00-03:00",
+      "texto": "Push Claquete v0.1.1 (7546c16); marcado FEITO no PENDENTES."
+    },
     {
       "quando": "2026-09-13T19:58:00-03:00",
       "texto": "Claquete 0.1.1 implementado e build ok; Mac offline — push pendente."
