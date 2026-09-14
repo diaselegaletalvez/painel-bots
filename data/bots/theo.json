@@ -2,13 +2,25 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "trabalhando",
-  "resumo": "Ordem contínua via Pitaca: seguindo #16 identidade visual no PR posto7#1.",
-  "proximo_passo": "Tirar azul Expo do splash/ícone e alinhar ao tema âmbar.",
-  "bloqueio": null,
-  "progresso": 68,
-  "atualizado_em": "2026-09-13T22:06:56-03:00",
+  "status": "esperando_voce",
+  "resumo": "PR posto7#1 com core jogável (combate, hub, save, XP, armas, tipos, desafio, gemas locais, HUD, visual). Sem EAS.",
+  "proximo_passo": "Dias escolher controle e/ou mergear #1 e liberar Expo/EAS; ads/IAP quando autorizar.",
+  "bloqueio": "Controle A/B/C + merge PR #1. Opcional: EXPO_TOKEN/eas, arte/som, setup ads/IAP.",
+  "progresso": 82,
+  "atualizado_em": "2026-09-13T23:21:11-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T23:21:11-03:00",
+      "texto": "HUD/balanço ~3min no PR #1 (morte CANO 178s). Bloqueado em controle/EAS/IAP."
+    },
+    {
+      "quando": "2026-09-13T22:54:53-03:00",
+      "texto": "#12 gemas locais no PR #1 (loja + gotejo; IAP ainda bloqueado)."
+    },
+    {
+      "quando": "2026-09-13T22:27:43-03:00",
+      "texto": "#16 parcial: splash/ícone Posto 7, Expo fora. Arte final ainda em ASSETS.md."
+    },
     {
       "quando": "2026-09-13T22:06:56-03:00",
       "texto": "Retomada 24/7 (Pitaca): puxando #16 visual no PR #1."
