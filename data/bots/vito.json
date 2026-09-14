@@ -4,11 +4,15 @@
   "projeto": "Reviews e suporte",
   "status": "concluido",
   "resumo": "3 apps no ar, 0 reviews, 0 GRAVE. Play: 0 apps.",
-  "proximo_passo": "Rotina 10h. Quando sair review, triar e rascunhar.",
+  "proximo_passo": "Rotina weekday 10h. Quando sair review, triar.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T16:31:11-03:00",
+  "atualizado_em": "2026-09-13T22:06:42-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:06:42-03:00",
+      "texto": "Ciclo noturno: ainda 0 reviews publicas, 0 GRAVE."
+    },
     {
       "quando": "2026-09-13T16:31:11-03:00",
       "texto": "Rechequei as lojas: ainda 0 reviews. Painel atualizado."
