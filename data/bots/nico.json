@@ -3,12 +3,16 @@
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
   "status": "concluido",
-  "resumo": "1 resposta gravada (Rex/Supabase); inbox limpo",
-  "proximo_passo": "Aguardar próxima ordem no inbox",
+  "resumo": "0 ordens no inbox; 0 sem resposta; bridge ok",
+  "proximo_passo": "Próxima varredura na rotina 9/13/17 ou ordem nova",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T19:14:30-03:00",
+  "atualizado_em": "2026-09-13T22:06:44-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:06:44-03:00",
+      "texto": "Varredura sob ordem do Dias (via Pitaca): inbox limpo, nada pendente."
+    },
     {
       "quando": "2026-09-13T19:14:30-03:00",
       "texto": "Gravada respostas/rex/20260913-160542; round trip Rex completo."
