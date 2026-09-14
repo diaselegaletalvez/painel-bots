@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "trabalhando",
-  "resumo": "#16 visual parcial no PR posto7#1. Indo pra economia de gemas local (#12) sem IAP.",
-  "proximo_passo": "Gemas + loja v1 (tentativa, boost, skin) sem RevenueCat.",
+  "resumo": "Gemas locais (#12) no PR posto7#1. Pass de HUD/balanço (~3 min) em curso.",
+  "proximo_passo": "Ajustar curva/HUD pra sessão ~3 min; sem IAP/ads/controle.",
   "bloqueio": null,
-  "progresso": 72,
-  "atualizado_em": "2026-09-13T22:27:43-03:00",
+  "progresso": 78,
+  "atualizado_em": "2026-09-13T22:54:53-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:54:53-03:00",
+      "texto": "#12 gemas locais no PR #1 (loja + gotejo; IAP ainda bloqueado)."
+    },
     {
       "quando": "2026-09-13T22:27:43-03:00",
       "texto": "#16 parcial: splash/ícone Posto 7, Expo fora. Arte final ainda em ASSETS.md."
