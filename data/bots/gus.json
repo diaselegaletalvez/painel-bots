@@ -2,11 +2,64 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
+  "status": "trabalhando",
+  "resumo": "Ordem Kiito/Chief: auditando gaps seguros restantes no PR zelo-pais #1 / V3.md (entitlements já entregues).",
+  "proximo_passo": "Fechar audit do pais; se não houver gap seguro, voltar a esperando_voce com bloqueios ASC/deploy.",
   "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "progresso": 92,
+  "atualizado_em": "2026-09-13T22:07:21-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T22:07:21-03:00",
+      "texto": "Kiito/Chief: retomando — audit de gaps seguros no PR pais #1."
+    },
+    {
+      "quando": "2026-09-13T22:06:49-03:00",
+      "texto": "Pitaca: ordem rode agora / 24/7 — checando item seguro restante no V3."
+    },
+    {
+      "quando": "2026-09-13T19:30:57-03:00",
+      "texto": "Entitlements lite/full no código (PR pais #1). V3 código coberto; aguardando Dias em ASC/deploy."
+    },
+    {
+      "quando": "2026-09-13T19:24:44-03:00",
+      "texto": "Pitaca/Dias: prioridade alta — código entitlements lite/full (sem dashboard RC)."
+    },
+    {
+      "quando": "2026-09-13T16:38:16-03:00",
+      "texto": "Pairing espelhado no pais + DeviceActivity warning. Run encerrado; aguardando Dias em RC/deploy."
+    },
+    {
+      "quando": "2026-09-13T16:35:44-03:00",
+      "texto": "DeviceActivity warning no pais (tsc ok). Pairing mirror pendente por 404 no repo filho."
+    },
+    {
+      "quando": "2026-09-13T16:31:09-03:00",
+      "texto": "Ordem via Chief: retomando V3 no pais (DeviceActivity + mirror pairing)."
+    },
+    {
+      "quando": "2026-09-13T14:44:29-03:00",
+      "texto": "PR zelo #1: pairing find-or-update, realtime publication, livekit gate. Aguardando deploy Supabase."
+    },
+    {
+      "quando": "2026-09-13T14:38:56-03:00",
+      "texto": "Badge de tempo extra no pais feito (tsc ok). Iniciando ops no app filho."
+    },
+    {
+      "quando": "2026-09-13T14:36:24-03:00",
+      "texto": "Iniciando badge de tempo extra no pais; depois passa pro filho."
+    },
+    {
+      "quando": "2026-09-13T14:13:34-03:00",
+      "texto": "Entregue limites por app no pais (v3 / PR #1). tsc ok. Run encerrado."
+    },
+    {
+      "quando": "2026-09-13T14:10:27-03:00",
+      "texto": "Dias aprovou V3.md; iniciando build v3 com limites por app no pais."
+    },
+    {
+      "quando": "2026-09-13T14:09:54-03:00",
+      "texto": "Escopo v3: PR do V3.md em zelo-pais (#1). Status esperando aprovação de Dias."
+    }
+  ]
 }
