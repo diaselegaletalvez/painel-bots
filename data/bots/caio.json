@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "trabalhando",
-  "resumo": "Claquete v0.1.1 no GitHub (7546c16). Próximo da fila: ikly ou triagem melisse/lumenno.",
-  "proximo_passo": "Pegar o próximo TERMINAR: smoke do ikly ou triagem melisse/merlisse/lumenno.",
-  "bloqueio": null,
-  "progresso": 70,
-  "atualizado_em": "2026-09-13T20:12:00-03:00",
+  "status": "esperando_voce",
+  "resumo": "Triagem pronta: lumenno vivo; melisse e merlisse são cópia idêntica — pedi OK pra arquivar os dois.",
+  "proximo_passo": "Você aprova arquivar melisse e merlisse (lumenno fica), ou manda outro destino.",
+  "bloqueio": "Aprovar ou rejeitar arquivar melisse + merlisse (não deletar).",
+  "progresso": 75,
+  "atualizado_em": "2026-09-14T01:07:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T01:07:00-03:00",
+      "texto": "Triagem melisse/merlisse/lumenno: pedi archive dos dois duplicados."
+    },
     {
       "quando": "2026-09-13T20:12:00-03:00",
       "texto": "Push Claquete v0.1.1 (7546c16); marcado FEITO no PENDENTES."
