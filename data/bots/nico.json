@@ -2,13 +2,17 @@
   "slug": "nico",
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
-  "status": "trabalhando",
-  "resumo": "1 ordem entregue ao Rex (Mac+Espaço contínuo); inbox limpo",
-  "proximo_passo": "Esperar primeira resposta do Rex e gravar em respostas/",
+  "status": "concluido",
+  "resumo": "1 resposta Rex gravada (Mac+Espaço); inbox limpo",
+  "proximo_passo": "Aguardar próxima ordem no inbox",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T22:07:40-03:00",
+  "atualizado_em": "2026-09-13T22:08:53-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:08:53-03:00",
+      "texto": "Gravada respostas/rex/20260913-220730; round trip Rex contínuo ok."
+    },
     {
       "quando": "2026-09-13T22:07:40-03:00",
       "texto": "Entregue rex/20260913-220730 (operação contínua Mac+Espaço, teto 20GB)."
