@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Faxina da 2.2 no PR do espaco-mac. Disco: 101 GB livres de 228.",
-  "proximo_passo": "Dias revisar e mergear o PR da 2.2. Lançar só no Mac.",
-  "bloqueio": "Review do PR da 2.2. Build/release no Mac.",
+  "resumo": "2.2 no PR, Mac offline. Disco no último snapshot: 101 GB livres de 228.",
+  "proximo_passo": "Dias mergear o PR da 2.2. Relê disco quando o Mac voltar.",
+  "bloqueio": "Mac offline; review do PR da 2.2.",
   "progresso": 70,
-  "atualizado_em": "2026-09-13T22:11:22-03:00",
+  "atualizado_em": "2026-09-14T00:14:13-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T00:14:13-03:00",
+      "texto": "Mac offline. Disco 101/228 no snapshot. 2.2 sem merge."
+    },
     {
       "quando": "2026-09-13T22:11:22-03:00",
       "texto": "PR da 2.2 com 10 arquivos. Swift não compilado."
