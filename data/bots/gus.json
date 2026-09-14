@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "esperando_voce",
-  "resumo": "Código V3 no pais fechado no PR #1 (limites, badge, DeviceActivity, pairing mirror, entitlements lite/full). tsc ok.",
-  "proximo_passo": "Dias: fix ASC/RC price null + subscription group; deploy Supabase (realtime migration, pairing, livekit-token); depois merge/testar device.",
-  "bloqueio": "1) ASC/StoreKit: preço/trial null nos SKUs do Pais + 4 produtos no mesmo subscription group. 2) Deploy Supabase no toupnhvsswnixtpgedoh: migration 20260913_realtime_publication_v3.sql + functions pairing e livekit-token.",
+  "status": "trabalhando",
+  "resumo": "Ordem Pitaca/Dias 24/7: verificando se resta item seguro no V3 (livekit gate no filho); senão painel fica em bloqueio ASC/deploy.",
+  "proximo_passo": "Confirmar livekit-token no zelo; se código V3 completo, voltar a esperando_voce com bloqueios claros.",
+  "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-13T19:30:57-03:00",
+  "atualizado_em": "2026-09-13T22:06:49-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:06:49-03:00",
+      "texto": "Pitaca: ordem rode agora / 24/7 — checando item seguro restante no V3."
+    },
     {
       "quando": "2026-09-13T19:30:57-03:00",
       "texto": "Entitlements lite/full no código (PR pais #1). V3 código coberto; aguardando Dias em ASC/deploy."
