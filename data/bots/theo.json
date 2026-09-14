@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "esperando_voce",
-  "resumo": "PR posto7#1 com combate, hub, save, XP, 3 inimigos, armas, desafio diário, settings/mute. Sem EAS.",
-  "proximo_passo": "Dias: mergear #1, escolher controle A/B/C, e/ou liberar Expo/EAS + arte/som.",
-  "bloqueio": "Escolher controle (toque/arrastar/inclinação). Opcional: merge do PR #1, EXPO_TOKEN/eas.json pra preview, assets de arte/som, setup ads/IAP quando for a hora.",
-  "progresso": 65,
-  "atualizado_em": "2026-09-13T20:34:48-03:00",
+  "status": "trabalhando",
+  "resumo": "Ordem contínua via Pitaca: seguindo #16 identidade visual no PR posto7#1.",
+  "proximo_passo": "Tirar azul Expo do splash/ícone e alinhar ao tema âmbar.",
+  "bloqueio": null,
+  "progresso": 68,
+  "atualizado_em": "2026-09-13T22:06:56-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:06:56-03:00",
+      "texto": "Retomada 24/7 (Pitaca): puxando #16 visual no PR #1."
+    },
     {
       "quando": "2026-09-13T20:34:48-03:00",
       "texto": "Settings/mute (#18/#15) no PR #1. Core jogável sem Dias fechado; esperando controle/EAS/assets."
