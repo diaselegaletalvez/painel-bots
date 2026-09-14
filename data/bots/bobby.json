@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Incluí tom no bots.json; vários status ainda só em PR, não na main.",
-  "proximo_passo": "Meter vito/ravi no índice quando o json deles entrar na main.",
+  "resumo": "Liberei status do Kiko e Ravi na main; ravi entrou no bots.json. Drafts ainda abertos.",
+  "proximo_passo": "Quando Vito/Gus/Rex/Max/Theo saírem de draft, mergear e sync do índice.",
   "bloqueio": null,
-  "progresso": 50,
-  "atualizado_em": "2026-09-13T19:28:22-03:00",
+  "progresso": 65,
+  "atualizado_em": "2026-09-13T22:07:05-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:07:05-03:00",
+      "texto": "Merge #9 kiko + #7 ravi; fechei #5; ravi no bots.json."
+    },
     {
       "quando": "2026-09-13T19:28:22-03:00",
       "texto": "Adicionei tom ao bots.json (arquivo já na main)."
