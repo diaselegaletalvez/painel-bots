@@ -3,31 +3,27 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "ASO proposto; CRIATIVOS com copy Connect e brief de screenshots. Sem spend até a ficha nova estar live.",
-  "proximo_passo": "Merge dos PRs de marketing, produzir screenshots e colar a copy no Connect — ou me diga se muda título/subtítulo.",
-  "bloqueio": "Arte dos screenshots e sua confirmação pra publicar a ficha. Sem isso não proponho campanha paga.",
-  "progresso": 70,
-  "atualizado_em": "2026-09-13T16:31:30-03:00",
+  "resumo": "Ciclo rodado: prep de campanha ASA escrita e dormindo. ASO e criativos ainda nos PRs; sem spend.",
+  "proximo_passo": "Merge PRs de marketing, arte dos screenshots e colar copy no Connect — ou diga se muda título/subtítulo.",
+  "bloqueio": "Ficha nova ainda não live; sem isso não ligo nem proponho ligar ads.",
+  "progresso": 80,
+  "atualizado_em": "2026-09-13T22:07:13-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:07:13-03:00",
+      "texto": "CAMPANHAS.md e GASTOS.md preparados (dormintes até ASO live)."
+    },
+    {
+      "quando": "2026-09-13T22:07:13-03:00",
+      "texto": "Ordem via Pitaca: ciclo contínuo no escopo; sem gastar."
+    },
     {
       "quando": "2026-09-13T16:31:30-03:00",
       "texto": "CRIATIVOS.md: copy pra colar no Connect + brief de 6+5 screenshots."
     },
     {
-      "quando": "2026-09-13T16:31:30-03:00",
-      "texto": "Ordem do Dias via CoS: segui aquisição sem gastar; campanha só depois do ASO live."
-    },
-    {
       "quando": "2026-09-13T16:17:47-03:00",
       "texto": "ASO.md escrito no marketing: listing atual, proposta, keywords, spec de screenshots."
-    },
-    {
-      "quando": "2026-09-13T16:17:47-03:00",
-      "texto": "Concorrentes BR lidos (Qustodio, Kids360, Kidslox, FamiSafe, Family Link)."
-    },
-    {
-      "quando": "2026-09-13T16:17:47-03:00",
-      "texto": "Fichas live lidas; nenhuma alteração publicada."
     }
   ]
 }
