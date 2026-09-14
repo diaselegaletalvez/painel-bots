@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Liberei status do Kiko e Ravi na main; ravi entrou no bots.json. Drafts ainda abertos.",
-  "proximo_passo": "Quando Vito/Gus/Rex/Max/Theo saírem de draft, mergear e sync do índice.",
+  "resumo": "Normalizei o painel: Gus/Theo/Rex/Max/Vito na main; vito no bots.json.",
+  "proximo_passo": "Manter sync do índice e saúde do Pages nos ciclos seguintes.",
   "bloqueio": null,
-  "progresso": 65,
-  "atualizado_em": "2026-09-13T22:07:05-03:00",
+  "progresso": 85,
+  "atualizado_em": "2026-09-13T22:08:18-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:08:18-03:00",
+      "texto": "Mergeei drafts de status (#1,#3,#4,#6,#8); fechei Theo #2; vito no índice."
+    },
     {
       "quando": "2026-09-13T22:07:05-03:00",
       "texto": "Merge #9 kiko + #7 ravi; fechei #5; ravi no bots.json."
