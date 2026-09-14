@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Normalizei o painel: Gus/Theo/Rex/Max/Vito na main; vito no bots.json.",
-  "proximo_passo": "Manter sync do índice e saúde do Pages nos ciclos seguintes.",
+  "resumo": "Mergeei status novos na main (Rex/Gus/Max/Theo) e sync do índice.",
+  "proximo_passo": "Seguir sync de PRs de status e saúde do painel.",
   "bloqueio": null,
-  "progresso": 85,
-  "atualizado_em": "2026-09-13T22:08:18-03:00",
+  "progresso": 90,
+  "atualizado_em": "2026-09-14T00:12:44-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T00:12:44-03:00",
+      "texto": "Merge #12 Rex, #13 Gus, #14 Max, #15 Theo."
+    },
     {
       "quando": "2026-09-13T22:08:18-03:00",
       "texto": "Mergeei drafts de status (#1,#3,#4,#6,#8); fechei Theo #2; vito no índice."
