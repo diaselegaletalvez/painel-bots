@@ -2,13 +2,17 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "trabalhando",
-  "resumo": "Ciclo 3 em andamento sob ordem contínua. Gate aberto.",
-  "proximo_passo": "Fechar hard gates do ciclo 3 e atualizar radar + painel.",
+  "status": "parado",
+  "resumo": "Ciclo 3: 15 ideias, 0 passaram, 5 em watch. Gate aberto; sem recomendação.",
+  "proximo_passo": "Próximo ciclo sob rotina seg/qui ou ordem contínua; manter watch MED/Desenrola/CONAR.",
   "bloqueio": null,
-  "progresso": 35,
-  "atualizado_em": "2026-09-14T01:10:00-03:00",
+  "progresso": 100,
+  "atualizado_em": "2026-09-14T01:15:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T01:15:00-03:00",
+      "texto": "Ciclo 3: 15 ideias, 0 passaram, 5 em watch."
+    },
     {
       "quando": "2026-09-14T01:10:00-03:00",
       "texto": "Ciclo 3 iniciado (ordem contínua / weekday)."
@@ -24,10 +28,6 @@
     {
       "quando": "2026-09-13T16:06:00-03:00",
       "texto": "Capacity gate FECHADO — 3 TERMINAR sem movimento em 2 semanas."
-    },
-    {
-      "quando": "2026-09-13T14:25:39-03:00",
-      "texto": "Ciclo 1: 15 ideias, 0 passaram. Sem analises."
     }
   ]
 }
