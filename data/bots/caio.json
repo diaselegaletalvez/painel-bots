@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Triagem pronta: lumenno vivo; melisse e merlisse são cópia idêntica — pedi OK pra arquivar os dois.",
-  "proximo_passo": "Você aprova arquivar melisse e merlisse (lumenno fica), ou manda outro destino.",
-  "bloqueio": "Aprovar ou rejeitar arquivar melisse + merlisse (não deletar).",
-  "progresso": 75,
-  "atualizado_em": "2026-09-14T01:07:00-03:00",
+  "resumo": "Look360 diagnosticado: app Expo parado sem release; site no ar. Faltam suas decisões (archive melisse + destino Look360).",
+  "proximo_passo": "Decidir: arquivar melisse/merlisse; e Look360 congelar, terminar na store, ou arquivar.",
+  "bloqueio": "Duas decisões: (1) arquivar melisse+merlisse? (2) Look360: congelar / store / arquivar?",
+  "progresso": 80,
+  "atualizado_em": "2026-09-14T01:08:30-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T01:08:30-03:00",
+      "texto": "Diagnóstico look360 pronto; pedi decisão A/B/C ao Dias."
+    },
     {
       "quando": "2026-09-14T01:07:00-03:00",
       "texto": "Triagem melisse/merlisse/lumenno: pedi archive dos dois duplicados."
