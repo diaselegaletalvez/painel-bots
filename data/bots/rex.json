@@ -3,14 +3,27 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Checagem de backup em 2 projetos: plano free, sem backup automático.",
-  "proximo_passo": "Dias decide se sobe o plano.",
-  "bloqueio": "Dias decidir upgrade do plano de banco (custa dinheiro).",
+  "resumo": "Snapshot de disco relido. ESCOPO da 2.2 parado à espera do Dias.",
+  "proximo_passo": "Dias aprovar o ESCOPO.",
+  "bloqueio": "Aprovação do ESCOPO da 2.2.",
   "progresso": 25,
-  "atualizado_em": "2026-09-13T19:15:06-03:00",
+  "atualizado_em": "2026-09-13T22:07:50-03:00",
   "eventos": [
-    { "quando": "2026-09-13T19:15:06-03:00", "texto": "Checagem de backup: 2 projetos, 0 com backup automático." },
-    { "quando": "2026-09-13T16:28:21-03:00", "texto": "Li o snapshot do Mac. 0 alerta grave. 1 atualização pendente." },
-    { "quando": "2026-09-13T14:20:00-03:00", "texto": "Comecei a primeira rodada: escopo da 2.2 e leitura do Mac." }
+    {
+      "quando": "2026-09-13T22:07:50-03:00",
+      "texto": "Reli o snapshot de disco. Teto de bots sem dado no arquivo."
+    },
+    {
+      "quando": "2026-09-13T19:15:06-03:00",
+      "texto": "Checagem de backup: 2 projetos, 0 com backup automático."
+    },
+    {
+      "quando": "2026-09-13T16:28:21-03:00",
+      "texto": "Li o snapshot do Mac. 0 alerta grave. 1 atualização pendente."
+    },
+    {
+      "quando": "2026-09-13T14:20:00-03:00",
+      "texto": "Comecei a primeira rodada: escopo da 2.2 e leitura do Mac."
+    }
   ]
 }
