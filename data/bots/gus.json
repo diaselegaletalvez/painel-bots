@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
   "status": "trabalhando",
-  "resumo": "Ordem Pitaca/Dias 24/7: verificando se resta item seguro no V3 (livekit gate no filho); senão painel fica em bloqueio ASC/deploy.",
-  "proximo_passo": "Confirmar livekit-token no zelo; se código V3 completo, voltar a esperando_voce com bloqueios claros.",
+  "resumo": "Ordem Kiito/Chief: auditando gaps seguros restantes no PR zelo-pais #1 / V3.md (entitlements já entregues).",
+  "proximo_passo": "Fechar audit do pais; se não houver gap seguro, voltar a esperando_voce com bloqueios ASC/deploy.",
   "bloqueio": null,
-  "progresso": 90,
-  "atualizado_em": "2026-09-13T22:06:49-03:00",
+  "progresso": 92,
+  "atualizado_em": "2026-09-13T22:07:21-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:07:21-03:00",
+      "texto": "Kiito/Chief: retomando — audit de gaps seguros no PR pais #1."
+    },
     {
       "quando": "2026-09-13T22:06:49-03:00",
       "texto": "Pitaca: ordem rode agora / 24/7 — checando item seguro restante no V3."
