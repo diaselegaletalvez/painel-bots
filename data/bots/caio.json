@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Look360 diagnosticado: app Expo parado sem release; site no ar. Faltam suas decisões (archive melisse + destino Look360).",
-  "proximo_passo": "Decidir: arquivar melisse/merlisse; e Look360 congelar, terminar na store, ou arquivar.",
-  "bloqueio": "Duas decisões: (1) arquivar melisse+merlisse? (2) Look360: congelar / store / arquivar?",
-  "progresso": 80,
-  "atualizado_em": "2026-09-14T01:08:30-03:00",
+  "resumo": "Ikly abriu no Mac (notarizado, sem crash). Faltam tuas decisões: archive melisse e destino Look360.",
+  "proximo_passo": "Aprovar archive melisse/merlisse e escolher Look360 (congelar/store/arquivar).",
+  "bloqueio": "Decisões: (1) arquivar melisse+merlisse? (2) Look360 A/B/C?",
+  "progresso": 85,
+  "atualizado_em": "2026-09-14T06:33:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:33:00-03:00",
+      "texto": "Ikly smoke load OK no Mac; marcado FEITO. Ainda esperando decisões do Dias."
+    },
     {
       "quando": "2026-09-14T01:08:30-03:00",
       "texto": "Diagnóstico look360 pronto; pedi decisão A/B/C ao Dias."
