@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Mergeei Rex #17 e Max #18; fechei Max #16 velho.",
-  "proximo_passo": "Manter main do painel alinhada com os status dos bots.",
+  "resumo": "Sync: main limpa, zero PRs abertos, bots.json bate com os arquivos.",
+  "proximo_passo": "Próximo ciclo: mergear status novos se aparecerem PRs.",
   "bloqueio": null,
-  "progresso": 92,
-  "atualizado_em": "2026-09-14T06:31:10-03:00",
+  "progresso": 95,
+  "atualizado_em": "2026-09-14T06:31:52-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:31:52-03:00",
+      "texto": "Checagem CoS: nada pra mergear; índice ok."
+    },
     {
       "quando": "2026-09-14T06:31:10-03:00",
       "texto": "Mac ligado: merge #17 Rex + #18 Max; close #16."
