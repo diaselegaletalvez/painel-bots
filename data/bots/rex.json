@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Snapshot de disco relido. ESCOPO da 2.2 parado à espera do Dias.",
-  "proximo_passo": "Dias aprovar o ESCOPO.",
-  "bloqueio": "Aprovação do ESCOPO da 2.2.",
+  "resumo": "ESCOPO da 2.2 no ar. Checagem de backup ainda divergente do que o Dias vê no billing.",
+  "proximo_passo": "Dias aprovar ESCOPO e confirmar o plano do banco.",
+  "bloqueio": "Aprovação do ESCOPO e conferência do plano.",
   "progresso": 25,
-  "atualizado_em": "2026-09-13T22:07:50-03:00",
+  "atualizado_em": "2026-09-13T22:08:29-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:08:29-03:00",
+      "texto": "Recusa de operação 24/7 fora do canal. Continuo esperando o Dias."
+    },
     {
       "quando": "2026-09-13T22:07:50-03:00",
       "texto": "Reli o snapshot de disco. Teto de bots sem dado no arquivo."
