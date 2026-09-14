@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "esperando_voce",
-  "resumo": "Rotina diária de receita ajustada (dias úteis 10:30). Continua faltando ASC e InfinitePay.",
-  "proximo_passo": "Login App Store Connect e QR InfinitePay; rotina roda sozinha nos dias úteis.",
+  "resumo": "Ciclo rodado: Zelo igual no RC; ASC e InfinitePay ainda bloqueados. Sem mudança material.",
+  "proximo_passo": "Login App Store Connect e QR InfinitePay no celular.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 80,
-  "atualizado_em": "2026-09-13T19:13:27-03:00",
+  "atualizado_em": "2026-09-13T22:06:45-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:06:45-03:00",
+      "texto": "Ciclo sob demanda: RC ok, quadro Zelo sem mudança; buracos ASC/InfinitePay seguem."
+    },
     {
       "quando": "2026-09-13T19:13:27-03:00",
       "texto": "Rotina única ajustada: Ivo — receita diária, dias úteis 10:30 BRT."
