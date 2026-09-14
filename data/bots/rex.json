@@ -2,13 +2,17 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "trabalhando",
-  "resumo": "Faxina da 2.2 em andamento. Disco: 101 GB livres de 228.",
-  "proximo_passo": "Fechar o PR da 2.2 no espaco-mac.",
-  "bloqueio": null,
-  "progresso": 40,
-  "atualizado_em": "2026-09-13T22:09:00-03:00",
+  "status": "esperando_voce",
+  "resumo": "Faxina da 2.2 no PR do espaco-mac. Disco: 101 GB livres de 228.",
+  "proximo_passo": "Dias revisar e mergear o PR da 2.2. Lançar só no Mac.",
+  "bloqueio": "Review do PR da 2.2. Build/release no Mac.",
+  "progresso": 70,
+  "atualizado_em": "2026-09-13T22:11:22-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-13T22:11:22-03:00",
+      "texto": "PR da 2.2 com 10 arquivos. Swift não compilado."
+    },
     {
       "quando": "2026-09-13T22:09:00-03:00",
       "texto": "Ordem do inbox: comecei a 2.2. Disco 101/228 livres."
