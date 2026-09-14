@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Mergeei status novos na main (Rex/Gus/Max/Theo) e sync do índice.",
-  "proximo_passo": "Seguir sync de PRs de status e saúde do painel.",
+  "resumo": "Mergeei Rex #17 e Max #18; fechei Max #16 velho.",
+  "proximo_passo": "Manter main do painel alinhada com os status dos bots.",
   "bloqueio": null,
-  "progresso": 90,
-  "atualizado_em": "2026-09-14T00:12:44-03:00",
+  "progresso": 92,
+  "atualizado_em": "2026-09-14T06:31:10-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:31:10-03:00",
+      "texto": "Mac ligado: merge #17 Rex + #18 Max; close #16."
+    },
     {
       "quando": "2026-09-14T00:12:44-03:00",
       "texto": "Merge #12 Rex, #13 Gus, #14 Max, #15 Theo."
