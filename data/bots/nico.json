@@ -3,12 +3,16 @@
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
   "status": "trabalhando",
-  "resumo": "Inbox limpo; Mac online; ping Rex+Tom pra disco vivo",
-  "proximo_passo": "Gravar respostas de disco quando Rex/Tom mandarem",
+  "resumo": "Inbox limpo; 1 sem resposta (Tom disco); Mac online; Tom reagido",
+  "proximo_passo": "Gravar respostas/tom/20260914-001223 quando Tom mandar",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-14T06:31:11-03:00",
+  "atualizado_em": "2026-09-14T06:31:32-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:31:32-03:00",
+      "texto": "Checagem CoS: inbox limpo; pendente tom/20260914-001223; Mac online; Tom pingado."
+    },
     {
       "quando": "2026-09-14T06:31:11-03:00",
       "texto": "Mac online; inbox limpo; 1 pendente (tom/20260914-001223); avisados Rex+Tom."
