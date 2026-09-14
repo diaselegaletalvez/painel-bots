@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "PR posto7#1 com core jogável (combate, hub, save, XP, armas, tipos, desafio, gemas locais, HUD, visual). Sem EAS.",
-  "proximo_passo": "Dias escolher controle e/ou mergear #1 e liberar Expo/EAS; ads/IAP quando autorizar.",
-  "bloqueio": "Controle A/B/C + merge PR #1. Opcional: EXPO_TOKEN/eas, arte/som, setup ads/IAP.",
+  "resumo": "Kick weekday (Pitaca): core no PR posto7#1; sem próximo item seguro sem o Dias.",
+  "proximo_passo": "Dias: escolher controle A/B/C e/ou mergear #1 + Expo/EAS; depois ads/IAP.",
+  "bloqueio": "Controle A/B/C + merge https://github.com/diaselegaletalvez/posto7/pull/1. Sem EAS/EXPO_TOKEN. Ads/IAP/arte/som finais também no Dias.",
   "progresso": 82,
-  "atualizado_em": "2026-09-13T23:21:11-03:00",
+  "atualizado_em": "2026-09-14T06:33:10-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:33:10-03:00",
+      "texto": "Weekday kick: sem item jogável novo sem Dias (controle/EAS/IAP/ads/assets)."
+    },
     {
       "quando": "2026-09-13T23:21:11-03:00",
       "texto": "HUD/balanço ~3min no PR #1 (morte CANO 178s). Bloqueado em controle/EAS/IAP."
