@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "esperando_voce",
-  "resumo": "RC lido de novo: quadro Zelo igual. ASC e InfinitePay ainda no Dias.",
-  "proximo_passo": "Aguardar login ASC e QR InfinitePay.",
+  "resumo": "Ciclo manhã: Zelo ainda zerado no RC; ASC e InfinitePay no Dias.",
+  "proximo_passo": "Login App Store Connect e QR InfinitePay.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 80,
-  "atualizado_em": "2026-09-13T22:07:05-03:00",
+  "atualizado_em": "2026-09-14T06:31:03-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:31:03-03:00",
+      "texto": "Ciclo receita: RC sem mudança material; alarme checkout Zelo mantido; ASC/InfinitePay bloqueados."
+    },
     {
       "quando": "2026-09-13T22:07:05-03:00",
       "texto": "Read-only sob ordem: RevenueCat ok; sem mudança material; ASC/InfinitePay bloqueados."
