@@ -2,11 +2,48 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "parado",
-  "resumo": "",
-  "proximo_passo": "",
+  "status": "trabalhando",
+  "resumo": "Ordem contínua via Pitaca: seguindo #16 identidade visual no PR posto7#1.",
+  "proximo_passo": "Tirar azul Expo do splash/ícone e alinhar ao tema âmbar.",
   "bloqueio": null,
-  "progresso": 0,
-  "atualizado_em": null,
-  "eventos": []
+  "progresso": 68,
+  "atualizado_em": "2026-09-13T22:06:56-03:00",
+  "eventos": [
+    {
+      "quando": "2026-09-13T22:06:56-03:00",
+      "texto": "Retomada 24/7 (Pitaca): puxando #16 visual no PR #1."
+    },
+    {
+      "quando": "2026-09-13T20:34:48-03:00",
+      "texto": "Settings/mute (#18/#15) no PR #1. Core jogável sem Dias fechado; esperando controle/EAS/assets."
+    },
+    {
+      "quando": "2026-09-13T20:20:12-03:00",
+      "texto": "Desafio #10 no PR #1 (756 pts, 1/2; liga local stub)."
+    },
+    {
+      "quando": "2026-09-13T19:45:36-03:00",
+      "texto": "#7/#5 no PR #1 (3 tipos + 3 armas; web 311s/806/+1923)."
+    },
+    {
+      "quando": "2026-09-13T18:54:38-03:00",
+      "texto": "XP/level-up (#6) verificado na web (lv12, 149s/286/+721)."
+    },
+    {
+      "quando": "2026-09-13T17:28:59-03:00",
+      "texto": "Save sqlite (#3) no PR #1; web reload ok; native sem device nesta run."
+    },
+    {
+      "quando": "2026-09-13T17:22:50-03:00",
+      "texto": "Hub (#2) no PR #1; cap math ok; sqlite ainda falta no native."
+    },
+    {
+      "quando": "2026-09-13T17:11:07-03:00",
+      "texto": "Combate jogável no PR #1 (web verificado). Sem preview EAS."
+    },
+    {
+      "quando": "2026-09-13T15:47:59-03:00",
+      "texto": "PR de design aberto: posto7#1 (GAME.md + ASSETS.md). Status esperando escolha de controle."
+    }
+  ]
 }
