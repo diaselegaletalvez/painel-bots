@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "esperando_voce",
-  "resumo": "Kick weekday (Pitaca): core no PR posto7#1; sem próximo item seguro sem o Dias.",
-  "proximo_passo": "Dias: escolher controle A/B/C e/ou mergear #1 + Expo/EAS; depois ads/IAP.",
-  "bloqueio": "Controle A/B/C + merge https://github.com/diaselegaletalvez/posto7/pull/1. Sem EAS/EXPO_TOKEN. Ads/IAP/arte/som finais também no Dias.",
-  "progresso": 82,
-  "atualizado_em": "2026-09-14T06:33:10-03:00",
+  "status": "trabalhando",
+  "resumo": "Mergeado posto7#1 em main (autorizado via Pitaca). Documentando controle B (arrastar) no GAME.md.",
+  "proximo_passo": "Fechar PR do GAME.md com controle B; EAS/ads/IAP continuam manuais do Dias.",
+  "bloqueio": null,
+  "progresso": 85,
+  "atualizado_em": "2026-09-20T15:12:37-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:37-03:00",
+      "texto": "posto7#1 mergeado em main. Controle v1 = B arrastar (offline-first)."
+    },
     {
       "quando": "2026-09-14T06:33:10-03:00",
       "texto": "Weekday kick: sem item jogável novo sem Dias (controle/EAS/IAP/ads/assets)."
