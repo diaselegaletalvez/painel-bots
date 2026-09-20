@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "trabalhando",
-  "resumo": "Arquivei melisse/merlisse; congelei Look360; próximo é inventariar o Mentor.",
-  "proximo_passo": "Inventariar o repo Mentor e escrever veredito no PENDENTES.",
-  "bloqueio": null,
-  "progresso": 90,
-  "atualizado_em": "2026-09-20T15:12:00-03:00",
+  "status": "esperando_voce",
+  "resumo": "Archive + Look360 ok. Mentor inventariado: proponho CONGELAR (protótipo parado desde jun).",
+  "proximo_passo": "Decidir Mentor: congelar, terminar (20–40h) ou arquivar.",
+  "bloqueio": "Decisão sobre Mentor (CONGELAR / TERMINAR / ARQUIVAR).",
+  "progresso": 92,
+  "atualizado_em": "2026-09-20T15:20:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:20:00-03:00",
+      "texto": "Mentor inventariado: monólito 591KB, API sem key, mock — proponho CONGELAR."
+    },
     {
       "quando": "2026-09-20T15:12:00-03:00",
       "texto": "Archive melisse+merlisse; Look360 congelado; Mentor promovido na fila."
