@@ -3,12 +3,16 @@
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
   "status": "concluido",
-  "resumo": "1 resposta Tom gravada (disco OK 45.6%); inbox limpo; 0 pendentes",
-  "proximo_passo": "Aguardar próxima ordem no inbox",
+  "resumo": "0 ordens no inbox; 0 sem resposta; bridge ok",
+  "proximo_passo": "Rotina weekday falhou várias vezes — investigar se voltar a falhar",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-14T06:31:51-03:00",
+  "atualizado_em": "2026-09-20T15:11:37-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:11:37-03:00",
+      "texto": "Varredura (Pitaca): inbox limpo; 0 pendentes. Rotina weekday com falhas recentes (Activity task failed)."
+    },
     {
       "quando": "2026-09-14T06:31:51-03:00",
       "texto": "Gravada respostas/tom/20260914-001223; fila Mac/disco fechada."
