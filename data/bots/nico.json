@@ -3,12 +3,16 @@
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
   "status": "trabalhando",
-  "resumo": "1 ordem merge Rex entregue; disco Rex atualizado; inbox limpo",
-  "proximo_passo": "Esperar Rex mergear espaco-mac#1 e gravar resposta",
+  "resumo": "Inbox limpo; 1 sem resposta (Rex merge espaco-mac#1)",
+  "proximo_passo": "Gravar respostas/rex/20260920-151157 quando Rex mandar",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-20T15:12:06-03:00",
+  "atualizado_em": "2026-09-20T15:12:39-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:39-03:00",
+      "texto": "Checagem CoS: inbox limpo; Mac online; pendente rex/20260920-151157 (merge); Rex pingado."
+    },
     {
       "quando": "2026-09-20T15:12:06-03:00",
       "texto": "Entregue rex/20260920-151157 (merge espaco-mac#1); atualizada respostas/rex/20260914-001223."
