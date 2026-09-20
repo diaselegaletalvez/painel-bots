@@ -2,13 +2,17 @@
   "slug": "nico",
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
-  "status": "trabalhando",
-  "resumo": "Inbox limpo; 1 sem resposta (Rex merge espaco-mac#1)",
-  "proximo_passo": "Gravar respostas/rex/20260920-151157 quando Rex mandar",
+  "status": "concluido",
+  "resumo": "1 resposta Rex (espaco-mac#1 MERGED); inbox limpo; 0 pendentes",
+  "proximo_passo": "Aguardar próxima ordem; Dias pode rodar ./lancar.sh 2.2 no Mac",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-20T15:12:39-03:00",
+  "atualizado_em": "2026-09-20T15:12:58-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:58-03:00",
+      "texto": "Gravada respostas/rex/20260920-151157; espaco-mac#1 MERGED."
+    },
     {
       "quando": "2026-09-20T15:12:39-03:00",
       "texto": "Checagem CoS: inbox limpo; Mac online; pendente rex/20260920-151157 (merge); Rex pingado."
