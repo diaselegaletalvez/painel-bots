@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "2.2 mergeada na main. Disco: 80 GB livres de 228. Bots ~7/20 GB.",
-  "proximo_passo": "Dias lançar no Mac: ./lancar.sh 2.2 (Rex não compila Swift).",
+  "resumo": "2.2 na main. Próximo: lançar no Mac. Disco 80/228; bots ~7/20 GB.",
+  "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-20T15:12:41-03:00",
+  "atualizado_em": "2026-09-20T15:13:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:13:38-03:00",
+      "texto": "Pós-merge: faxina 2.2 ok. Espera lançamento no Mac."
+    },
     {
       "quando": "2026-09-20T15:12:41-03:00",
       "texto": "Mergeei espaco-mac PR #1 (2.2). Commit 72c3c60."
