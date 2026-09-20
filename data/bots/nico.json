@@ -2,13 +2,17 @@
   "slug": "nico",
   "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
-  "status": "concluido",
-  "resumo": "0 ordens no inbox; 0 sem resposta; bridge ok",
-  "proximo_passo": "Rotina weekday falhou várias vezes — investigar se voltar a falhar",
+  "status": "trabalhando",
+  "resumo": "1 ordem merge Rex entregue; disco Rex atualizado; inbox limpo",
+  "proximo_passo": "Esperar Rex mergear espaco-mac#1 e gravar resposta",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-20T15:11:37-03:00",
+  "atualizado_em": "2026-09-20T15:12:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:06-03:00",
+      "texto": "Entregue rex/20260920-151157 (merge espaco-mac#1); atualizada respostas/rex/20260914-001223."
+    },
     {
       "quando": "2026-09-20T15:11:37-03:00",
       "texto": "Varredura (Pitaca): inbox limpo; 0 pendentes. Rotina weekday com falhas recentes (Activity task failed)."
