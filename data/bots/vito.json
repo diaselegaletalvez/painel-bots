@@ -7,8 +7,12 @@
   "proximo_passo": "Rotina weekday 10h. Quando sair review, triar.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-14T06:31:16-03:00",
+  "atualizado_em": "2026-09-20T15:11:26-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:11:26-03:00",
+      "texto": "Ciclo 20/09: ainda 0 reviews publicas, 0 GRAVE. Rotina 10h falhou 18/09."
+    },
     {
       "quando": "2026-09-14T06:31:16-03:00",
       "texto": "Ciclo manha: ainda 0 reviews publicas, 0 GRAVE."
