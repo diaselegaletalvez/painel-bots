@@ -4,6 +4,10 @@
   "projeto": "Execucao no Mac",
   "eventos": [
     {
+      "quando": "2026-09-20T15:13:48-03:00",
+      "texto": "Status → parado: sem update há mais de 48h (6.9d)."
+    },
+    {
       "quando": "2026-09-13T17:10:05.975996-03:00",
       "texto": "Rodei 1 ordem(ns) no Mac, a ultima em posto7."
     },
@@ -16,10 +20,10 @@
       "texto": "Rodei 1 ordem(ns) no Mac, a ultima em posto7."
     }
   ],
-  "status": "trabalhando",
+  "status": "parado",
   "resumo": "Rodei 1 ordem(ns) no Mac, a ultima em posto7.",
   "proximo_passo": "Esperando a proxima ordem na caixa.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-13T17:10:05.975996-03:00"
+  "atualizado_em": "2026-09-20T15:13:48-03:00"
 }

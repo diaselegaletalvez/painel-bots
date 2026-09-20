@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Sync 20/09: status Gus/Max/Vito/Ravi/Theo/Kiko/Rex na main.",
-  "proximo_passo": "Investigar falha das rotinas Check bots 48h e painel diário.",
-  "bloqueio": "Rotinas automáticas falhando (Activity task failed) — preciso olhar o runtime ou você rearmar.",
-  "progresso": 90,
-  "atualizado_em": "2026-09-20T15:12:09-03:00",
+  "resumo": "Sync + 48h: 6 ok/trabalhando, 4 esperando você, 0 bloqueado, 2 parado. Rotinas reescritas após Activity task failed.",
+  "proximo_passo": "Confirmar se as rotinas voltam a rodar amanhã às 8h / weekday 10:15.",
+  "bloqueio": null,
+  "progresso": 95,
+  "atualizado_em": "2026-09-20T15:13:48-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:13:48-03:00",
+      "texto": "Normalizei main; 48h marcou: ravi (6.4d), tom (6.9d). Rotinas atualizadas."
+    },
     {
       "quando": "2026-09-20T15:12:09-03:00",
       "texto": "Também mergeei Rex #25. Rotinas Bobby ainda reportando falha."
