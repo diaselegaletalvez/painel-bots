@@ -3,15 +3,19 @@
   "nome": "Kiko",
   "projeto": "GameTrack",
   "status": "esperando_voce",
-  "resumo": "Comunidade cortada do 1.0. Cortes anteriores no PR. Bloqueado em legal + entitlement CADE.",
-  "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails, DPO e aceita o entitlement CADE.",
+  "resumo": "Cortes no PR do source: comunidade, parental, Família off; links legais temporários. Bloqueado em CNPJ/CADE.",
+  "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails, DPO e aceita entitlement CADE.",
   "bloqueio": "Dados legais + entitlement CADE (Account Holder).",
-  "progresso": 28,
-  "atualizado_em": "2026-09-14T06:33:51-03:00",
+  "progresso": 34,
+  "atualizado_em": "2026-09-20T15:12:39-03:00",
   "eventos": [
     {
+      "quando": "2026-09-20T15:12:39-03:00",
+      "texto": "Retomada 20/09: parental/comunidade off; links GitHub Pages no app; painel atualizado. Sem device."
+    },
+    {
       "quando": "2026-09-14T06:33:51-03:00",
-      "texto": "Comunidade off (FEATURES.comunidade). Painel atualizado. Sem device test."
+      "texto": "Comunidade off (FEATURES.comunidade). Sem device test."
     },
     {
       "quando": "2026-09-13T16:34:01-03:00",
