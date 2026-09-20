@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "trabalhando",
-  "resumo": "Mergeado posto7#1 em main (autorizado via Pitaca). Documentando controle B (arrastar) no GAME.md.",
-  "proximo_passo": "Fechar PR do GAME.md com controle B; EAS/ads/IAP continuam manuais do Dias.",
-  "bloqueio": null,
-  "progresso": 85,
-  "atualizado_em": "2026-09-20T15:12:37-03:00",
+  "status": "esperando_voce",
+  "resumo": "posto7#1 em main; controle B documentado (PR #2). Sem EAS/ads/IAP.",
+  "proximo_passo": "Dias liberar Expo/EAS pra preview no celular; ads/IAP quando autorizar; arte/som finais.",
+  "bloqueio": "EAS/EXPO_TOKEN (preview jogável no device). Ads/IAP e assets finais também manuais.",
+  "progresso": 86,
+  "atualizado_em": "2026-09-20T15:14:34-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:14:34-03:00",
+      "texto": "Controle B fixado no GAME.md (PR #2). Bloqueado em EAS/ads/IAP/assets."
+    },
     {
       "quando": "2026-09-20T15:12:37-03:00",
       "texto": "posto7#1 mergeado em main. Controle v1 = B arrastar (offline-first)."
