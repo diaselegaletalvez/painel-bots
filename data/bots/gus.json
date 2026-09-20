@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
   "status": "trabalhando",
-  "resumo": "Weekday/Pitaca: conferindo se ainda há item seguro no V3 ou se bloqueio ASC/deploy permanece.",
-  "proximo_passo": "Se não houver gap seguro, voltar a esperando_voce e avisar Pitaca/Chief.",
+  "resumo": "Revalidação V3: pais sem gap seguro. Prod já tem pairing find-or-update e realtime; livekit-token em prod referencia asParent sem definir (bug). Corrigindo no repo filho.",
+  "proximo_passo": "Fechar fix asParent no zelo; NÃO deployar pairing do zelo-pais (prod já é mais novo). Dias: ASC SKUs + deploy livekit-token.",
   "bloqueio": null,
-  "progresso": 95,
-  "atualizado_em": "2026-09-14T06:31:24-03:00",
+  "progresso": 96,
+  "atualizado_em": "2026-09-20T15:12:12-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:12-03:00",
+      "texto": "Pitaca 20/09: revalidou V3 — sem código seguro no pais; corrigindo asParent no livekit-token do filho."
+    },
     {
       "quando": "2026-09-14T06:31:24-03:00",
       "texto": "Pitaca: Mac ligado / weekday cheio — rechecando gaps seguros do V3."
