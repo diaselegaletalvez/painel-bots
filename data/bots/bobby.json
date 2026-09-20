@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Mergeei status Gus/Max/Vito/Ravi/Theo/Kiko na main; índice ok.",
-  "proximo_passo": "Manter sync de PRs de status e rotinas do painel saudáveis.",
-  "bloqueio": null,
-  "progresso": 95,
-  "atualizado_em": "2026-09-20T15:11:51-03:00",
+  "resumo": "Sync 20/09: status Gus/Max/Vito/Ravi/Theo/Kiko/Rex na main.",
+  "proximo_passo": "Investigar falha das rotinas Check bots 48h e painel diário.",
+  "bloqueio": "Rotinas automáticas falhando (Activity task failed) — preciso olhar o runtime ou você rearmar.",
+  "progresso": 90,
+  "atualizado_em": "2026-09-20T15:12:09-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:09-03:00",
+      "texto": "Também mergeei Rex #25. Rotinas Bobby ainda reportando falha."
+    },
     {
       "quando": "2026-09-20T15:11:51-03:00",
       "texto": "Merge #19–#24 (Gus/Max/Vito/Ravi/Theo/Kiko)."
