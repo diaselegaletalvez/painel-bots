@@ -3,12 +3,16 @@
   "nome": "Kiko",
   "projeto": "GameTrack",
   "status": "esperando_voce",
-  "resumo": "Cortes no PR do source: comunidade, parental, Família off; links legais temporários. Bloqueado em CNPJ/CADE.",
+  "resumo": "Cortes 1.0 no PR gametrack#1 (incl. Ativar Código fora do iOS). Sem mais corte sem legal/CADE.",
   "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails, DPO e aceita entitlement CADE.",
   "bloqueio": "Dados legais + entitlement CADE (Account Holder).",
-  "progresso": 34,
-  "atualizado_em": "2026-09-20T15:12:39-03:00",
+  "progresso": 28,
+  "atualizado_em": "2026-09-20T15:18:13-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:18:13-03:00",
+      "texto": "Ativar Código fora do iOS; admin só em __DEV__. LANCAMENTO 19/67 (28%). Sem device."
+    },
     {
       "quando": "2026-09-20T15:12:39-03:00",
       "texto": "Retomada 20/09: parental/comunidade off; links GitHub Pages no app; painel atualizado. Sem device."
