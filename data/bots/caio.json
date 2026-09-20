@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "trabalhando",
-  "resumo": "Mentor congelado. Inventariei cats-and-cats; próximo é smoke Expo no Mac.",
-  "proximo_passo": "Smoke do app cats-and-cats no Mac (expo start + login).",
-  "bloqueio": null,
-  "progresso": 94,
-  "atualizado_em": "2026-09-20T20:17:45-03:00",
+  "status": "esperando_voce",
+  "resumo": "Mentor congelado. README do cats-and-cats ok. Falta smoke Expo — Mac offline.",
+  "proximo_passo": "Mac online pra smoke do cats-and-cats (expo start + login).",
+  "bloqueio": "Mac (Gabriels-Laptop) offline pra smoke Expo.",
+  "progresso": 95,
+  "atualizado_em": "2026-09-20T20:18:05-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T20:18:05-03:00",
+      "texto": "README cats-and-cats escrito. Smoke bloqueado: Mac offline."
+    },
     {
       "quando": "2026-09-20T20:17:45-03:00",
       "texto": "Mentor CONGELADO (README). cats-and-cats promovido: inventário + DoD."
