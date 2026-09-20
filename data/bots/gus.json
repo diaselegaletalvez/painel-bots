@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "esperando_voce",
-  "resumo": "V3 código fechado (pais PR #1 + filho PR #1). Audit corrigiu 2 bugs (overview limit vs app-limit; merge bonus_minutes). Sem item seguro restante.",
-  "proximo_passo": "Dias: ASC price/trial + subscription group; deploy Supabase (realtime SQL, pairing, livekit-token); merge/testar.",
-  "bloqueio": "1) ASC/StoreKit: price e trial_duration null nos 4 SKUs do Pais + mesmo subscription group. 2) Deploy no toupnhvsswnixtpgedoh: migration 20260913_realtime_publication_v3.sql + functions pairing e livekit-token.",
+  "status": "trabalhando",
+  "resumo": "Weekday/Pitaca: conferindo se ainda há item seguro no V3 ou se bloqueio ASC/deploy permanece.",
+  "proximo_passo": "Se não houver gap seguro, voltar a esperando_voce e avisar Pitaca/Chief.",
+  "bloqueio": null,
   "progresso": 95,
-  "atualizado_em": "2026-09-13T22:12:11-03:00",
+  "atualizado_em": "2026-09-14T06:31:24-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-14T06:31:24-03:00",
+      "texto": "Pitaca: Mac ligado / weekday cheio — rechecando gaps seguros do V3."
+    },
     {
       "quando": "2026-09-13T22:12:11-03:00",
       "texto": "Audit pais: 2 bugs corrigidos (1024292). Código V3 completo; bloqueado em ASC/deploy."
