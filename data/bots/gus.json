@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "Revalidação V3: pais sem gap seguro. Prod já tem pairing find-or-update e realtime; livekit-token em prod referencia asParent sem definir (bug). Corrigindo no repo filho.",
-  "proximo_passo": "Fechar fix asParent no zelo; NÃO deployar pairing do zelo-pais (prod já é mais novo). Dias: ASC SKUs + deploy livekit-token.",
-  "bloqueio": null,
-  "progresso": 96,
-  "atualizado_em": "2026-09-20T15:12:12-03:00",
+  "status": "esperando_voce",
+  "resumo": "V3 código fechado. Fix asParent no livekit-token no PR zelo #1. Pais sem gap. Prod pairing/realtime já ok — NÃO deployar pairing do zelo-pais.",
+  "proximo_passo": "Dias: deploy livekit-token; ASC 4 SKUs preço/trial + mesmo subscription group; merge PRs.",
+  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh 2) ASC/StoreKit: price/trial null nos 4 SKUs do Pais + mesmo subscription group. NÃO deployar pairing do zelo-pais (prod mais novo).",
+  "progresso": 97,
+  "atualizado_em": "2026-09-20T15:15:47-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:15:47-03:00",
+      "texto": "Fix asParent no livekit-token (PR zelo #1). Sem gap seguro; esperando Dias em deploy+ASC."
+    },
     {
       "quando": "2026-09-20T15:12:12-03:00",
       "texto": "Pitaca 20/09: revalidou V3 — sem código seguro no pais; corrigindo asParent no livekit-token do filho."
