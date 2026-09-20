@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Sync: main limpa, zero PRs abertos, bots.json bate com os arquivos.",
-  "proximo_passo": "Próximo ciclo: mergear status novos se aparecerem PRs.",
+  "resumo": "Mergeei status Gus/Max/Vito/Ravi/Theo/Kiko na main; índice ok.",
+  "proximo_passo": "Manter sync de PRs de status e rotinas do painel saudáveis.",
   "bloqueio": null,
   "progresso": 95,
-  "atualizado_em": "2026-09-14T06:31:52-03:00",
+  "atualizado_em": "2026-09-20T15:11:51-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:11:51-03:00",
+      "texto": "Merge #19–#24 (Gus/Max/Vito/Ravi/Theo/Kiko)."
+    },
     {
       "quando": "2026-09-14T06:31:52-03:00",
       "texto": "Checagem CoS: nada pra mergear; índice ok."
