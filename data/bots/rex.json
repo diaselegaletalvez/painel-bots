@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Disco vivo: 80 GB livres de 228. Bots ~7 GB / teto 20. 2.2 no PR, sem merge.",
-  "proximo_passo": "Dias mergear espaco-mac PR #1 (e site PR #1). Rotina 8h falhou — rever.",
-  "bloqueio": "Merge da 2.2 ainda sem ordem no inbox.",
-  "progresso": 75,
-  "atualizado_em": "2026-09-20T15:11:29-03:00",
+  "resumo": "2.2 mergeada na main. Disco: 80 GB livres de 228. Bots ~7/20 GB.",
+  "proximo_passo": "Dias lançar no Mac: ./lancar.sh 2.2 (Rex não compila Swift).",
+  "bloqueio": null,
+  "progresso": 90,
+  "atualizado_em": "2026-09-20T15:12:41-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T15:12:41-03:00",
+      "texto": "Mergeei espaco-mac PR #1 (2.2). Commit 72c3c60."
+    },
     {
       "quando": "2026-09-20T15:11:29-03:00",
       "texto": "Disco vivo 80/228. Bots ~7/20 GB. Merge 2.2 sem inbox."
