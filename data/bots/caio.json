@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Archive + Look360 ok. Mentor inventariado: proponho CONGELAR (protótipo parado desde jun).",
-  "proximo_passo": "Decidir Mentor: congelar, terminar (20–40h) ou arquivar.",
+  "resumo": "Revisão semanal: semana forte no agora; Mentor ainda sem decisão (código parado há 111 dias).",
+  "proximo_passo": "Dias decide Mentor: congelar, terminar (20–40h) ou arquivar.",
   "bloqueio": "Decisão sobre Mentor (CONGELAR / TERMINAR / ARQUIVAR).",
   "progresso": 92,
-  "atualizado_em": "2026-09-20T15:20:00-03:00",
+  "atualizado_em": "2026-09-20T22:06:33-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-20T22:06:33-03:00",
+      "texto": "Revisão semanal: Claquete/ikly/triagem/Look360 avançaram; Mentor TERMINAR estagnado 111 dias — espera decisão."
+    },
     {
       "quando": "2026-09-20T15:20:00-03:00",
       "texto": "Mentor inventariado: monólito 591KB, API sem key, mock — proponho CONGELAR."
