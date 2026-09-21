@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "Rotina 21/09: nada jogável novo — Mac offline, sem EAS/EXPO_TOKEN; #13/#14/#15 assets ainda no Dias.",
+  "resumo": "Noite 21/09 (Kiito): zero gap seguro sem EAS/Mac/Dias; #13–#16 manuais. Parado.",
   "proximo_passo": "Dias ligar o Mac com Expo/EAS (ou EXPO_TOKEN) pra preview; liberar ads/IAP e arte/som finais.",
   "bloqueio": "EAS/EXPO_TOKEN + device/Mac. Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-09-21T09:51:00-03:00",
+  "atualizado_em": "2026-09-21T20:28:03-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T20:28:03-03:00",
+      "texto": "Noite 21/09 Kiito: zero gap sem EAS/Mac; esperando_voce."
+    },
     {
       "quando": "2026-09-21T09:51:00-03:00",
       "texto": "Rotina diária: Mac desconectado; sem item jogável sem EAS. Aviso ao CoS."
