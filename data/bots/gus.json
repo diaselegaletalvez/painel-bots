@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "Kick weekday 21/09 (Kiito): revalidando fix asParent no livekit-token + PRs. Mac offline — sem smoke device.",
-  "proximo_passo": "Confirmar fix fechado no PR zelo #1; se ok, voltar esperando_voce (ASC + deploy livekit-token).",
-  "bloqueio": null,
-  "progresso": 97,
-  "atualizado_em": "2026-09-21T09:09:50-03:00",
+  "status": "esperando_voce",
+  "resumo": "Revalidação 21/09: sem gap seguro. asParent fechado no PR zelo #1; pais PR #1 draft ok. ASC SKUs já APPROVED no grupo Zelo Premium.",
+  "proximo_passo": "Dias: deploy livekit-token; merge PRs zelo #1 + zelo-pais #1 (tirar draft); smoke lite/full no device.",
+  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (prod ainda v23 com asParent). 2) Merge PRs. 3) Smoke device lite/full. NÃO deployar pairing do zelo-pais (prod v41 mais novo). ASC preços na loja já ok.",
+  "progresso": 98,
+  "atualizado_em": "2026-09-21T09:12:46-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T09:12:46-03:00",
+      "texto": "21/09 revalidação: asParent ok no código; ASC SKUs APPROVED; bloqueio restante = deploy livekit-token + merge + smoke device."
+    },
     {
       "quando": "2026-09-21T09:09:50-03:00",
       "texto": "Kiito 21/09: kick weekday — revalidando asParent/PRs (Mac offline)."
