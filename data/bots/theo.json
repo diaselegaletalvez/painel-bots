@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "posto7#1 em main; controle B documentado (PR #2). Sem EAS/ads/IAP.",
-  "proximo_passo": "Dias liberar Expo/EAS pra preview no celular; ads/IAP quando autorizar; arte/som finais.",
-  "bloqueio": "EAS/EXPO_TOKEN (preview jogável no device). Ads/IAP e assets finais também manuais.",
+  "resumo": "Kick 21/09: controle B já em main (posto7#2). Sem EAS — Mac offline.",
+  "proximo_passo": "Dias liberar Expo/EAS quando o Mac/device estiver disponível; ads/IAP/assets manuais.",
+  "bloqueio": "EAS/EXPO_TOKEN + device/Mac. Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-09-20T15:14:34-03:00",
+  "atualizado_em": "2026-09-21T09:10:34-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T09:10:34-03:00",
+      "texto": "Kick 21/09: doc B já mergeada; sem EAS (Mac offline)."
+    },
     {
       "quando": "2026-09-20T15:14:34-03:00",
       "texto": "Controle B fixado no GAME.md (PR #2). Bloqueado em EAS/ads/IAP/assets."
