@@ -3,12 +3,16 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "PRs de ASO/criativos/campanha mergeados na main. CONNECT pronto. ASC e spend bloqueados até arte dos screenshots.",
-  "proximo_passo": "Produzir screenshots do CRIATIVOS e só então autorizar colar CONNECT no App Store Connect.",
+  "resumo": "Prep ASO/criativos/campanha na main. Ficha live ainda a antiga. ASC e spend bloqueados até arte dos screenshots.",
+  "proximo_passo": "Produzir screenshots do CRIATIVOS e só então colar CONNECT e publicar na ASC.",
   "bloqueio": "Arte dos screenshots. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 90,
-  "atualizado_em": "2026-09-21T09:09:06-03:00",
+  "atualizado_em": "2026-09-21T11:48:33-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T11:48:33-03:00",
+      "texto": "Chequei a ficha live e rivais: nada mudou. Continua bloqueado em arte."
+    },
     {
       "quando": "2026-09-21T09:09:06-03:00",
       "texto": "Mergeados marketing PRs #1–#4 (ASO, CRIATIVOS, CONNECT/CAMPANHAS/GASTOS, PRIORIDADE)."
