@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Mentor congelado. README do cats-and-cats ok. Falta smoke Expo — Mac offline.",
-  "proximo_passo": "Mac online pra smoke do cats-and-cats (expo start + login).",
-  "bloqueio": "Mac (Gabriels-Laptop) offline pra smoke Expo.",
+  "resumo": "Fila agora limpa até cats-and-cats. README ok; smoke Expo ainda depende do Mac.",
+  "proximo_passo": "Mac online pra smoke do cats-and-cats (expo start + login + 2 tabs).",
+  "bloqueio": "Mac (Gabriels-Laptop) offline — sem smoke Expo.",
   "progresso": 95,
-  "atualizado_em": "2026-09-20T20:18:05-03:00",
+  "atualizado_em": "2026-09-21T10:16:27-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T10:16:27-03:00",
+      "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
+    },
     {
       "quando": "2026-09-20T20:18:05-03:00",
       "texto": "README cats-and-cats escrito. Smoke bloqueado: Mac offline."
