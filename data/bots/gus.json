@@ -2,13 +2,17 @@
   "slug": "gus",
   "nome": "Gus",
   "projeto": "Zelo v2 (pais + filho)",
-  "status": "esperando_voce",
-  "resumo": "V3 código fechado. Fix asParent no livekit-token no PR zelo #1. Pais sem gap. Prod pairing/realtime já ok — NÃO deployar pairing do zelo-pais.",
-  "proximo_passo": "Dias: deploy livekit-token; ASC 4 SKUs preço/trial + mesmo subscription group; merge PRs.",
-  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh 2) ASC/StoreKit: price/trial null nos 4 SKUs do Pais + mesmo subscription group. NÃO deployar pairing do zelo-pais (prod mais novo).",
+  "status": "trabalhando",
+  "resumo": "Kick weekday 21/09 (Kiito): revalidando fix asParent no livekit-token + PRs. Mac offline — sem smoke device.",
+  "proximo_passo": "Confirmar fix fechado no PR zelo #1; se ok, voltar esperando_voce (ASC + deploy livekit-token).",
+  "bloqueio": null,
   "progresso": 97,
-  "atualizado_em": "2026-09-20T15:15:47-03:00",
+  "atualizado_em": "2026-09-21T09:09:50-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T09:09:50-03:00",
+      "texto": "Kiito 21/09: kick weekday — revalidando asParent/PRs (Mac offline)."
+    },
     {
       "quando": "2026-09-20T15:15:47-03:00",
       "texto": "Fix asParent no livekit-token (PR zelo #1). Sem gap seguro; esperando Dias em deploy+ASC."
