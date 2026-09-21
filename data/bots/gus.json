@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v3 (pais + filho)",
   "status": "esperando_voce",
-  "resumo": "Código V3 fechado nos dois PRs. Sem item seguro hoje — falta só ação do Dias (deploy + ASC).",
-  "proximo_passo": "Dias: deploy livekit-token da branch v3 do zelo; ASC com 4 SKUs do Pais no mesmo grupo e com preço.",
-  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (branch v3 do zelo; prod ainda v23 com bug asParent). 2) ASC: 4 SKUs do Pais com preço, mesmo grupo de assinatura. NÃO deployar pairing do v3 kids (prod já é v41).",
+  "resumo": "Noite 21/09 (Mac off): sem gap seguro. Continua só deploy livekit-token + merge/smoke + ASC — parado.",
+  "proximo_passo": "Dias: deploy livekit-token da branch v3 do zelo; merge PRs; smoke device; ASC SKUs Pais com preço no mesmo grupo.",
+  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (prod ainda v23). 2) Merge zelo #1 + undraft/merge zelo-pais #1. 3) Smoke. NÃO deployar pairing (prod já v41). ASC preços Pais.",
   "progresso": 98,
-  "atualizado_em": "2026-09-21T09:30:10-03:00",
+  "atualizado_em": "2026-09-21T20:27:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T20:27:00-03:00",
+      "texto": "Kiito noite 21/09: recheck — sem gap seguro sem deploy/ASC/Dias/Mac; mantém esperando_voce."
+    },
     {
       "quando": "2026-09-21T09:30:10-03:00",
       "texto": "Rotina 21/09: sem item seguro de código. asParent já fechado no kids v3 (PR #1); prod livekit-token ainda v23. Bloqueado no Dias."
