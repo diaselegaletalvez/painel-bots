@@ -2,32 +2,24 @@
   "slug": "ravi",
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
-  "status": "parado",
-  "resumo": "PRIORIDADE.md com ordem de execução; ficha live sem drift; PRs de ASO/criativos/campanha ainda abertos.",
-  "proximo_passo": "Merge dos PRs, colar CONNECT.md no App Store Connect e produzir screenshots.",
-  "bloqueio": "Arte dos screenshots e publicação da ficha — sem isso ads ficam dormindo.",
-  "progresso": 85,
-  "atualizado_em": "2026-09-20T15:13:48-03:00",
+  "status": "esperando_voce",
+  "resumo": "PRs de ASO/criativos/campanha mergeados na main. CONNECT pronto. ASC e spend bloqueados até arte dos screenshots.",
+  "proximo_passo": "Produzir screenshots do CRIATIVOS e só então autorizar colar CONNECT no App Store Connect.",
+  "bloqueio": "Arte dos screenshots. Sem isso não publico na ASC nem proponho ads.",
+  "progresso": 90,
+  "atualizado_em": "2026-09-21T09:09:06-03:00",
   "eventos": [
     {
-      "quando": "2026-09-20T15:13:48-03:00",
-      "texto": "Status → parado: sem update há mais de 48h (6.4d)."
+      "quando": "2026-09-21T09:09:06-03:00",
+      "texto": "Mergeados marketing PRs #1–#4 (ASO, CRIATIVOS, CONNECT/CAMPANHAS/GASTOS, PRIORIDADE)."
     },
     {
-      "quando": "2026-09-14T06:31:11-03:00",
-      "texto": "PRIORIDADE.md: ordem merge → Connect → arte → live → ASA."
+      "quando": "2026-09-21T09:09:06-03:00",
+      "texto": "Ordem Pitaca (Mac offline): sem ASC e sem spend até arte."
     },
     {
-      "quando": "2026-09-14T06:31:11-03:00",
-      "texto": "Snapshot BR: Zelo ainda 0 ratings; idioma EN; concorrentes estáveis."
-    },
-    {
-      "quando": "2026-09-13T22:07:13-03:00",
-      "texto": "CAMPANHAS.md e GASTOS.md preparados (dormintes até ASO live)."
-    },
-    {
-      "quando": "2026-09-13T16:31:30-03:00",
-      "texto": "CRIATIVOS.md: copy pra colar no Connect + brief de 6+5 screenshots."
+      "quando": "2026-09-20T15:13:00-03:00",
+      "texto": "Ordem CoS: prep only; tentativa de Connect cancelada."
     }
   ]
 }
