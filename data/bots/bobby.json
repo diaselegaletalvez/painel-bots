@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Sync + 48h: 6 ok/trabalhando, 4 esperando você, 0 bloqueado, 2 parado. Rotinas reescritas após Activity task failed.",
-  "proximo_passo": "Confirmar se as rotinas voltam a rodar amanhã às 8h / weekday 10:15.",
+  "resumo": "Checagem 48h: nenhum bot stale. 4 trabalhando, 2 concluídos, 4 esperando você, 2 parados.",
+  "proximo_passo": "Manter rotina diária às 8h; amanhã marcar quem passar de 48h sem update.",
   "bloqueio": null,
   "progresso": 95,
-  "atualizado_em": "2026-09-20T15:13:48-03:00",
+  "atualizado_em": "2026-09-21T08:21:31-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T08:21:31-03:00",
+      "texto": "Checagem 48h: zero stale; ravi e tom já estavam parados."
+    },
     {
       "quando": "2026-09-20T15:13:48-03:00",
       "texto": "Normalizei main; 48h marcou: ravi (6.4d), tom (6.9d). Rotinas atualizadas."
