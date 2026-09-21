@@ -1,14 +1,18 @@
 {
   "slug": "gus",
   "nome": "Gus",
-  "projeto": "Zelo v2 (pais + filho)",
-  "status": "trabalhando",
-  "resumo": "Revalidação V3: pais sem gap seguro. Prod já tem pairing find-or-update e realtime; livekit-token em prod referencia asParent sem definir (bug). Corrigindo no repo filho.",
-  "proximo_passo": "Fechar fix asParent no zelo; NÃO deployar pairing do zelo-pais (prod já é mais novo). Dias: ASC SKUs + deploy livekit-token.",
-  "bloqueio": null,
-  "progresso": 96,
-  "atualizado_em": "2026-09-20T15:12:12-03:00",
+  "projeto": "Zelo v3 (pais + filho)",
+  "status": "esperando_voce",
+  "resumo": "Código V3 fechado nos dois PRs. Sem item seguro hoje — falta só ação do Dias (deploy + ASC).",
+  "proximo_passo": "Dias: deploy livekit-token da branch v3 do zelo; ASC com 4 SKUs do Pais no mesmo grupo e com preço.",
+  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (branch v3 do zelo; prod ainda v23 com bug asParent). 2) ASC: 4 SKUs do Pais com preço, mesmo grupo de assinatura. NÃO deployar pairing do v3 kids (prod já é v41).",
+  "progresso": 98,
+  "atualizado_em": "2026-09-21T09:30:10-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T09:30:10-03:00",
+      "texto": "Rotina 21/09: sem item seguro de código. asParent já fechado no kids v3 (PR #1); prod livekit-token ainda v23. Bloqueado no Dias."
+    },
     {
       "quando": "2026-09-20T15:12:12-03:00",
       "texto": "Pitaca 20/09: revalidou V3 — sem código seguro no pais; corrigindo asParent no livekit-token do filho."
