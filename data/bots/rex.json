@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "2.2 na main. Próximo: lançar no Mac. Disco 80/228; bots ~7/20 GB.",
+  "resumo": "Checagem 21/09: Mac offline. Snapshot 80/228 livres. Sem alerta. 2.2 na main.",
   "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-20T15:13:38-03:00",
+  "atualizado_em": "2026-09-21T08:21:43-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T08:21:43-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 80/228. Sem alerta."
+    },
     {
       "quando": "2026-09-20T15:13:38-03:00",
       "texto": "Pós-merge: faxina 2.2 ok. Espera lançamento no Mac."
@@ -44,10 +48,6 @@
     {
       "quando": "2026-09-13T16:28:21-03:00",
       "texto": "Li o snapshot do Mac. 0 alerta grave. 1 atualização pendente."
-    },
-    {
-      "quando": "2026-09-13T14:20:00-03:00",
-      "texto": "Comecei a primeira rodada: escopo da 2.2 e leitura do Mac."
     }
   ]
 }
