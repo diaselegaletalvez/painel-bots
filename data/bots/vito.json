@@ -7,8 +7,12 @@
   "proximo_passo": "Rotina weekday 10h. Dias precisa relogar no App Store Connect neste computador.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-21T10:34:03-03:00",
+  "atualizado_em": "2026-09-21T15:23:15-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T15:23:15-03:00",
+      "texto": "Varredura tarde 21/09: iTunes/RSS BR-US-PT ainda 0 reviews nos 3 apps; GameTrack sem listing; ASC nao reaberto (login pendente)."
+    },
     {
       "quando": "2026-09-21T10:34:03-03:00",
       "texto": "Ciclo 21/09: RSS/lookup iTunes 0 reviews nos 3 apps, 0 GRAVE. ASC na tela de login (sessao caiu)."
