@@ -2,13 +2,17 @@
   "slug": "kiko",
   "nome": "Kiko",
   "projeto": "GameTrack",
-  "status": "trabalhando",
-  "resumo": "Cortando cold first launch (offline/sem backend) na branch do PR #1. CADE/legal ainda no Dias.",
-  "proximo_passo": "Fechar item de cold launch no LANCAMENTO e seguir no que não dependa do Dias.",
-  "bloqueio": null,
-  "progresso": 28,
-  "atualizado_em": "2026-09-21T10:02:04-03:00",
+  "status": "esperando_voce",
+  "resumo": "Cortes 1.0 no PR gametrack#1 (cold launch + Sugestões IA off). Sem mais corte sem legal/CADE.",
+  "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails, DPO e aceita entitlement CADE.",
+  "bloqueio": "Dados legais + entitlement CADE (Account Holder).",
+  "progresso": 31,
+  "atualizado_em": "2026-09-21T10:10:08-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T10:10:08-03:00",
+      "texto": "Ship 21/09: sugestoesIA off; cold launch. LANCAMENTO 21/68 (31%). Sem device."
+    },
     {
       "quando": "2026-09-21T10:02:04-03:00",
       "texto": "Ship diário 21/09: cold launch na fila; domínio e legal ainda bloqueados."
