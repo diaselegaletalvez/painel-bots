@@ -3,12 +3,16 @@
   "nome": "Kiko",
   "projeto": "GameTrack",
   "status": "trabalhando",
-  "resumo": "Cortando cold first launch (offline/sem backend) na branch do PR #1. CADE/legal ainda no Dias.",
-  "proximo_passo": "Fechar item de cold launch no LANCAMENTO e seguir no que não dependa do Dias.",
+  "resumo": "Cold launch no PR#1. Cortando Sugestões IA do drawer. CADE/legal no Dias.",
+  "proximo_passo": "Fechar gate de Sugestões IA; depois esperando dados legais + CADE.",
   "bloqueio": null,
-  "progresso": 28,
-  "atualizado_em": "2026-09-21T10:02:04-03:00",
+  "progresso": 30,
+  "atualizado_em": "2026-09-21T10:07:49-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T10:07:49-03:00",
+      "texto": "Ship 21/09: cold launch 20/67 (30%). Sem device. Sugestões IA na fila."
+    },
     {
       "quando": "2026-09-21T10:02:04-03:00",
       "texto": "Ship diário 21/09: cold launch na fila; domínio e legal ainda bloqueados."
