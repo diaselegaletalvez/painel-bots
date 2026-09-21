@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Checagem 48h: nenhum bot stale. 4 trabalhando, 2 concluídos, 4 esperando você, 2 parados.",
-  "proximo_passo": "Manter rotina diária às 8h; amanhã marcar quem passar de 48h sem update.",
+  "resumo": "Health weekday: mergeei 2 PRs de status (Max #43, Rex #39); fechei 8 supersedidos (kiko/gus/max antigos); índice bots.json já ok.",
+  "proximo_passo": "Próxima checagem weekday de saúde do painel (PRs de status + sync do índice).",
   "bloqueio": null,
-  "progresso": 95,
-  "atualizado_em": "2026-09-21T08:21:31-03:00",
+  "progresso": 96,
+  "atualizado_em": "2026-09-21T11:08:10-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-21T11:08:10-03:00",
+      "texto": "Health: merge #43 Max + #39 Rex; close #33–#45 supersedidos; bots.json sync ok."
+    },
     {
       "quando": "2026-09-21T08:21:31-03:00",
       "texto": "Checagem 48h: zero stale; ravi e tom já estavam parados."
