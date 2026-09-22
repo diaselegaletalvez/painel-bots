@@ -3,12 +3,16 @@
   "nome": "Vito",
   "projeto": "Reviews e suporte",
   "status": "concluido",
-  "resumo": "3 apps no ar, 0 reviews, 0 GRAVE. Play: 0 apps. ASC pediu login.",
+  "resumo": "3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login.",
   "proximo_passo": "Rotina weekday 10h. Dias precisa relogar no App Store Connect neste computador.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-21T15:23:15-03:00",
+  "atualizado_em": "2026-09-22T10:48:39-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T10:48:39-03:00",
+      "texto": "Ciclo 22/09: iTunes/RSS (BR/US/PT + extras) 0 reviews nos 3 apps, 0 GRAVE. GameTrack/Cats fora desta conta. ASC authResult=FAILED (login)."
+    },
     {
       "quando": "2026-09-21T15:23:15-03:00",
       "texto": "Varredura tarde 21/09: iTunes/RSS BR-US-PT ainda 0 reviews nos 3 apps; GameTrack sem listing; ASC nao reaberto (login pendente)."
