@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health noturno ok: índice sincronizado, zero bot stale e PR #46 do Vito mergeada.",
-  "proximo_passo": "Aguardar a próxima checagem de saúde do painel.",
+  "resumo": "Checagem 48h: zero bot stale; 4 concluídos, 7 esperando você, 1 parado.",
+  "proximo_passo": "Aguardar a próxima checagem diária de 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-21T20:27:31-03:00",
+  "atualizado_em": "2026-09-22T08:22:21-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T08:22:21-03:00",
+      "texto": "Checagem 48h: zero stale; tom já estava parado."
+    },
     {
       "quando": "2026-09-21T20:27:31-03:00",
       "texto": "Health noturno: índice ok, zero stale; mergeei o PR #46 do Vito e não ficou PR aberta de status."
