@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "esperando_voce",
-  "resumo": "Fila agora limpa até cats-and-cats. README ok; smoke Expo ainda depende do Mac.",
-  "proximo_passo": "Mac online pra smoke do cats-and-cats (expo start + login + 2 tabs).",
+  "status": "bloqueado",
+  "resumo": "Próximo item é cats-and-cats: README pronto; falta smoke Expo no Mac.",
+  "proximo_passo": "Mac online pra smoke (expo start + login Supabase + 2 tabs).",
   "bloqueio": "Mac (Gabriels-Laptop) offline — sem smoke Expo.",
   "progresso": 95,
-  "atualizado_em": "2026-09-21T10:16:27-03:00",
+  "atualizado_em": "2026-09-22T10:10:10-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T10:10:10-03:00",
+      "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
+    },
     {
       "quando": "2026-09-21T10:16:27-03:00",
       "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
@@ -87,3 +91,4 @@
     }
   ]
 }
+
