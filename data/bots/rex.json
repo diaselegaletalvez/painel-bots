@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Checagem 21/09: Mac offline. Snapshot 80/228 livres. Sem alerta. 2.2 na main.",
+  "resumo": "Checagem 22/09: Mac offline. Snapshot 78/228 livres (caiu 2). Sem alerta.",
   "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-21T08:21:43-03:00",
+  "atualizado_em": "2026-09-22T08:12:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T08:12:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 78/228. Sem alerta."
+    },
     {
       "quando": "2026-09-21T08:21:43-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 80/228. Sem alerta."
@@ -44,10 +48,6 @@
     {
       "quando": "2026-09-13T19:15:06-03:00",
       "texto": "Checagem de backup: 2 projetos, 0 com backup automático."
-    },
-    {
-      "quando": "2026-09-13T16:28:21-03:00",
-      "texto": "Li o snapshot do Mac. 0 alerta grave. 1 atualização pendente."
     }
   ]
 }
