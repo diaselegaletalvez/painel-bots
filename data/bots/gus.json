@@ -1,14 +1,17 @@
-{
-  "slug": "gus",
-  "nome": "Gus",
+2026-09-22T09:37:19-03:00
+": "Gus",
   "projeto": "Zelo v3 (pais + filho)",
   "status": "esperando_voce",
-  "resumo": "Código V3 fechado nos dois PRs. Sem item seguro hoje — falta só ação do Dias (deploy + ASC).",
+  "resumo": "Revalidei V3: sem item seguro de código. PRs prontos; falta só ação do Dias (deploy livekit-token + ASC).",
   "proximo_passo": "Dias: deploy livekit-token da branch v3 do zelo; ASC com 4 SKUs do Pais no mesmo grupo e com preço.",
-  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (branch v3 do zelo; prod ainda v23 com bug asParent). 2) ASC: 4 SKUs do Pais com preço, mesmo grupo de assinatura. NÃO deployar pairing do v3 kids (prod já é v41).",
+  "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (branch v3 do zelo; prod ainda v23 com bug asParent). 2) ASC: 4 SKUs do Pais com preço, mesmo grupo de assinatura. NÃO redeployar pairing (prod já é v41).",
   "progresso": 98,
-  "atualizado_em": "2026-09-21T09:30:10-03:00",
+  "atualizado_em": "2026-09-22T09:37:19-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T09:37:19-03:00",
+      "texto": "Rotina 22/09: revalidei V3 + prod. livekit-token ainda v23; pairing v41 ok. Sem item seguro de código — bloqueado no Dias (deploy + ASC)."
+    },
     {
       "quando": "2026-09-21T09:30:10-03:00",
       "texto": "Rotina 21/09: sem item seguro de código. asParent já fechado no kids v3 (PR #1); prod livekit-token ainda v23. Bloqueado no Dias."
