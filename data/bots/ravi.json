@@ -3,12 +3,16 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "Prep ASO/criativos/campanha na main. Ficha live ainda a antiga. ASC e spend bloqueados até arte dos screenshots.",
-  "proximo_passo": "Produzir screenshots do CRIATIVOS e só então colar CONNECT e publicar na ASC.",
+  "resumo": "Chequei a loja de novo: ficha antiga. Prep fechado; falta só a arte dos screenshots pra publicar.",
+  "proximo_passo": "Produzir os prints do CRIATIVOS (checklist de entrega na main) e só então colar CONNECT e publicar.",
   "bloqueio": "Arte dos screenshots. Sem isso não publico na ASC nem proponho ads.",
-  "progresso": 90,
-  "atualizado_em": "2026-09-21T11:48:33-03:00",
+  "progresso": 92,
+  "atualizado_em": "2026-09-22T11:48:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T11:48:00-03:00",
+      "texto": "Checagem live: ficha e rivais iguais. Checklist de entrega da arte em andamento no marketing."
+    },
     {
       "quando": "2026-09-21T11:48:33-03:00",
       "texto": "Chequei a ficha live e rivais: nada mudou. Continua bloqueado em arte."
