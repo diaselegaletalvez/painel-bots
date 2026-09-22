@@ -3,12 +3,16 @@
   "nome": "Kiko",
   "projeto": "GameTrack",
   "status": "esperando_voce",
-  "resumo": "PR #1: cold launch sem hang + Sugestões IA off. Segue bloqueado em CADE/legal/domínio.",
+  "resumo": "Cortes 1.0 no PR #1. Travado em CADE, dados legais e domínio.",
   "proximo_passo": "Dias manda razão social, CNPJ, endereço, e-mails, DPO e aceita entitlement CADE.",
   "bloqueio": "Dados legais + entitlement CADE (Account Holder). Domínio gametrack.app.br ainda fora do ar.",
   "progresso": 31,
-  "atualizado_em": "2026-09-21T10:11:17-03:00",
+  "atualizado_em": "2026-09-22T09:59:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-22T09:59:38-03:00",
+      "texto": "Ship 22/09: auditei LANCAMENTO na branch do PR #1 — cortes FEATURES ok (21/68). Nada novo pra cortar sem Dias: domínio fora, legal com placeholders, CADE/IAP no Account Holder."
+    },
     {
       "quando": "2026-09-21T10:11:17-03:00",
       "texto": "Ship 21/09: cold launch (timeout auth/fontes) e FEATURES.sugestoesIA off no PR #1. Sem device. Domínio/legal/CADE no Dias."
