@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday 23/09: mergeei #50 (rex); índice bots.json ok, zero PR status aberta.",
+  "resumo": "Checagem 48h: max ficou parado por falta de atualização; tom continua parado.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-23T10:57:15-03:00",
+  "atualizado_em": "2026-09-23T20:26:58-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-23T20:26:58-03:00",
+      "texto": "Checagem 48h: marquei max como parado por falta de atualização; tom já estava parado."
+    },
     {
       "quando": "2026-09-23T10:57:15-03:00",
       "texto": "Health weekday: mergeei #50 (rex); bots.json já tinha todos os slugs; zero PR status aberta."

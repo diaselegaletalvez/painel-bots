@@ -2,13 +2,17 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "concluido",
-  "resumo": "Ciclo 7: 15 ideias, 0 passaram, 3 em watch. Gate aberto; sem recomendação.",
-  "proximo_passo": "Próximo ciclo sob rotina seg/qui; manter watch fino sem nomes no painel.",
+  "status": "parado",
+  "resumo": "Ciclo 7: 15 ideias, 0 passaram, 3 em watch. Sem atualização recente.",
+  "proximo_passo": "Aguardar nova rotina do Max antes de retomar o ciclo.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-21T12:22:00-03:00",
+  "atualizado_em": "2026-09-23T20:26:58-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-23T20:26:58-03:00",
+      "texto": "Status → parado: sem atualização há mais de 48h (2,3d)."
+    },
     {
       "quando": "2026-09-21T12:22:00-03:00",
       "texto": "Ciclo 7: 15 ideias, 0 passaram, 3 em watch."
