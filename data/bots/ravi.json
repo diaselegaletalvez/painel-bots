@@ -3,12 +3,16 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "Check semanal: ficha e rivais iguais; ASO ainda parado na arte dos screenshots.",
-  "proximo_passo": "Produzir os prints do CRIATIVOS e só então colar no Connect e publicar.",
-  "bloqueio": "Arte dos screenshots. Sem isso não publico na ASC nem proponho ads.",
-  "progresso": 92,
-  "atualizado_em": "2026-09-23T09:16:00-03:00",
+  "resumo": "Roteiro de captura dos 11 frames no CRIATIVOS; ficha live ainda antiga. ASC e spend bloqueados até a arte.",
+  "proximo_passo": "Seguir o roteiro de captura no CRIATIVOS, entregar os PNGs, e só então colar CONNECT na ASC.",
+  "bloqueio": "Arte dos screenshots (captura + design). Sem isso não publico na ASC nem proponho ads.",
+  "progresso": 94,
+  "atualizado_em": "2026-09-23T12:00:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-23T12:00:00-03:00",
+      "texto": "Roteiro de captura (UI real) na main do marketing. Ainda bloqueado na arte."
+    },
     {
       "quando": "2026-09-23T09:16:00-03:00",
       "texto": "Check semanal: ficha live e rivais iguais ao ASO.md; campanha dormindo."
