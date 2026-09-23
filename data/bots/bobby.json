@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday: mergeei o PR #49 do Rex; fechei o #48 do Gus (supersedido); índice e resto ok.",
+  "resumo": "Checagem 48h: nenhum bot novo parado; tom continua parado.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-22T10:55:22-03:00",
+  "atualizado_em": "2026-09-23T08:06:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-23T08:06:38-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom já estava parado (~2,7d)."
+    },
     {
       "quando": "2026-09-22T10:55:22-03:00",
       "texto": "Health weekday: mergeei #49 (rex); fechei #48 (gus) supersedido — main já tinha timestamp mais novo; índice ok, zero PR status aberta."
