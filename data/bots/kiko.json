@@ -3,12 +3,16 @@
   "nome": "Kiko",
   "projeto": "GameTrack",
   "status": "esperando_voce",
-  "resumo": "Cortes 1.0 no PR #1 ok. Travado: Supabase pausado, domínio fora, legal rascunho, CADE.",
-  "proximo_passo": "Dias restaura o projeto Gametrack no Supabase e manda dados legais + entitlement CADE.",
+  "resumo": "Cortes 1.0 no PR #1 ok (21/68). Nada novo pra cortar. Mesmo bloqueio: Supabase pausado, domínio, legal, CADE.",
+  "proximo_passo": "Dias restaura o Gametrack no Supabase e manda dados legais + entitlement CADE + DNS.",
   "bloqueio": "Supabase Gametrack INACTIVE. Depois: dados legais, CADE Account Holder, DNS gametrack.app.br.",
   "progresso": 31,
-  "atualizado_em": "2026-09-23T10:12:00-03:00",
+  "atualizado_em": "2026-09-24T10:08:46-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T10:08:46-03:00",
+      "texto": "Ship 24/09: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem resposta; legal ainda no Dias; CADE no Account Holder."
+    },
     {
       "quando": "2026-09-23T10:12:00-03:00",
       "texto": "Ship 23/09: auditei LANCAMENTO (21/68). Nada pra cortar no binário. Achado novo: projeto Supabase Gametrack pausado (INACTIVE). Domínio sem DNS; legal ainda RASCUNHO/placeholders; CADE no Account Holder."
