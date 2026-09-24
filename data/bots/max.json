@@ -3,12 +3,16 @@
   "nome": "Max",
   "projeto": "Ideias trending + receita",
   "status": "parado",
-  "resumo": "Ciclo 8: 15 ideias, 0 passaram, 1 watch nova (+3 mantidas). Gate aberto; sem recomendação.",
-  "proximo_passo": "Próximo ciclo sob rotina seg/qui ou ordem da guarda; manter watch DealDesk/MED/InfinitePay/CONAR marca.",
+  "resumo": "Ciclo 9: revalidação rotina, 0 passaram, 4 watch mantidas. Gate aberto; sem recomendação.",
+  "proximo_passo": "Próximo ciclo sob rotina seg/qui; watch fina sem build.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-24T09:40:00-03:00",
+  "atualizado_em": "2026-09-24T11:57:14-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T11:57:14-03:00",
+      "texto": "Ciclo 9 (rotina): revalidação, 0 passaram, 4 watch mantidas. Radar c8+c9 commitados."
+    },
     {
       "quando": "2026-09-24T09:40:00-03:00",
       "texto": "Ciclo 8: 15 ideias, 0 passaram, 1 watch nova."
