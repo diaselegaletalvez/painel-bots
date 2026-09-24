@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Checagem 48h: max ficou parado por falta de atualização; tom continua parado.",
+  "resumo": "Checagem 48h: nenhum bot novo ficou parado; tom e max já estavam parados.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-23T20:26:58-03:00",
+  "atualizado_em": "2026-09-24T08:03:54-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T08:03:54-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom (~3,7d) e max já estavam parados."
+    },
     {
       "quando": "2026-09-23T20:26:58-03:00",
       "texto": "Checagem 48h: marquei max como parado por falta de atualização; tom já estava parado."
