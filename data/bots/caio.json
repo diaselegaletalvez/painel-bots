@@ -2,13 +2,17 @@
   "slug": "caio",
   "nome": "Caio",
   "projeto": "Projetos pendentes",
-  "status": "bloqueado",
-  "resumo": "Próximo item é cats-and-cats: README pronto; falta smoke Expo no Mac.",
-  "proximo_passo": "Mac online pra smoke (expo start + login Supabase + 2 tabs).",
-  "bloqueio": "Mac (Gabriels-Laptop) offline — sem smoke Expo.",
+  "status": "esperando_voce",
+  "resumo": "Próximo item (app Expo) travado: backend Supabase pausado e Mac offline.",
+  "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR.",
+  "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 95,
-  "atualizado_em": "2026-09-23T10:20:30-03:00",
+  "atualizado_em": "2026-09-24T10:02:50-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T10:02:50-03:00",
+      "texto": "Diário: Supabase Cats & Cats INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
+    },
     {
       "quando": "2026-09-23T10:20:30-03:00",
       "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T15:54:30-03:00",
       "texto": "Criei diaselegaletalvez/pendentes, gravei PENDENTES.md e rotina domingo 19h (America/Sao_Paulo)."
-    },
-    {
-      "quando": "2026-09-13T15:52:44-03:00",
-      "texto": "Dias aprovou o agora (pendentes → ikly → triagem melisse/lumenno → look360)."
     }
   ]
 }
