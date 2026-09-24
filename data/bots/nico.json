@@ -7,8 +7,12 @@
   "proximo_passo": "Aguardar próxima ordem no inbox",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-24T08:59:58-03:00",
+  "atualizado_em": "2026-09-24T13:03:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T13:03:38-03:00",
+      "texto": "Varredura rotina: inbox limpo; 0 pendentes."
+    },
     {
       "quando": "2026-09-24T08:59:58-03:00",
       "texto": "Varredura rotina: inbox limpo; 0 pendentes."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-14T00:12:55-03:00",
       "texto": "Entregues rex+tom/20260914-001223 (disco 20GB); Mac Gabriels-Laptop offline."
-    },
-    {
-      "quando": "2026-09-13T22:08:53-03:00",
-      "texto": "Gravada respostas/rex/20260913-220730; round trip Rex contínuo ok."
     }
   ]
 }
