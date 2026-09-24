@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "Rotina 23/09: ainda bloqueado sem EAS/Mac/EXPO_TOKEN; #13–#16 e assets manuais. Sem build jogável.",
+  "resumo": "Rotina 24/09: ainda bloqueado sem EAS/Mac/EXPO_TOKEN; #13–#16 e assets manuais. Sem build jogável.",
   "proximo_passo": "Dias ligar o Mac com Expo/EAS (ou EXPO_TOKEN) pra preview; liberar ads/IAP e arte/som finais.",
   "bloqueio": "EAS/EXPO_TOKEN + device/Mac. Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-09-23T09:49:24-03:00",
+  "atualizado_em": "2026-09-24T09:34:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T09:34:06-03:00",
+      "texto": "Rotina 24/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
+    },
     {
       "quando": "2026-09-23T09:49:24-03:00",
       "texto": "Rotina 23/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T17:11:07-03:00",
       "texto": "Combate jogável no PR #1 (web verificado). Sem preview EAS."
-    },
-    {
-      "quando": "2026-09-13T15:47:59-03:00",
-      "texto": "PR de design aberto: posto7#1 (GAME.md + ASSETS.md). Status esperando escolha de controle."
     }
   ]
 }
