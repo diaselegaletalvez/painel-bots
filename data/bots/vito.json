@@ -7,8 +7,12 @@
   "proximo_passo": "Rotina weekday 10h. Dias precisa relogar no App Store Connect neste computador.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-23T10:44:46-03:00",
+  "atualizado_em": "2026-09-24T10:38:50-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-24T10:38:50-03:00",
+      "texto": "Ciclo 24/09: iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Sem rascunhos na quinta."
+    },
     {
       "quando": "2026-09-23T10:44:46-03:00",
       "texto": "Ciclo 23/09: iTunes/RSS (BR/US/PT + latam/EU) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto)."
