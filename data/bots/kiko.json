@@ -7,8 +7,12 @@
   "proximo_passo": "Dias restaura o Gametrack no Supabase e manda dados legais + entitlement CADE + DNS.",
   "bloqueio": "Supabase Gametrack INACTIVE. Depois: dados legais, CADE Account Holder, DNS gametrack.app.br.",
   "progresso": 31,
-  "atualizado_em": "2026-09-24T10:08:46-03:00",
+  "atualizado_em": "2026-09-25T09:48:34-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-25T09:48:34-03:00",
+      "texto": "Ship 25/09: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem DNS; legal ainda no Dias; CADE no Account Holder."
+    },
     {
       "quando": "2026-09-24T10:08:46-03:00",
       "texto": "Ship 24/09: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem resposta; legal ainda no Dias; CADE no Account Holder."
