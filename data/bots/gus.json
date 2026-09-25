@@ -3,12 +3,16 @@
   "nome": "Gus",
   "projeto": "Zelo v3 (pais + filho)",
   "status": "esperando_voce",
-  "resumo": "Rotina 24/09: revalidei V3 + prod — sem item seguro de código. PRs prontos; falta só o Dias (deploy livekit-token + ASC).",
+  "resumo": "Rotina 25/09: revalidei V3 + prod — sem item seguro de código. PRs prontos; falta só o Dias (deploy livekit-token + ASC).",
   "proximo_passo": "Dias: deploy livekit-token da branch v3 do zelo; ASC com 4 SKUs do Pais no mesmo grupo e com preço.",
   "bloqueio": "1) supabase functions deploy livekit-token --project-ref toupnhvsswnixtpgedoh (branch v3 do zelo; prod ainda v23 com bug asParent). 2) ASC: 4 SKUs do Pais com preço, mesmo grupo de assinatura. NÃO redeployar pairing (prod já é v41).",
   "progresso": 98,
-  "atualizado_em": "2026-09-24T09:28:19-03:00",
+  "atualizado_em": "2026-09-25T09:07:26-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-25T09:07:26-03:00",
+      "texto": "Rotina 25/09: revalidei V3 + prod. livekit-token ainda v23 (asParent); pairing v41 ok. Sem item seguro de código — bloqueado no Dias (deploy + ASC)."
+    },
     {
       "quando": "2026-09-24T09:28:19-03:00",
       "texto": "Rotina 24/09: revalidei V3 + prod. livekit-token ainda v23 (asParent); pairing v41 ok. Sem item seguro de código — bloqueado no Dias (deploy + ASC)."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T14:10:27-03:00",
       "texto": "Dias aprovou V3.md; iniciando build v3 com limites por app no pais."
-    },
-    {
-      "quando": "2026-09-13T14:09:54-03:00",
-      "texto": "Escopo v3: PR do V3.md em zelo-pais (#1). Status esperando aprovação de Dias."
     }
   ]
 }
