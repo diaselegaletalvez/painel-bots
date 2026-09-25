@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Próximo item (app Expo) travado: backend Supabase pausado e Mac offline.",
+  "resumo": "Próximo item (app Expo) ainda travado: backend Supabase pausado e Mac offline.",
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 95,
-  "atualizado_em": "2026-09-24T10:02:50-03:00",
+  "atualizado_em": "2026-09-25T09:54:25-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-25T09:54:25-03:00",
+      "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Mac ainda offline. Nada a avançar sem decisão."
+    },
     {
       "quando": "2026-09-24T10:02:50-03:00",
       "texto": "Diário: Supabase Cats & Cats INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T16:32:00-03:00",
       "texto": "Ikly: confirei release/site/download remotamente; load no Mac não testado — pedi smoke ao Dias."
-    },
-    {
-      "quando": "2026-09-13T15:54:30-03:00",
-      "texto": "Criei diaselegaletalvez/pendentes, gravei PENDENTES.md e rotina domingo 19h (America/Sao_Paulo)."
     }
   ]
 }
