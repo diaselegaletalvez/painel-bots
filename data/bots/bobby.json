@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday: mergeei max #55 e rex #53; fechei #54 supersedido; índice ok.",
+  "resumo": "Checagem 48h: zero novo stale; tom (~4,7d) e max já estavam parados.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-24T10:47:35-03:00",
+  "atualizado_em": "2026-09-25T07:53:45-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-25T07:53:45-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom (~4,7d) e max já estavam parados."
+    },
     {
       "quando": "2026-09-24T10:47:35-03:00",
       "texto": "Health weekday: mergeei #55 (max) e #53 (rex); fechei #54 (max supersedido); bots.json ok; zero PR status aberta."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T19:28:22-03:00",
       "texto": "Adicionei tom ao bots.json (arquivo já na main)."
-    },
-    {
-      "quando": "2026-09-13T16:31:26-03:00",
-      "texto": "Adicionei ivo ao bots.json. Vito e Ravi ainda só em PR/branch."
     }
   ]
 }
