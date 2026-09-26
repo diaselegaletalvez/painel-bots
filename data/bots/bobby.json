@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday: mergeei #56 (rex); bots.json já tinha todos os slugs; zero PR status aberta.",
+  "resumo": "Checagem 48h: zero novo stale; tom (~5,7d) e max já estavam parados.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-25T10:28:38-03:00",
+  "atualizado_em": "2026-09-26T07:57:30-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-26T07:57:30-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom (~5,7d) e max já estavam parados."
+    },
     {
       "quando": "2026-09-25T10:28:38-03:00",
       "texto": "Health weekday: mergeei #56 (rex); bots.json já tinha todos os slugs; zero PR status aberta."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-13T22:08:18-03:00",
       "texto": "Mergeei drafts de status (#1,#3,#4,#6,#8); fechei Theo #2; vito no índice."
-    },
-    {
-      "quando": "2026-09-13T22:07:05-03:00",
-      "texto": "Merge #9 kiko + #7 ravi; fechei #5; ravi no bots.json."
     }
   ]
 }
