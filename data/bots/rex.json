@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "esperando_voce",
-  "resumo": "Checagem 25/09: Mac offline. Snapshot 76/228 livres (igual ontem). Sem alerta.",
+  "resumo": "Checagem 26/09: Mac online. Disco 75/228 livres (caiu 1 GB desde ontem). Bots ~7/20 GB. Sem alerta.",
   "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-25T08:01:44-03:00",
+  "atualizado_em": "2026-09-26T07:54:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-26T07:54:00-03:00",
+      "texto": "Checagem diária: Mac online. Disco 75/228. Bots ~7/20 GB. Sem alerta."
+    },
     {
       "quando": "2026-09-25T08:01:44-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 76/228. Sem alerta."
@@ -44,10 +48,6 @@
     {
       "quando": "2026-09-14T00:14:13-03:00",
       "texto": "Mac offline. Disco 101/228 no snapshot. 2.2 sem merge."
-    },
-    {
-      "quando": "2026-09-13T22:11:22-03:00",
-      "texto": "PR da 2.2 com 10 arquivos. Swift não compilado."
     }
   ]
 }
