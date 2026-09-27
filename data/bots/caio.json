@@ -3,39 +3,43 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Próximo item (app Expo) ainda travado: backend Supabase pausado e Mac offline.",
-  "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR.",
+  "resumo": "Revisão semanal: nenhum avanço; único TERMINAR ainda bloqueado (backend pausado + Mac offline).",
+  "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
-  "progresso": 95,
-  "atualizado_em": "2026-09-25T09:54:25-03:00",
+  "progresso": 83,
+  "atualizado_em": "2026-09-27T19:00:31-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-27T19:00:31-03:00",
+      "texto": "Revisão semanal: nada andou na semana. Único TERMINAR sem push de código desde junho; bloqueio (Supabase pausado + Mac offline) segue igual."
+    },
     {
       "quando": "2026-09-25T09:54:25-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Mac ainda offline. Nada a avançar sem decisão."
     },
     {
       "quando": "2026-09-24T10:02:50-03:00",
-      "texto": "Diário: Supabase Cats & Cats INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
+      "texto": "Diário: Supabase do app Expo INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
     },
     {
       "quando": "2026-09-23T10:20:30-03:00",
-      "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
+      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
     },
     {
       "quando": "2026-09-22T10:10:10-03:00",
-      "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
+      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
     },
     {
       "quando": "2026-09-21T10:16:27-03:00",
-      "texto": "Diário: Mac ainda offline; cats-and-cats sem smoke. Sem mudança de escopo."
+      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
     },
     {
       "quando": "2026-09-20T20:18:05-03:00",
-      "texto": "README cats-and-cats escrito. Smoke bloqueado: Mac offline."
+      "texto": "README do app Expo da fila escrito. Smoke bloqueado: Mac offline."
     },
     {
       "quando": "2026-09-20T20:17:45-03:00",
-      "texto": "Mentor CONGELADO (README). cats-and-cats promovido: inventário + DoD."
+      "texto": "Mentor CONGELADO (README). App Expo da fila promovido: inventário + DoD."
     },
     {
       "quando": "2026-09-20T22:06:33-03:00",
@@ -71,23 +75,19 @@
     },
     {
       "quando": "2026-09-13T19:48:00-03:00",
-      "texto": "Claquete: export MP4, README, repo privado diaselegaletalvez/claquete — pedi smoke."
+      "texto": "Claquete: export MP4, README, repo privado — pedi smoke."
     },
     {
       "quando": "2026-09-13T19:43:00-03:00",
-      "texto": "Clataque localizado como pasta no Mac; máquina offline — pedi reconexão."
+      "texto": "Claquete localizado como pasta no Mac; máquina offline — pedi reconexão."
     },
     {
       "quando": "2026-09-13T19:38:00-03:00",
-      "texto": "Pitaca pediu fechar Clatac; inventário sem match — pedi o repo certo ao Dias."
+      "texto": "Pitaca pediu fechar Claquete; inventário sem match — pedi o repo certo ao Dias."
     },
     {
       "quando": "2026-09-13T19:17:05-03:00",
-      "texto": "Revisão semanal: ikly checado (release ok, falta smoke); triagem e look360/gerador sem movimento; nenhum push de código nos TERMINAR esta semana."
-    },
-    {
-      "quando": "2026-09-13T16:32:00-03:00",
-      "texto": "Ikly: confirei release/site/download remotamente; load no Mac não testado — pedi smoke ao Dias."
+      "texto": "Revisão semanal: ikly checado (release ok, falta smoke); triagem e look360/gerador sem movimento."
     }
   ]
 }
