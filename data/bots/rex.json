@@ -2,16 +2,24 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "parado",
-  "resumo": "Checagem 25/09: Mac offline. Snapshot 76/228 livres (igual ontem). Sem alerta.",
-  "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
+  "status": "esperando_voce",
+  "resumo": "Checagem 28/09: Mac offline. Snapshot 58/228 livres (caiu de 75 em 27/09). Vale olhar o que comeu ~17 GB.",
+  "proximo_passo": "Dias: ligar o Mac e ver o que comeu disco (~17 GB desde 27/09). Depois ./lancar.sh 2.2. Opcional: merge espaco#1.",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-28T07:58:06-03:00",
+  "atualizado_em": "2026-09-28T07:58:00-03:00",
   "eventos": [
     {
-      "quando": "2026-09-28T07:58:06-03:00",
-      "texto": "Marcado como parado: sem atualização há mais de 48h (~3,0d)."
+      "quando": "2026-09-28T07:58:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 58/228 (caiu de 75). Vale olhar o que comeu ~17 GB."
+    },
+    {
+      "quando": "2026-09-27T07:56:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 75/228. Sem alerta."
+    },
+    {
+      "quando": "2026-09-26T07:54:00-03:00",
+      "texto": "Checagem diária: Mac online. Disco 75/228. Bots ~7/20 GB. Sem alerta."
     },
     {
       "quando": "2026-09-25T08:01:44-03:00",
@@ -44,14 +52,6 @@
     {
       "quando": "2026-09-20T15:11:29-03:00",
       "texto": "Disco vivo 80/228. Bots ~7/20 GB. Merge 2.2 sem inbox."
-    },
-    {
-      "quando": "2026-09-14T00:14:13-03:00",
-      "texto": "Mac offline. Disco 101/228 no snapshot. 2.2 sem merge."
-    },
-    {
-      "quando": "2026-09-13T22:11:22-03:00",
-      "texto": "PR da 2.2 com 10 arquivos. Swift não compilado."
     }
   ]
 }
