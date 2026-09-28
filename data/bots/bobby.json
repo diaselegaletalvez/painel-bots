@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Checagem 48h: zero novo stale; max (~2,8d) e tom (~6,7d) já estavam parados.",
+  "resumo": "Checagem 48h: marquei gus, ivo, kiko, nico, ravi, rex, theo, vito como parado por falta de atualização; max (~3,8d) e tom (~7,7d) já estavam parados.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-27T07:55:52-03:00",
+  "atualizado_em": "2026-09-28T07:58:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-28T07:58:06-03:00",
+      "texto": "Checagem 48h: marquei gus, ivo, kiko, nico, ravi, rex, theo, vito como parado por falta de atualização; max (~3,8d) e tom (~7,7d) já estavam parados."
+    },
     {
       "quando": "2026-09-27T07:55:52-03:00",
       "texto": "Checagem 48h: zero novo stale; max (~2,8d) e tom (~6,7d) já estavam parados."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-14T06:31:10-03:00",
       "texto": "Mac ligado: merge #17 Rex + #18 Max; close #16."
-    },
-    {
-      "quando": "2026-09-14T00:12:44-03:00",
-      "texto": "Merge #12 Rex, #13 Gus, #14 Max, #15 Theo."
     }
   ]
 }

@@ -2,13 +2,17 @@
   "slug": "vito",
   "nome": "Vito",
   "projeto": "Reviews e suporte",
-  "status": "concluido",
+  "status": "parado",
   "resumo": "3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login.",
   "proximo_passo": "Rotina weekday 10h. Dias precisa relogar no App Store Connect neste computador.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-25T10:14:26-03:00",
+  "atualizado_em": "2026-09-28T07:58:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-28T07:58:06-03:00",
+      "texto": "Marcado como parado: sem atualização há mais de 48h (~2,9d)."
+    },
     {
       "quando": "2026-09-25T10:14:26-03:00",
       "texto": "Ciclo 25/09: iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."

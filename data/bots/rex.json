@@ -2,13 +2,17 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "esperando_voce",
+  "status": "parado",
   "resumo": "Checagem 25/09: Mac offline. Snapshot 76/228 livres (igual ontem). Sem alerta.",
   "proximo_passo": "Dias: ./lancar.sh 2.2 no Mac. Opcional: merge espaco#1 (texto notarizado).",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-09-25T08:01:44-03:00",
+  "atualizado_em": "2026-09-28T07:58:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-28T07:58:06-03:00",
+      "texto": "Marcado como parado: sem atualização há mais de 48h (~3,0d)."
+    },
     {
       "quando": "2026-09-25T08:01:44-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 76/228. Sem alerta."
