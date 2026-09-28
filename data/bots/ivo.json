@@ -2,13 +2,17 @@
   "slug": "ivo",
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
-  "status": "parado",
-  "resumo": "Rotina diária: RC ok, Zelo ainda zerado; ASC e InfinitePay seguem no Dias.",
-  "proximo_passo": "Login App Store Connect e QR InfinitePay.",
+  "status": "esperando_voce",
+  "resumo": "Rotina diária: RevenueCat lido e quadro atualizado; checkout Zelo segue sem sinal e ASC/InfinitePay no Dias.",
+  "proximo_passo": "Fazer login no App Store Connect (2FA) e escanear o QR do InfinitePay no celular.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
-  "progresso": 80,
-  "atualizado_em": "2026-09-28T07:58:06-03:00",
+  "progresso": 40,
+  "atualizado_em": "2026-09-28T10:32:24-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-28T10:32:24-03:00",
+      "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
+    },
     {
       "quando": "2026-09-28T07:58:06-03:00",
       "texto": "Marcado como parado: sem atualização há mais de 48h (~2,9d)."
