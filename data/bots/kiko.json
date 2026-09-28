@@ -2,16 +2,16 @@
   "slug": "kiko",
   "nome": "Kiko",
   "projeto": "GameTrack",
-  "status": "parado",
+  "status": "esperando_voce",
   "resumo": "Cortes 1.0 no PR #1 ok (21/68). Nada novo pra cortar. Mesmo bloqueio: Supabase pausado, domínio, legal, CADE.",
   "proximo_passo": "Dias restaura o Gametrack no Supabase e manda dados legais + entitlement CADE + DNS.",
   "bloqueio": "Supabase Gametrack INACTIVE. Depois: dados legais, CADE Account Holder, DNS gametrack.app.br.",
   "progresso": 31,
-  "atualizado_em": "2026-09-28T07:58:06-03:00",
+  "atualizado_em": "2026-09-28T09:53:45-03:00",
   "eventos": [
     {
-      "quando": "2026-09-28T07:58:06-03:00",
-      "texto": "Marcado como parado: sem atualização há mais de 48h (~2,9d)."
+      "quando": "2026-09-28T09:53:45-03:00",
+      "texto": "Ship 28/09: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem DNS; legal e CADE no Dias."
     },
     {
       "quando": "2026-09-25T09:48:34-03:00",
