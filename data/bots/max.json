@@ -2,13 +2,17 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "parado",
-  "resumo": "Ciclo 9: revalidação rotina, 0 passaram, 4 watch mantidas. Gate aberto; sem recomendação.",
-  "proximo_passo": "Próximo ciclo sob rotina seg/qui; watch fina sem build.",
+  "status": "concluido",
+  "resumo": "Ciclo 10: 12 ideias analisadas, 0 passaram, 4 em observação.",
+  "proximo_passo": "Próximo ciclo na quinta 01/10, com revisão da lista de observação.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-09-24T11:57:14-03:00",
+  "atualizado_em": "2026-09-28T09:22:40-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-28T09:22:40-03:00",
+      "texto": "Ciclo 10: 12 ideias analisadas, 0 passaram, 4 em observação mantidas."
+    },
     {
       "quando": "2026-09-24T11:57:14-03:00",
       "texto": "Ciclo 9 (rotina): revalidação, 0 passaram, 4 watch mantidas. Radar c8+c9 commitados."
