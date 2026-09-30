@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "Rotina 29/09: ainda bloqueado sem EAS/Mac/EXPO_TOKEN; #13–#16 e assets manuais. Sem build jogável.",
+  "resumo": "Rotina 30/09: ainda bloqueado sem EAS/Mac/EXPO_TOKEN; #13–#16 e assets manuais. Sem build jogável.",
   "proximo_passo": "Dias ligar o Mac com Expo/EAS (ou EXPO_TOKEN) pra preview; liberar ads/IAP e arte/som finais.",
   "bloqueio": "EAS/EXPO_TOKEN + device/Mac. Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-09-29T09:29:36-03:00",
+  "atualizado_em": "2026-09-30T09:24:46-03:00",
   "eventos": [
+    {
+      "quando": "2026-09-30T09:24:46-03:00",
+      "texto": "Rotina 30/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
+    },
     {
       "quando": "2026-09-29T09:29:36-03:00",
       "texto": "Rotina 29/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
@@ -84,14 +88,6 @@
     {
       "quando": "2026-09-13T20:20:12-03:00",
       "texto": "Desafio #10 no PR #1 (756 pts, 1/2; liga local stub)."
-    },
-    {
-      "quando": "2026-09-13T19:45:36-03:00",
-      "texto": "#7/#5 no PR #1 (3 tipos + 3 armas; web 311s/806/+1923)."
-    },
-    {
-      "quando": "2026-09-13T18:54:38-03:00",
-      "texto": "XP/level-up (#6) verificado na web (lv12, 149s/286/+721)."
     }
   ]
 }
