@@ -7,8 +7,12 @@
   "proximo_passo": "Fazer login no App Store Connect (2FA) e escanear o QR do InfinitePay no celular.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 40,
-  "atualizado_em": "2026-09-30T10:21:08-03:00",
+  "atualizado_em": "2026-10-01T10:28:53-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-01T10:28:53-03:00",
+      "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
+    },
     {
       "quando": "2026-09-30T10:21:08-03:00",
       "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
