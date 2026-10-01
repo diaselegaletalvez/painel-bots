@@ -7,8 +7,12 @@
   "proximo_passo": "Seguir o roteiro de captura no CRIATIVOS, entregar os PNGs, e só então colar CONNECT na ASC.",
   "bloqueio": "Arte dos screenshots (captura + design). Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-09-30T11:22:00-03:00",
+  "atualizado_em": "2026-10-01T11:14:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-01T11:14:00-03:00",
+      "texto": "Checagem diária: ficha live e rivais iguais. Continua bloqueado na arte."
+    },
     {
       "quando": "2026-09-30T11:22:00-03:00",
       "texto": "Checagem diária: ficha live e rivais iguais. Continua bloqueado na arte."
@@ -56,10 +60,6 @@
     {
       "quando": "2026-09-21T09:09:06-03:00",
       "texto": "Mergeados marketing PRs #1–#4 (ASO, CRIATIVOS, CONNECT/CAMPANHAS/GASTOS, PRIORIDADE)."
-    },
-    {
-      "quando": "2026-09-21T09:09:06-03:00",
-      "texto": "Ordem Pitaca (Mac offline): sem ASC e sem spend até arte."
     }
   ]
 }
