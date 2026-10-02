@@ -3,12 +3,16 @@
   "nome": "Vito",
   "projeto": "Reviews e suporte",
   "status": "concluido",
-  "resumo": "Ciclo 01/10: 3 apps no ar, 0 reviews, 0 GRAVE. Quinta sem rascunhos. ASC ainda no login (não reaberto).",
-  "proximo_passo": "Próxima rotina weekday 10h; pacote de rascunhos só quando houver reviews.",
+  "resumo": "Ciclo 02/10: 3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login (não reaberto).",
+  "proximo_passo": "Próxima rotina weekday 10h; pacote de rascunhos só na quinta quando houver reviews.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-01T10:21:54-03:00",
+  "atualizado_em": "2026-10-02T10:21:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-02T10:21:06-03:00",
+      "texto": "Ciclo 02/10 (sexta): iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."
+    },
     {
       "quando": "2026-10-01T10:21:54-03:00",
       "texto": "Ciclo 01/10 (quinta): iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. Sem rascunhos na quinta. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."
@@ -76,14 +80,6 @@
     {
       "quando": "2026-09-13T16:21:55-03:00",
       "texto": "Play Console aberto: conta sem apps, publicacao bloqueada (identidade e telefone)."
-    },
-    {
-      "quando": "2026-09-13T16:18:00-03:00",
-      "texto": "Connect: 3 apps no ar, 0 reviews, 0 GRAVE. Zelo 2.0 em 08/09 sem 1-estrela."
-    },
-    {
-      "quando": "2026-09-13T16:08:00-03:00",
-      "texto": "Primeira corrida: REGRAS lidas, rotina 10h ligada, ASC no login."
     }
   ]
 }
