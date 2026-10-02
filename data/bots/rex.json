@@ -7,8 +7,12 @@
   "proximo_passo": "Opcional: ./lancar.sh 2.2 no Mac; merge espaco#1 se ainda fizer sentido.",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-10-02T07:55:00-03:00",
+  "atualizado_em": "2026-10-02T20:15:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-02T20:15:00-03:00",
+      "texto": "Mac online: 79 GB livres de 228 (df ao vivo); pastas dos bots ~7.4 GB de teto 20 GB."
+    },
     {
       "quando": "2026-10-02T07:55:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 99/228 (+44 vs 01/10). Sem alerta."
@@ -52,18 +56,6 @@
     {
       "quando": "2026-09-22T08:12:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 78/228. Sem alerta."
-    },
-    {
-      "quando": "2026-09-21T08:21:43-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 80/228. Sem alerta."
-    },
-    {
-      "quando": "2026-09-20T15:13:38-03:00",
-      "texto": "Pós-merge: faxina 2.2 ok. Espera lançamento no Mac."
-    },
-    {
-      "quando": "2026-09-20T15:12:41-03:00",
-      "texto": "Mergeei espaco-mac PR #1 (2.2). Commit 72c3c60."
     }
   ]
 }
