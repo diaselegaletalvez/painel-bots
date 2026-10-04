@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Diário: único TERMINAR ainda bloqueado — backend pausado e Mac offline; nada a avançar sem decisão.",
+  "resumo": "Revisão semanal: nada andou na semana. Único TERMINAR parado há 14 dias; bloqueio igual.",
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 83,
-  "atualizado_em": "2026-10-02T09:57:02-03:00",
+  "atualizado_em": "2026-10-04T19:00:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-04T19:00:00-03:00",
+      "texto": "Revisão semanal: nada andou na semana. Único TERMINAR sem toque há 14 dias (código desde junho); backend pausado + Mac offline seguem."
+    },
     {
       "quando": "2026-10-02T09:57:02-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Gabriels-Laptop ainda offline. Nada a avançar sem decisão."
