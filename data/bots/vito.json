@@ -2,13 +2,17 @@
   "slug": "vito",
   "nome": "Vito",
   "projeto": "Reviews e suporte",
-  "status": "parado",
-  "resumo": "Ciclo 02/10: 3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login (não reaberto).",
+  "status": "concluido",
+  "resumo": "Ciclo 05/10: 3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login (não reaberto).",
   "proximo_passo": "Próxima rotina weekday 10h; pacote de rascunhos só na quinta quando houver reviews.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-05T07:58:03-03:00",
+  "atualizado_em": "2026-10-05T10:17:38-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T10:17:38-03:00",
+      "texto": "Ciclo 05/10 (segunda): iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."
+    },
     {
       "quando": "2026-10-05T07:58:03-03:00",
       "texto": "Status → parado: sem update há mais de 48h (2,9d)."
