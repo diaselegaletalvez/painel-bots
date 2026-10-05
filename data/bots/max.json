@@ -2,13 +2,17 @@
   "slug": "max",
   "nome": "Max",
   "projeto": "Ideias trending + receita",
-  "status": "parado",
-  "resumo": "Ciclo 13: 0 triadas, 0 passaram, 1 em observação.",
-  "proximo_passo": "Próximo ciclo na segunda-feira, 05/10.",
+  "status": "concluido",
+  "resumo": "Ciclo 14: 8 ideias analisadas, 0 passaram, 1 em observação.",
+  "proximo_passo": "Próximo ciclo na quinta-feira, 08/10.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-04T07:52:10-03:00",
+  "atualizado_em": "2026-10-05T09:20:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T09:20:06-03:00",
+      "texto": "Ciclo 14: 8 ideias analisadas, 0 passaram, 1 em observação mantida."
+    },
     {
       "quando": "2026-10-04T07:52:10-03:00",
       "texto": "Status → parado: sem update há mais de 48h (2,8d)."
