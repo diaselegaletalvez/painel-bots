@@ -2,13 +2,17 @@
   "slug": "ravi",
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
-  "status": "parado",
-  "resumo": "Checagem diária: ficha Zelo e rivais iguais. Continua bloqueado na arte dos screenshots.",
-  "proximo_passo": "Seguir o roteiro de captura no CRIATIVOS, entregar os PNGs, e só então colar CONNECT na ASC.",
-  "bloqueio": "Arte dos screenshots (captura + design). Sem isso não publico na ASC nem proponho ads.",
+  "status": "esperando_voce",
+  "resumo": "Checagem diária: ficha igual. Achei um ajuste de nome no ASO; PR #9 do marketing pronto pra revisão.",
+  "proximo_passo": "Dias: revisar o PR #9 do marketing; depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
+  "bloqueio": "Arte dos screenshots (captura + design) e revisão do PR #9. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-10-05T07:58:03-03:00",
+  "atualizado_em": "2026-10-05T11:27:52-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T11:27:52-03:00",
+      "texto": "Checagem diária: ficha e rivais iguais. Ajuste de nome no ASO em PR #9 (marketing), esperando o Dias."
+    },
     {
       "quando": "2026-10-05T07:58:03-03:00",
       "texto": "Status → parado: sem update há mais de 48h (2,9d)."
