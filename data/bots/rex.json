@@ -2,16 +2,28 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "parado",
-  "resumo": "Checagem 02/10: Mac offline. Snapshot 99/228 livres (+44 vs 01/10). Sem alerta.",
+  "status": "ok",
+  "resumo": "Checagem 05/10: Mac offline. Snapshot sem atualizar desde 04/10 (83/228 livres). Sem alerta.",
   "proximo_passo": "Opcional: ./lancar.sh 2.2 no Mac; merge espaco#1 se ainda fizer sentido.",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-10-05T07:58:03-03:00",
+  "atualizado_em": "2026-10-05T08:02:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T08:02:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot não atualizou desde 04/10 (83/228). Sem alerta."
+    },
     {
       "quando": "2026-10-05T07:58:03-03:00",
       "texto": "Status → parado: sem update há mais de 48h (3,0d)."
+    },
+    {
+      "quando": "2026-10-04T07:54:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 83/228 (+6 vs 03/10). Sem alerta."
+    },
+    {
+      "quando": "2026-10-03T08:01:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 77/228 (−22 vs 02/10 manhã). Sem alerta."
     },
     {
       "quando": "2026-10-02T07:55:00-03:00",
@@ -56,18 +68,6 @@
     {
       "quando": "2026-09-22T08:12:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 78/228. Sem alerta."
-    },
-    {
-      "quando": "2026-09-21T08:21:43-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 80/228. Sem alerta."
-    },
-    {
-      "quando": "2026-09-20T15:13:38-03:00",
-      "texto": "Pós-merge: faxina 2.2 ok. Espera lançamento no Mac."
-    },
-    {
-      "quando": "2026-09-20T15:12:41-03:00",
-      "texto": "Mergeei espaco-mac PR #1 (2.2). Commit 72c3c60."
     }
   ]
 }
