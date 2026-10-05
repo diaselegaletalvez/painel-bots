@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "esperando_voce",
+  "status": "parado",
   "resumo": "Rotina 02/10: Mac.localdomain online, mas eas sem login / sem EXPO_TOKEN; #13–#16 e assets manuais. Sem build jogável.",
   "proximo_passo": "Dias: eas login (ou EXPO_TOKEN) no Mac.localdomain pra preview; liberar ads/IAP e arte/som finais.",
   "bloqueio": "EAS não autenticado no Mac (eas whoami = Not logged in). Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-10-02T09:33:45-03:00",
+  "atualizado_em": "2026-10-05T07:58:03-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T07:58:03-03:00",
+      "texto": "Status → parado: sem update há mais de 48h (2,9d)."
+    },
     {
       "quando": "2026-10-02T09:33:45-03:00",
       "texto": "Rotina 02/10: Mac.localdomain online, eas não logado; zero item jogável sem EAS. Aviso ao CoS."

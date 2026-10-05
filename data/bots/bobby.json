@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~13,7d) já estava parado.",
+  "resumo": "Checagem 48h: marquei 8 como parado (gus, ivo, kiko, nico, ravi, rex, theo, vito, ~2,6–3d sem update depois do fds); max e tom já estavam parados.",
   "proximo_passo": "Aguardar a próxima rotina weekday ou checagem 48h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-04T07:52:10-03:00",
+  "atualizado_em": "2026-10-05T07:58:03-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-05T07:58:03-03:00",
+      "texto": "Checagem 48h: marquei 8 como parado (gus, ivo, kiko, nico, ravi, rex, theo, vito, ~2,6–3d sem update depois do fds); max e tom já estavam parados."
+    },
     {
       "quando": "2026-10-04T07:52:10-03:00",
       "texto": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~13,7d) já estava parado."
