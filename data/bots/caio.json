@@ -7,8 +7,12 @@
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 83,
-  "atualizado_em": "2026-10-05T09:55:00-03:00",
+  "atualizado_em": "2026-10-06T09:52:44-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-06T09:52:44-03:00",
+      "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Gabriels-Laptop ainda offline. Nada a avançar sem decisão."
+    },
     {
       "quando": "2026-10-05T09:55:00-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Gabriels-Laptop ainda offline. Nada a avançar sem decisão."
