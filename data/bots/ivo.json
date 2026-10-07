@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "bloqueado",
-  "resumo": "Rotina diária: RevenueCat lido; checkout Zelo deu primeiro sinal de vida; ASC/InfinitePay no Dias.",
+  "resumo": "Rotina diária: RevenueCat lido, sem mudança material; trial do Zelo segue pendente; ASC/InfinitePay no Dias.",
   "proximo_passo": "Acompanhar se o trial do Zelo vira pagante; Dias: login no App Store Connect (2FA) e QR do InfinitePay.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 40,
-  "atualizado_em": "2026-10-06T10:33:00-03:00",
+  "atualizado_em": "2026-10-07T10:29:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-07T10:29:00-03:00",
+      "texto": "Rotina diária: RC sem mudança material (trial do Zelo pendente, sem receita); ASC/InfinitePay bloqueados."
+    },
     {
       "quando": "2026-10-06T10:33:00-03:00",
       "texto": "Rotina diária: Zelo teve o primeiro trial (alarme de checkout rebaixado); ainda sem receita; ASC/InfinitePay bloqueados."
