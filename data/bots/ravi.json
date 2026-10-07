@@ -3,12 +3,16 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "Checagem diária: ficha e rivais iguais. PR #9 do marketing (nome do app do filho) ainda esperando revisão.",
+  "resumo": "Check semanal: ficha live igual ao ASO, rivais sem mudança relevante, campanha dormindo e sem gasto.",
   "proximo_passo": "Dias: revisar o PR #9 do marketing; depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
   "bloqueio": "Arte dos screenshots (captura + design) e revisão do PR #9. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-10-06T11:31:00-03:00",
+  "atualizado_em": "2026-10-07T09:06:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-07T09:06:00-03:00",
+      "texto": "Check semanal: ficha live igual ao ASO; campanha dormindo, sem gasto. Esperando o PR do nome do filho e a arte."
+    },
     {
       "quando": "2026-10-06T11:31:00-03:00",
       "texto": "Checagem diária: ficha e rivais iguais; nome proposto pro filho segue livre na loja. Esperando PR #9 e a arte."
