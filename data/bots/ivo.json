@@ -2,13 +2,17 @@
   "slug": "ivo",
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
-  "status": "bloqueado",
-  "resumo": "Rotina diária: RevenueCat lido, sem mudança material; trial do Zelo segue pendente; ASC/InfinitePay no Dias.",
-  "proximo_passo": "Acompanhar se o trial do Zelo vira pagante; Dias: login no App Store Connect (2FA) e QR do InfinitePay.",
+  "status": "esperando_voce",
+  "resumo": "Ciclo 08/10 feito à mão: primeiro trial do Zelo segue ativo, ainda sem receita.",
+  "proximo_passo": "Ver por volta de 12/10 se o trial converte; login ASC e QR InfinitePay.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 40,
-  "atualizado_em": "2026-10-07T10:29:00-03:00",
+  "atualizado_em": "2026-10-08T14:56:34-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-08T14:56:34-03:00",
+      "texto": "Ciclo manual (rotina falhou): trial do Zelo ativo e pra renovar; sem receita ainda."
+    },
     {
       "quando": "2026-10-07T10:29:00-03:00",
       "texto": "Rotina diária: RC sem mudança material (trial do Zelo pendente, sem receita); ASC/InfinitePay bloqueados."
@@ -84,30 +88,6 @@
     {
       "quando": "2026-09-13T22:07:05-03:00",
       "texto": "Read-only sob ordem: RevenueCat ok; sem mudança material; ASC/InfinitePay bloqueados."
-    },
-    {
-      "quando": "2026-09-13T22:06:45-03:00",
-      "texto": "Ciclo sob demanda: RC ok, quadro Zelo sem mudança; buracos ASC/InfinitePay seguem."
-    },
-    {
-      "quando": "2026-09-13T19:13:27-03:00",
-      "texto": "Rotina única ajustada: Ivo — receita diária, dias úteis 10:30 BRT."
-    },
-    {
-      "quando": "2026-09-13T16:31:41-03:00",
-      "texto": "Alarme: Zelo com clientes e zero trials; keys ASC ok no RC. Rotina diária de alarme criada."
-    },
-    {
-      "quando": "2026-09-13T16:09:48-03:00",
-      "texto": "RECEITA.md escrito: Zelo lido no RevenueCat (zero); ASC e InfinitePay bloqueados."
-    },
-    {
-      "quando": "2026-09-13T16:09:02-03:00",
-      "texto": "ASC bloqueado (login Apple). Play logado sem apps/merchant. InfinitePay só via QR."
-    },
-    {
-      "quando": "2026-09-13T16:06:12-03:00",
-      "texto": "RevenueCat instalado; esperando autorização no card."
     }
   ]
 }
