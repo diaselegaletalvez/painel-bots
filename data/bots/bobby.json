@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday: mergeei #68 (rex, tirei do draft antes); bots.json já tinha todos os slugs; zero PR status aberta.",
+  "resumo": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs.",
   "proximo_passo": "Aguardar a próxima checagem 48h ou a rotina weekday.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-09T09:27:34-03:00",
+  "atualizado_em": "2026-10-09T10:44:40-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-09T10:44:40-03:00",
+      "texto": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs."
+    },
     {
       "quando": "2026-10-09T09:27:34-03:00",
       "texto": "Health weekday: mergeei #68 (rex, tirei do draft antes); bots.json já tinha todos os slugs; zero PR status aberta."
