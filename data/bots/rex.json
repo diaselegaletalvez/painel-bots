@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "ok",
-  "resumo": "Checagem 09/10: Mac offline. Snapshot 53/228 livres (−10 vs 08/10). Vale olhar o que comeu disco.",
+  "resumo": "Checagem 10/10: Mac offline. Snapshot 40/228 livres (−13 vs 09/10). Vale olhar o que comeu disco.",
   "proximo_passo": "Opcional: ./lancar.sh 2.2 no Mac; merge espaco#1 se ainda fizer sentido.",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-10-09T08:04:00-03:00",
+  "atualizado_em": "2026-10-10T07:57:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-10T07:57:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 40/228 (−13 vs 09/10). Vale olhar o que comeu disco."
+    },
     {
       "quando": "2026-10-09T08:04:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 53/228 (−10 vs 08/10). Vale olhar o que comeu disco."
@@ -76,10 +80,6 @@
     {
       "quando": "2026-09-24T08:08:22-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 76/228. Sem alerta."
-    },
-    {
-      "quando": "2026-09-23T08:10:59-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 77/228. Sem alerta."
     }
   ]
 }
