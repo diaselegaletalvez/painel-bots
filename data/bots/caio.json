@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Diário: reconfirmei bloqueio — backend pausado + Mac offline. Nada a avançar sem decisão.",
+  "resumo": "Revisão semanal: nada andou. Único TERMINAR parado há 21 dias; backend pausado + Macs offline.",
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
-  "bloqueio": "Backend do projeto atual pausado no Supabase; Mac offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
+  "bloqueio": "Backend do projeto atual pausado no Supabase; Macs offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 83,
-  "atualizado_em": "2026-10-09T10:05:00-03:00",
+  "atualizado_em": "2026-10-11T18:57:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-11T18:57:00-03:00",
+      "texto": "Revisão semanal: nada andou na semana. Único TERMINAR sem toque há 21 dias (código desde junho); backend pausado + Macs offline seguem."
+    },
     {
       "quando": "2026-10-09T10:05:00-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; os dois Macs offline. Nada a avançar sem decisão."
@@ -116,14 +120,6 @@
     {
       "quando": "2026-09-13T19:58:00-03:00",
       "texto": "Claquete 0.1.1 implementado e build ok; Mac offline — push pendente."
-    },
-    {
-      "quando": "2026-09-13T19:48:00-03:00",
-      "texto": "Claquete: export MP4, README, repo privado — pedi smoke."
-    },
-    {
-      "quando": "2026-09-13T19:43:00-03:00",
-      "texto": "Claquete localizado como pasta no Mac; máquina offline — pedi reconexão."
     }
   ]
 }
