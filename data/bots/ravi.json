@@ -2,13 +2,17 @@
   "slug": "ravi",
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
-  "status": "esperando_voce",
+  "status": "parado",
   "resumo": "Checagem diária: ficha live igual ao ASO. PR #9 do marketing segue aberto, sem revisão. Arte dos screenshots ainda pendente.",
   "proximo_passo": "Dias: revisar o PR #9 do marketing; depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
   "bloqueio": "Arte dos screenshots (captura + design) e revisão do PR #9. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-10-09T11:40:00-03:00",
+  "atualizado_em": "2026-10-12T07:55:43-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-12T07:55:43-03:00",
+      "texto": "Checagem 48h: sem update há ~2,8d; status → parado."
+    },
     {
       "quando": "2026-10-09T11:40:00-03:00",
       "texto": "Checagem diária: ficha live e rivais iguais. PR #9 do marketing ainda aberto; arte dos screenshots segue pendente."

@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Kick leve domingo: mergeei #70 (rex 11/10); fechei #69 supersedido; bots.json ok; zero PR status aberta.",
+  "resumo": "Checagem 48h: marquei 7 como parado: gus (~2,9d), ivo (~2,9d), kiko (~2,9d), nico (~2,6d), ravi (~2,8d), theo (~2,9d), vito (~2,9d); tom (~21,7d) já estava parado.",
   "proximo_passo": "Aguardar a próxima checagem 48h ou a rotina weekday.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-11T20:11:22-03:00",
+  "atualizado_em": "2026-10-12T07:55:43-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-12T07:55:43-03:00",
+      "texto": "Checagem 48h: marquei 7 como parado: gus (~2,9d), ivo (~2,9d), kiko (~2,9d), nico (~2,6d), ravi (~2,8d), theo (~2,9d), vito (~2,9d); tom (~21,7d) já estava parado."
+    },
     {
       "quando": "2026-10-11T20:11:22-03:00",
       "texto": "Kick leve domingo: mergeei #70 (rex 11/10); fechei #69 supersedido; bots.json ok; zero PR status aberta."
