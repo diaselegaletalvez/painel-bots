@@ -3,12 +3,16 @@
   "nome": "Max",
   "projeto": "Ideias trending + receita",
   "status": "concluido",
-  "resumo": "Ciclo 17: 4 ideias analisadas, 0 passaram, 1 em observação.",
+  "resumo": "Ciclo 18: 0 triadas, 0 passaram, 1 em observação.",
   "proximo_passo": "Próximo ciclo na quinta-feira, 15/10.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-12T09:19:36-03:00",
+  "atualizado_em": "2026-10-12T11:57:45-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-12T11:57:45-03:00",
+      "texto": "Ciclo 18: 0 triadas, 0 passaram, 1 em observação mantida."
+    },
     {
       "quando": "2026-10-12T09:19:36-03:00",
       "texto": "Ciclo 17: 4 ideias analisadas, 0 passaram, 1 em observação mantida."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-21T09:10:00-03:00",
       "texto": "Ciclo 6 iniciado (weekday / ordem guarda)."
-    },
-    {
-      "quando": "2026-09-20T15:20:00-03:00",
-      "texto": "Ciclo 5: 15 ideias, 0 passaram, 2 em watch."
     }
   ]
 }
