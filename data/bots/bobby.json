@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "ok",
-  "resumo": "Kick leve segunda: mergeei #71 (rex 12/10, tirei do draft); bots.json ok; zero PR status aberta.",
+  "resumo": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs.",
   "proximo_passo": "Aguardar a próxima checagem 48h ou a rotina weekday.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-12T09:18:21-03:00",
+  "atualizado_em": "2026-10-12T10:49:03-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-12T10:49:03-03:00",
+      "texto": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs."
+    },
     {
       "quando": "2026-10-12T09:18:21-03:00",
       "texto": "Kick leve segunda: mergeei #71 (rex 12/10, tirei do draft); bots.json ok; zero PR status aberta."
