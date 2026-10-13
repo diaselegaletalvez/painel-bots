@@ -3,12 +3,16 @@
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
   "status": "ok",
-  "resumo": "Checagem 12/10: Mac offline. Snapshot ainda de 11/10 (47/228). Ainda vale olhar o que comeu disco.",
+  "resumo": "Checagem 13/10: Mac offline. Snapshot ainda de 11/10 (47/228), 2 dias sem atualizar.",
   "proximo_passo": "Opcional: ./lancar.sh 2.2 no Mac; merge espaco#1 se ainda fizer sentido.",
   "bloqueio": null,
   "progresso": 90,
-  "atualizado_em": "2026-10-12T07:55:00-03:00",
+  "atualizado_em": "2026-10-13T07:56:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-13T07:56:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot não atualizou desde 11/10 (47/228). Vale ligar o Mac pra ele voltar a reportar."
+    },
     {
       "quando": "2026-10-12T07:55:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot não atualizou desde 11/10 (47/228). Ainda vale olhar o que comeu disco."
