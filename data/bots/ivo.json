@@ -3,12 +3,16 @@
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
   "status": "esperando_voce",
-  "resumo": "12/10 10h: trial do Zelo ainda ativo e marcado pra renovar; janela de cobrança hoje ~20:30.",
-  "proximo_passo": "Reler o RevenueCat depois das 20:30 pra ver se o trial virou pagamento.",
+  "resumo": "12/10 noite: o trial do Zelo virou assinatura paga — primeira receita do Zelo.",
+  "proximo_passo": "Acompanhar na rotina diária se a assinatura segue ativa e se aparecem novos trials.",
   "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
   "progresso": 40,
-  "atualizado_em": "2026-10-12T10:48:45-03:00",
+  "atualizado_em": "2026-10-12T22:08:05-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-12T22:08:05-03:00",
+      "texto": "Checagem pós-trial: o trial do Zelo converteu em assinatura paga; ASC/InfinitePay seguem bloqueados."
+    },
     {
       "quando": "2026-10-12T10:48:45-03:00",
       "texto": "Rotina 10h: trial do Zelo ainda pendente (pra renovar); cobrança esperada ~20:30; ASC/InfinitePay bloqueados."
@@ -83,10 +87,6 @@
     },
     {
       "quando": "2026-09-23T10:55:24-03:00",
-      "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
-    },
-    {
-      "quando": "2026-09-22T11:08:32-03:00",
       "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
     }
   ]
