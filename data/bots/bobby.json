@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "ok",
-  "resumo": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs.",
+  "resumo": "Checagem 48h: zero novo stale; tom (~22,7d) já estava parado.",
   "proximo_passo": "Aguardar a próxima checagem 48h ou a rotina weekday.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-12T10:49:03-03:00",
+  "atualizado_em": "2026-10-13T07:50:06-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-13T07:50:06-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom (~22,7d) já estava parado."
+    },
     {
       "quando": "2026-10-12T10:49:03-03:00",
       "texto": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs."
