@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "ok",
-  "resumo": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~24,7d) já estava parado; nico.json inválido no repo (não mexi).",
+  "resumo": "Health weekday: mergeei #74 (rex 15/10, tirei do draft); nico.json válido de novo (486d65d); bots.json ok; zero PR status aberta.",
   "proximo_passo": "Aguardar a próxima checagem 48h ou a rotina weekday.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-15T07:55:19-03:00",
+  "atualizado_em": "2026-10-15T09:18:17-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-15T09:18:17-03:00",
+      "texto": "Health weekday: mergeei #74 (rex 15/10, tirei do draft); nico.json válido de novo (486d65d); bots.json ok; zero PR status aberta."
+    },
     {
       "quando": "2026-10-15T07:55:19-03:00",
       "texto": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~24,7d) já estava parado; nico.json inválido no repo (não mexi)."
