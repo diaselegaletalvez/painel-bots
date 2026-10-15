@@ -3,12 +3,16 @@
   "nome": "Ravi",
   "projeto": "Marketing do Zelo (ASO e campanhas)",
   "status": "esperando_voce",
-  "resumo": "Check diário: ficha live igual ao ASO, rivais sem mudança de nome/subtítulo, campanha dormindo. PR do nome do filho ainda aberto; arte pendente.",
-  "proximo_passo": "Dias: revisar o PR #9 do marketing; depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
-  "bloqueio": "Arte dos screenshots (captura + design) e revisão do PR #9. Sem isso não publico na ASC nem proponho ads.",
+  "resumo": "Check diário: ficha live igual, rivais sem mudança de nome. Achei que os dois IAPs extras do app Pais são o plano Essencial, não órfãos; PR #10 do marketing corrige o checklist.",
+  "proximo_passo": "Dias: revisar os PRs #9 e #10 do marketing (decidir se o plano Essencial fica); depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
+  "bloqueio": "Arte dos screenshots, revisão dos PRs #9 e #10 e decisão do plano Essencial. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-10-14T11:15:44-03:00",
+  "atualizado_em": "2026-10-15T11:20:13-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-15T11:20:13-03:00",
+      "texto": "Checagem diária: ficha live igual. IAPs extras do Pais são o plano Essencial (não órfãos); PR #10 do marketing ajusta o checklist. Status → esperando você."
+    },
     {
       "quando": "2026-10-14T11:15:44-03:00",
       "texto": "Checagem diária: ficha live igual, rivais sem mudança de nome. Esperando PR #9 e a arte; status → esperando você."
