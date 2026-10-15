@@ -1,6 +1,6 @@
-2026-10-14T16:59:28-03:00
-events: 20
-
+{
+  "slug": "nico",
+  "nome": "Nico",
   "projeto": "Ponte de ordens entre Claude e os bots",
   "status": "concluido",
   "resumo": "Inbox limpo, 0 ordens pendentes.",
