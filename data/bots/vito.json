@@ -3,12 +3,16 @@
   "nome": "Vito",
   "projeto": "Reviews e suporte",
   "status": "concluido",
-  "resumo": "Ciclo 15/10: 3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login (não reaberto).",
+  "resumo": "Ciclo 16/10: 3 apps no ar, 0 reviews, 0 GRAVE. ASC ainda no login (não reaberto).",
   "proximo_passo": "Próxima rotina weekday 10h; pacote de rascunhos só na quinta quando houver reviews.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-15T10:23:21-03:00",
+  "atualizado_em": "2026-10-16T10:20:17-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-16T10:20:17-03:00",
+      "texto": "Ciclo 16/10 (sexta): iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."
+    },
     {
       "quando": "2026-10-15T10:23:21-03:00",
       "texto": "Ciclo 15/10 (quinta): iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. Sem rascunhos na quinta. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Play público 404."
@@ -84,34 +88,6 @@
     {
       "quando": "2026-09-24T10:38:50-03:00",
       "texto": "Ciclo 24/09: iTunes/RSS (18 países) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto). Sem rascunhos na quinta."
-    },
-    {
-      "quando": "2026-09-23T10:44:46-03:00",
-      "texto": "Ciclo 23/09: iTunes/RSS (BR/US/PT + latam/EU) 0 reviews nos 3 apps (rating count 0), 0 GRAVE. GameTrack/Cats fora desta conta. ASC login pendente (nao reaberto)."
-    },
-    {
-      "quando": "2026-09-22T10:48:39-03:00",
-      "texto": "Ciclo 22/09: iTunes/RSS (BR/US/PT + extras) 0 reviews nos 3 apps, 0 GRAVE. GameTrack/Cats fora desta conta. ASC authResult=FAILED (login)."
-    },
-    {
-      "quando": "2026-09-21T15:23:15-03:00",
-      "texto": "Varredura tarde 21/09: iTunes/RSS BR-US-PT ainda 0 reviews nos 3 apps; GameTrack sem listing; ASC nao reaberto (login pendente)."
-    },
-    {
-      "quando": "2026-09-21T10:34:03-03:00",
-      "texto": "Ciclo 21/09: RSS/lookup iTunes 0 reviews nos 3 apps, 0 GRAVE. ASC na tela de login (sessao caiu)."
-    },
-    {
-      "quando": "2026-09-20T15:11:26-03:00",
-      "texto": "Ciclo 20/09: ainda 0 reviews publicas, 0 GRAVE. Rotina 10h falhou 18/09."
-    },
-    {
-      "quando": "2026-09-14T06:31:16-03:00",
-      "texto": "Ciclo manha: ainda 0 reviews publicas, 0 GRAVE."
-    },
-    {
-      "quando": "2026-09-13T22:06:42-03:00",
-      "texto": "Ciclo noturno: ainda 0 reviews publicas, 0 GRAVE."
     }
   ]
 }
