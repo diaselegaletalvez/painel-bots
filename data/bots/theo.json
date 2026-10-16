@@ -3,12 +3,16 @@
   "nome": "Theo",
   "projeto": "Posto 7",
   "status": "esperando_voce",
-  "resumo": "Rotina 15/10: os dois Macs offline e sem EXPO_TOKEN; sem EAS não sai build jogável. Ads/IAP e arte/som finais seguem manuais.",
+  "resumo": "Rotina 16/10: os dois Macs offline e sem EXPO_TOKEN; sem EAS não sai build jogável. Ads/IAP e arte/som finais seguem manuais.",
   "proximo_passo": "Dias: ligar o Mac.localdomain e fazer eas login (ou passar um EXPO_TOKEN) pra soltar o preview; liberar ads/IAP e arte/som finais.",
   "bloqueio": "EAS sem login e Macs offline. Ads/IAP e arte/som finais manuais.",
   "progresso": 86,
-  "atualizado_em": "2026-10-15T09:32:00-03:00",
+  "atualizado_em": "2026-10-16T09:20:30-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-16T09:20:30-03:00",
+      "texto": "Rotina 16/10: Macs offline, sem EXPO_TOKEN; zero item jogável sem EAS. Nota ao CoS."
+    },
     {
       "quando": "2026-10-15T09:32:00-03:00",
       "texto": "Rotina 15/10: Macs offline, sem EXPO_TOKEN; zero item jogável sem EAS. Nota ao CoS."
@@ -84,62 +88,6 @@
     {
       "quando": "2026-09-24T09:34:06-03:00",
       "texto": "Rotina 24/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
-    },
-    {
-      "quando": "2026-09-23T09:49:24-03:00",
-      "texto": "Rotina 23/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
-    },
-    {
-      "quando": "2026-09-22T09:42:20-03:00",
-      "texto": "Rotina 22/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
-    },
-    {
-      "quando": "2026-09-21T20:28:03-03:00",
-      "texto": "Noite 21/09 Kiito: zero gap sem EAS/Mac; esperando_voce."
-    },
-    {
-      "quando": "2026-09-21T09:51:00-03:00",
-      "texto": "Rotina diária: Mac desconectado; sem item jogável sem EAS. Aviso ao CoS."
-    },
-    {
-      "quando": "2026-09-21T09:10:34-03:00",
-      "texto": "Kick 21/09: doc B já mergeada; sem EAS (Mac offline)."
-    },
-    {
-      "quando": "2026-09-20T15:14:34-03:00",
-      "texto": "Controle B fixado no GAME.md (PR #2). Bloqueado em EAS/ads/IAP/assets."
-    },
-    {
-      "quando": "2026-09-20T15:12:37-03:00",
-      "texto": "posto7#1 mergeado em main. Controle v1 = B arrastar (offline-first)."
-    },
-    {
-      "quando": "2026-09-14T06:33:10-03:00",
-      "texto": "Weekday kick: sem item jogável novo sem Dias (controle/EAS/IAP/ads/assets)."
-    },
-    {
-      "quando": "2026-09-13T23:21:11-03:00",
-      "texto": "HUD/balanço ~3min no PR #1 (morte CANO 178s). Bloqueado em controle/EAS/IAP."
-    },
-    {
-      "quando": "2026-09-13T22:54:53-03:00",
-      "texto": "#12 gemas locais no PR #1 (loja + gotejo; IAP ainda bloqueado)."
-    },
-    {
-      "quando": "2026-09-13T22:27:43-03:00",
-      "texto": "#16 parcial: splash/ícone Posto 7, Expo fora. Arte final ainda em ASSETS.md."
-    },
-    {
-      "quando": "2026-09-13T22:06:56-03:00",
-      "texto": "Retomada 24/7 (Pitaca): puxando #16 visual no PR #1."
-    },
-    {
-      "quando": "2026-09-13T20:34:48-03:00",
-      "texto": "Settings/mute (#18/#15) no PR #1. Core jogável sem Dias fechado; esperando controle/EAS/assets."
-    },
-    {
-      "quando": "2026-09-13T20:20:12-03:00",
-      "texto": "Desafio #10 no PR #1 (756 pts, 1/2; liga local stub)."
     }
   ]
 }
