@@ -2,13 +2,17 @@
   "slug": "kiko",
   "nome": "Kiko",
   "projeto": "GameTrack",
-  "status": "parado",
-  "resumo": "Cortes 1.0 no PR #1 ok (21/68). Nada novo pra cortar. Mesmo bloqueio: Supabase pausado, domínio, legal, CADE.",
-  "proximo_passo": "Dias restaura o Gametrack no Supabase e manda dados legais + entitlement CADE + DNS.",
-  "bloqueio": "Supabase Gametrack INACTIVE. Depois: dados legais, CADE Account Holder, DNS gametrack.app.br.",
+  "status": "esperando_voce",
+  "resumo": "Cortes 1.0 no PR #1 ok (21/68). Nada novo pra cortar hoje; o resto depende do Dias.",
+  "proximo_passo": "Dias restaura o Gametrack no Supabase e manda dados legais, entitlement CADE e DNS do domínio.",
+  "bloqueio": "Restaurar o projeto Gametrack no Supabase (INACTIVE). Depois: dados legais, entitlement CADE no Account Holder, DNS/TLS de gametrack.app.br.",
   "progresso": 31,
-  "atualizado_em": "2026-10-15T09:52:00-03:00",
+  "atualizado_em": "2026-10-16T09:50:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-16T09:50:00-03:00",
+      "texto": "Ship 16/10: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem TLS/HTTP útil; legal e CADE no Dias."
+    },
     {
       "quando": "2026-10-15T09:52:00-03:00",
       "texto": "Ship 15/10: auditei LANCAMENTO na branch do PR #1 (21/68). FEATURES todas off. Nada pra cortar no binário. Supabase Gametrack ainda INACTIVE; domínio sem TLS/DNS útil; legal e CADE no Dias."
@@ -84,30 +88,6 @@
     {
       "quando": "2026-09-23T10:12:00-03:00",
       "texto": "Ship 23/09: auditei LANCAMENTO (21/68). Nada pra cortar no binário. Achado novo: projeto Supabase Gametrack pausado (INACTIVE). Domínio sem DNS; legal ainda RASCUNHO/placeholders; CADE no Account Holder."
-    },
-    {
-      "quando": "2026-09-22T09:59:38-03:00",
-      "texto": "Ship 22/09: auditei LANCAMENTO na branch do PR #1 — cortes FEATURES ok (21/68). Nada novo pra cortar sem Dias: domínio fora, legal com placeholders, CADE/IAP no Account Holder."
-    },
-    {
-      "quando": "2026-09-21T10:11:17-03:00",
-      "texto": "Ship 21/09: cold launch (timeout auth/fontes) e FEATURES.sugestoesIA off no PR #1. Sem device. Domínio/legal/CADE no Dias."
-    },
-    {
-      "quando": "2026-09-21T10:02:04-03:00",
-      "texto": "Ship diário 21/09: cold launch na fila; domínio e legal ainda bloqueados."
-    },
-    {
-      "quando": "2026-09-20T15:12:39-03:00",
-      "texto": "Retomada 20/09: parental/comunidade off; links GitHub Pages no app; painel atualizado. Sem device."
-    },
-    {
-      "quando": "2026-09-14T06:33:51-03:00",
-      "texto": "Comunidade off (FEATURES.comunidade). Sem device test."
-    },
-    {
-      "quando": "2026-09-13T16:34:01-03:00",
-      "texto": "PR gametrack#1: Enviar Pet, IA, Escolar, bloqueio <13."
     }
   ]
 }
