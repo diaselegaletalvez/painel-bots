@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Checagem 48h: zero novo stale; tom (~25,7d) já estava parado; nenhum arquivo faltando.",
-  "proximo_passo": "Rodar a health weekday das 10h15 e a próxima checagem 48h amanhã às 8h.",
+  "resumo": "Health weekday: mergeei #75 (rex 16/10, tirei do draft); bots.json já tinha todos os slugs; JSONs válidos; zero PR status aberta.",
+  "proximo_passo": "Rodar a checagem 48h amanhã às 8h e a próxima health weekday na segunda às 10h15.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-16T07:58:50-03:00",
+  "atualizado_em": "2026-10-16T10:20:48-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-16T10:20:48-03:00",
+      "texto": "Health weekday: mergeei #75 (rex 16/10, tirei do draft); bots.json já tinha todos os slugs; JSONs válidos; zero PR status aberta."
+    },
     {
       "quando": "2026-10-16T07:58:50-03:00",
       "texto": "Checagem 48h: zero novo stale; tom (~25,7d) já estava parado; nenhum arquivo faltando."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-09T07:54:11-03:00",
       "texto": "Checagem 48h: zero novo stale; tom (~18,7d) já estava parado."
-    },
-    {
-      "quando": "2026-10-08T14:57:02-03:00",
-      "texto": "Health weekday (rerun): a rotina das 10h15 falhou; mergeei #67 (rex, tirei do draft); bots.json já tinha todos os slugs; zero PR status aberta."
     }
   ]
 }
