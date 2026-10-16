@@ -7,8 +7,12 @@
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Macs offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 83,
-  "atualizado_em": "2026-10-15T09:55:24-03:00",
+  "atualizado_em": "2026-10-16T09:48:30-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-16T09:48:30-03:00",
+      "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; os dois Macs offline. Nada a avançar sem decisão."
+    },
     {
       "quando": "2026-10-15T09:55:24-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; os dois Macs offline. Nada a avançar sem decisão."
@@ -84,58 +88,6 @@
     {
       "quando": "2026-09-24T10:02:50-03:00",
       "texto": "Diário: Supabase do app Expo INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
-    },
-    {
-      "quando": "2026-09-23T10:20:30-03:00",
-      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
-    },
-    {
-      "quando": "2026-09-22T10:10:10-03:00",
-      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
-    },
-    {
-      "quando": "2026-09-21T10:16:27-03:00",
-      "texto": "Diário: Mac ainda offline; app Expo da fila sem smoke. Sem mudança de escopo."
-    },
-    {
-      "quando": "2026-09-20T20:18:05-03:00",
-      "texto": "README do app Expo da fila escrito. Smoke bloqueado: Mac offline."
-    },
-    {
-      "quando": "2026-09-20T20:17:45-03:00",
-      "texto": "Mentor CONGELADO (README). App Expo da fila promovido: inventário + DoD."
-    },
-    {
-      "quando": "2026-09-20T22:06:33-03:00",
-      "texto": "Revisão semanal: Claquete/ikly/triagem/Look360 avançaram; Mentor TERMINAR estagnado 111 dias — espera decisão."
-    },
-    {
-      "quando": "2026-09-20T15:20:00-03:00",
-      "texto": "Mentor inventariado: monólito 591KB, API sem key, mock — proponho CONGELAR."
-    },
-    {
-      "quando": "2026-09-20T15:12:00-03:00",
-      "texto": "Archive melisse+merlisse; Look360 congelado; Mentor promovido na fila."
-    },
-    {
-      "quando": "2026-09-14T06:33:00-03:00",
-      "texto": "Ikly smoke load OK no Mac; marcado FEITO. Ainda esperando decisões do Dias."
-    },
-    {
-      "quando": "2026-09-14T01:08:30-03:00",
-      "texto": "Diagnóstico look360 pronto; pedi decisão A/B/C ao Dias."
-    },
-    {
-      "quando": "2026-09-14T01:07:00-03:00",
-      "texto": "Triagem melisse/merlisse/lumenno: pedi archive dos dois duplicados."
-    },
-    {
-      "quando": "2026-09-13T20:12:00-03:00",
-      "texto": "Push Claquete v0.1.1 (7546c16); marcado FEITO no PENDENTES."
-    },
-    {
-      "quando": "2026-09-13T19:58:00-03:00",
-      "texto": "Claquete 0.1.1 implementado e build ok; Mac offline — push pendente."
     }
   ]
 }
