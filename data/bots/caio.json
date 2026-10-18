@@ -3,12 +3,16 @@
   "nome": "Caio",
   "projeto": "Projetos pendentes",
   "status": "esperando_voce",
-  "resumo": "Diário: bloqueio igual. Único TERMINAR parado; backend pausado + Macs offline.",
+  "resumo": "Revisão semanal: nada andou. Único TERMINAR parado há 28 dias; backend pausado + Macs offline.",
   "proximo_passo": "Dias decide: restaurar backend + ligar Mac pro smoke, ou CONGELAR o app da fila.",
   "bloqueio": "Backend do projeto atual pausado no Supabase; Macs offline. Precisa OK pra restaurar (pode ter custo) ou decisão de congelar.",
   "progresso": 83,
-  "atualizado_em": "2026-10-16T09:48:30-03:00",
+  "atualizado_em": "2026-10-18T18:56:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-18T18:56:00-03:00",
+      "texto": "Revisão semanal: nada andou na semana. Único TERMINAR sem toque há 28 dias (código desde junho); backend pausado + Macs offline seguem."
+    },
     {
       "quando": "2026-10-16T09:48:30-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; os dois Macs offline. Nada a avançar sem decisão."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-25T09:54:25-03:00",
       "texto": "Diário: reconfirmei bloqueio — Supabase do app Expo ainda INACTIVE; Mac ainda offline. Nada a avançar sem decisão."
-    },
-    {
-      "quando": "2026-09-24T10:02:50-03:00",
-      "texto": "Diário: Supabase do app Expo INACTIVE (pausado); Mac ainda offline. Smoke impossível sem restaurar backend + Mac."
     }
   ]
 }
