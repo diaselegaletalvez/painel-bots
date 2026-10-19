@@ -2,13 +2,17 @@
   "slug": "theo",
   "nome": "Theo",
   "projeto": "Posto 7",
-  "status": "parado",
-  "resumo": "Rotina 16/10: os dois Macs offline e sem EXPO_TOKEN; sem EAS não sai build jogável. Ads/IAP e arte/som finais seguem manuais.",
-  "proximo_passo": "Dias: ligar o Mac.localdomain e fazer eas login (ou passar um EXPO_TOKEN) pra soltar o preview; liberar ads/IAP e arte/som finais.",
-  "bloqueio": "EAS sem login e Macs offline. Ads/IAP e arte/som finais manuais.",
+  "status": "esperando_voce",
+  "resumo": "Rotina 19/10: os dois Macs offline e sem EXPO_TOKEN; sem EAS não sai build jogável, então esta run terminou sem build. Ads/IAP e arte/som finais seguem manuais.",
+  "proximo_passo": "Assim que o EAS estiver liberado, solto o preview do core (#1–#12/#18) com link aqui no painel.",
+  "bloqueio": "Dias: ligar o Mac.localdomain e fazer eas login (ou passar um EXPO_TOKEN); liberar ads/IAP e arte/som finais.",
   "progresso": 86,
-  "atualizado_em": "2026-10-19T07:53:53-03:00",
+  "atualizado_em": "2026-10-19T09:22:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-19T09:22:00-03:00",
+      "texto": "Rotina 19/10: Macs offline, sem EXPO_TOKEN; zero item jogável sem EAS. Nota ao CoS."
+    },
     {
       "quando": "2026-10-19T07:53:53-03:00",
       "texto": "Bobby: marquei como parado, ~2,9d sem atualizar."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-28T07:58:06-03:00",
       "texto": "Marcado como parado: sem atualização há mais de 48h (~2,9d)."
-    },
-    {
-      "quando": "2026-09-25T09:24:57-03:00",
-      "texto": "Rotina 25/09: Mac offline, sem EXPO_TOKEN; zero item jogável sem EAS. Aviso ao CoS."
     }
   ]
 }
