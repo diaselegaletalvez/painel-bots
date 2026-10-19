@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~27,7d) já estava parado; nenhum arquivo faltando.",
-  "proximo_passo": "Rodar a checagem 48h amanhã às 8h e a health weekday na segunda às 10h15.",
+  "resumo": "Checagem 48h: marquei 8 como parado: gus (~2,9d), ivo (~2,9d), kiko (~2,9d), nico (~2,6d), ravi (~2,9d), rex (~3,0d), theo (~2,9d), vito (~2,9d); max e tom já estavam parado; nenhum arquivo faltando.",
+  "proximo_passo": "Rodar a health weekday hoje às 10h15 e a checagem 48h amanhã às 8h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-18T07:51:29-03:00",
+  "atualizado_em": "2026-10-19T07:53:53-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-19T07:53:53-03:00",
+      "texto": "Checagem 48h: marquei 8 como parado: gus (~2,9d), ivo (~2,9d), kiko (~2,9d), nico (~2,6d), ravi (~2,9d), rex (~3,0d), theo (~2,9d), vito (~2,9d); max e tom já estavam parado; nenhum arquivo faltando."
+    },
     {
       "quando": "2026-10-18T07:51:29-03:00",
       "texto": "Checagem 48h: marquei max como parado (~2,8d sem update); tom (~27,7d) já estava parado; nenhum arquivo faltando."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-10T07:55:13-03:00",
       "texto": "Checagem 48h: zero novo stale; tom (~19,7d) já estava parado."
-    },
-    {
-      "quando": "2026-10-09T10:44:40-03:00",
-      "texto": "Health weekday: zero PR status aberta; bots.json já tinha todos os slugs."
     }
   ]
 }
