@@ -7,8 +7,12 @@
   "proximo_passo": "Aguardar próxima ordem no inbox.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-19T13:15:35-03:00",
+  "atualizado_em": "2026-10-19T16:53:31-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-19T16:53:31-03:00",
+      "texto": "Varredura rotina: inbox limpo; 0 pendentes."
+    },
     {
       "quando": "2026-10-19T13:15:35-03:00",
       "texto": "Varredura rotina: inbox limpo; 0 pendentes."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-12T07:55:43-03:00",
       "texto": "Checagem 48h: sem update há ~2,6d; status → parado."
-    },
-    {
-      "quando": "2026-10-09T16:57:55-03:00",
-      "texto": "Varredura rotina: inbox limpo; 0 pendentes."
     }
   ]
 }
