@@ -2,13 +2,25 @@
   "slug": "rex",
   "nome": "Rex",
   "projeto": "Mac, segurança e Espaço",
-  "status": "parado",
-  "resumo": "Checagem 16/10: Mac offline. Snapshot 51/228 (−6 vs 15/10).",
+  "status": "esperando_voce",
+  "resumo": "Checagem 19/10: Mac offline. Snapshot 53/228 (−4 vs 18/10).",
   "proximo_passo": "Opcional: ./lancar.sh 2.2 no Mac; merge espaco#1 se ainda fizer sentido.",
-  "bloqueio": null,
+  "bloqueio": "Dias: rodar ./lancar.sh 2.2 no Mac pra lançar a 2.2.",
   "progresso": 90,
-  "atualizado_em": "2026-10-19T07:53:53-03:00",
+  "atualizado_em": "2026-10-19T07:58:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-19T07:58:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 53/228 (−4 vs 18/10). Sem alerta."
+    },
+    {
+      "quando": "2026-10-18T07:59:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 57/228 (+8 vs 17/10). Sem alerta."
+    },
+    {
+      "quando": "2026-10-17T07:58:00-03:00",
+      "texto": "Checagem diária: Mac offline. Snapshot 49/228 (−2 vs 16/10). Queda desacelerou, mas ainda vale olhar o que comeu disco."
+    },
     {
       "quando": "2026-10-19T07:53:53-03:00",
       "texto": "Bobby: marquei como parado, ~3,0d sem atualizar."
@@ -76,18 +88,6 @@
     {
       "quando": "2026-10-02T07:55:00-03:00",
       "texto": "Checagem diária: Mac offline. Snapshot 99/228 (+44 vs 01/10). Sem alerta."
-    },
-    {
-      "quando": "2026-10-01T07:53:00-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 55/228 (igual a 30/09). Vale olhar o que comeu disco."
-    },
-    {
-      "quando": "2026-09-30T07:53:00-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 55/228 (igual a 29/09). Vale olhar o que comeu disco."
-    },
-    {
-      "quando": "2026-09-29T07:56:00-03:00",
-      "texto": "Checagem diária: Mac offline. Snapshot 55/228 (caiu de 58). Vale olhar o que comeu disco."
     }
   ]
 }
