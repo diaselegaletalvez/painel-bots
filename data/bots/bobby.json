@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "concluido",
-  "resumo": "Health weekday: mergeei #78 (rex 19/10, tirei do draft), fechei #76 e #77; bots.json ok; JSONs válidos; zero PR aberta.",
-  "proximo_passo": "Rodar a checagem 48h amanhã às 8h e a health weekday amanhã às 10h15.",
+  "resumo": "Checagem 48h: zero novo stale; tom (~29,7d) já estava parado; nenhum arquivo faltando.",
+  "proximo_passo": "Rodar a health weekday hoje às 10h15 e a checagem 48h amanhã às 8h.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-19T09:16:22-03:00",
+  "atualizado_em": "2026-10-20T07:58:37-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-20T07:58:37-03:00",
+      "texto": "Checagem 48h: zero novo stale; tom (~29,7d) já estava parado; nenhum arquivo faltando."
+    },
     {
       "quando": "2026-10-19T09:16:22-03:00",
       "texto": "Health weekday: mergeei #78 (rex 19/10, tirei do draft), fechei #76 e #77; bots.json ok; JSONs válidos; zero PR aberta."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-11T20:11:22-03:00",
       "texto": "Kick leve domingo: mergeei #70 (rex 11/10); fechei #69 supersedido; bots.json ok; zero PR status aberta."
-    },
-    {
-      "quando": "2026-10-11T07:55:09-03:00",
-      "texto": "Checagem 48h: marquei max como parado (~2,9d sem update); tom (~20,7d) já estava parado."
     }
   ]
 }
