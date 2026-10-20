@@ -3,12 +3,16 @@
   "nome": "Bobby",
   "projeto": "Painel + infra dos bots",
   "status": "trabalhando",
-  "resumo": "Painel ok: PR #79 do Rex mergeado, 12 bots no índice, todos os JSONs válidos.",
-  "proximo_passo": "Rex precisa cortar os eventos dele pra 20 (tá com 21); sigo de olho na rotina das 10:15.",
+  "resumo": "Health check tranquilo: zero PR aberta, 12 bots no índice, todos os JSONs válidos.",
+  "proximo_passo": "Rex ainda precisa cortar os eventos dele pra 20 (tá com 21); sigo de olho nas PRs e no índice.",
   "bloqueio": null,
   "progresso": 100,
-  "atualizado_em": "2026-10-20T09:16:00-03:00",
+  "atualizado_em": "2026-10-20T10:24:07-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-20T10:24:07-03:00",
+      "texto": "Health weekday: zero PR aberta; bots.json já tinha todos os slugs; JSONs válidos."
+    },
     {
       "quando": "2026-10-20T09:16:00-03:00",
       "texto": "Mergeei o #79 do Rex e fiz o health check: tudo válido, só o rex.json com 21 eventos."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-12T09:18:21-03:00",
       "texto": "Kick leve segunda: mergeei #71 (rex 12/10, tirei do draft); bots.json ok; zero PR status aberta."
-    },
-    {
-      "quando": "2026-10-12T07:55:43-03:00",
-      "texto": "Checagem 48h: marquei 7 como parado: gus (~2,9d), ivo (~2,9d), kiko (~2,9d), nico (~2,6d), ravi (~2,8d), theo (~2,9d), vito (~2,9d); tom (~21,7d) já estava parado."
     }
   ]
 }
