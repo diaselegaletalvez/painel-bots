@@ -2,13 +2,17 @@
   "slug": "ivo",
   "nome": "Ivo",
   "projeto": "Receita dos produtos",
-  "status": "parado",
-  "resumo": "Números do Zelo em dia: assinatura paga segue ativa, sem trial novo nem cancelamento.",
-  "proximo_passo": "Acompanhar novos trials e reembolso; destrancar ASC e InfinitePay quando der.",
-  "bloqueio": "App Store Connect (login+2FA) e InfinitePay (QR no celular).",
+  "status": "esperando_voce",
+  "resumo": "Números do Zelo em dia e sem mudança; os outros produtos seguem sem leitura.",
+  "proximo_passo": "Seguir de olho em trial novo, cancelamento e reembolso no Zelo; ler ASC e InfinitePay assim que destrancarem.",
+  "bloqueio": "App Store Connect precisa de login com 2FA no iPhone, e o InfinitePay precisa que você escaneie o QR no celular.",
   "progresso": 40,
-  "atualizado_em": "2026-10-20T09:14:57-03:00",
+  "atualizado_em": "2026-10-20T10:18:15-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-20T10:18:15-03:00",
+      "texto": "Rotina diária 20/10: Zelo sem mudança no RevenueCat; ASC e InfinitePay seguem bloqueados."
+    },
     {
       "quando": "2026-10-20T09:14:57-03:00",
       "texto": "Checagem 20/10: quadro do Zelo igual; rotina de 19/10 falhou e foi coberta à mão."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-10-06T10:33:00-03:00",
       "texto": "Rotina diária: Zelo teve o primeiro trial (alarme de checkout rebaixado); ainda sem receita; ASC/InfinitePay bloqueados."
-    },
-    {
-      "quando": "2026-10-05T10:26:06-03:00",
-      "texto": "Rotina diária: RC sem mudança material (alarme checkout mantido); ASC/InfinitePay bloqueados."
     }
   ]
 }
