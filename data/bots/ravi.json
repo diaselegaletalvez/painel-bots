@@ -7,8 +7,12 @@
   "proximo_passo": "Dias: revisar os PRs #9 e #10 do marketing e decidir o plano Essencial; depois seguir o roteiro de captura do CRIATIVOS e entregar os PNGs.",
   "bloqueio": "Arte dos screenshots, revisão dos PRs #9 e #10 e decisão do plano Essencial. Sem isso não publico na ASC nem proponho ads.",
   "progresso": 94,
-  "atualizado_em": "2026-10-19T11:24:00-03:00",
+  "atualizado_em": "2026-10-20T11:16:00-03:00",
   "eventos": [
+    {
+      "quando": "2026-10-20T11:16:00-03:00",
+      "texto": "Checagem diária: ficha live igual, rivais sem mudança de nome. Esperando PRs #9 e #10 e a arte; status → esperando você."
+    },
     {
       "quando": "2026-10-19T11:24:00-03:00",
       "texto": "Checagem diária: ficha live igual, rivais sem mudança de nome. Esperando PRs #9 e #10 e a arte; status → esperando você."
@@ -84,10 +88,6 @@
     {
       "quando": "2026-09-30T09:03:00-03:00",
       "texto": "Check semanal: ficha live igual ao ASO; Kids360 mudou subtítulo; campanha dormindo e sem gasto."
-    },
-    {
-      "quando": "2026-09-29T11:29:15-03:00",
-      "texto": "Checagem diária: ficha live e rivais iguais. Continua bloqueado na arte."
     }
   ]
 }
